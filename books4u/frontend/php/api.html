@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Buscar informações do livro por ISBN</title>
+</head>
+<body>
+	<form METHOD="POST">
+		<label for="isbn">ISBN:</label>
+		<input type="text" id="isbn" name="isbn">
+		<br>
+		<label for="titulo">Título:</label>
+		<input type="text" id="titulo" name="titulo" >
+		<br>
+		<label for="autores">Autor (es):</label>
+		<input type="text" id="autores" name="autores">
+		<br>
+		<label for="editora">Editora:</label>
+		<input type="text" id="editora" name="editora" >
+		<br>
+		<label for="ano">Ano de publicação:</label>
+		<input type="text" id="ano" name="ano" >
+		<br>
+		<label for="paginas">Número de páginas:</label>
+		<input type="text" id="paginas" name="paginas">
+        <br>
+		<label>Matricula Aluno</label>
+		<input type="number" id="matricula" name="matricula">
+		<br>
+        <input type="submit" name="submit">
+	</form>
+
+	<script>
+		const form = document.querySelector('form');
+		const isbnInput = document.querySelector('#isbn');
+		const tituloInput = document.querySelector('#titulo');
+		const autoresInput = document.querySelector('#autores');
+		const editoraInput = document.querySelector('#editora');
+		const anoInput = document.querySelector('#ano');
+		const paginasInput = document.querySelector('#paginas');
+
+		isbnInput.addEventListener('input', () => {
+			const isbn = isbnInput.value.replace(/[^0-9]/g, ''); // remove caracteres não numéricos
+			if (isbn.length === 10 || isbn.length === 13) {
+				const url = `https://brasilapi.com.br/api/isbn/v1/${isbn}`;
+
+				fetch(url)
+					.then(response => response.json())
+					.then(data => {
+						if (data.title) {
+							tituloInput.value = data.title;
+						}
+						if (data.authors) {
+							autoresInput.value = data.authors.map(author => author.name).join(',');
+						}
+						if (data.publishers) {
+							editoraInput.value = data.publishers[0];
+						}
+						if (data.publish_date) {
+							anoInput.value = data.publish_date;
+						}
+						if (data.number_of_pages) {
+							paginasInput.value = data.number_of_pages;
+						}
+					})
+					.catch(error => console.error(error));
+			} else {
+				tituloInput.value = '';
+				autoresInput.value = '';
+				editoraInput.value = '';
+				anoInput.value = '';
+				paginasInput.value = '';
+			}
+		});
+	</script>
+</body>
+</html>
