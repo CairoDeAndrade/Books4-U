@@ -1,0 +1,110 @@
+[
+ {
+  "id_genre": 1,
+  "name_genre": "GEOGRAFIA"
+ },
+ {
+  "id_genre": 2,
+  "name_genre": "HISTÓRIA"
+ },
+ {
+  "id_genre": 0,
+  "name_genre": "NÃO DEFINIDA"
+ },
+ {
+  "id_genre": 4,
+  "name_genre": "LITERATURA EXTRANGEIRA"
+ },
+ {
+  "id_genre": 5,
+  "name_genre": "LITERATURA BRASILEIRA"
+ },
+ {
+  "id_genre": 6,
+  "name_genre": "PORTUGUES"
+ },
+ {
+  "id_genre": 7,
+  "name_genre": "SOCIOLOGIA"
+ },
+ {
+  "id_genre": 22,
+  "name_genre": "FILOSOFIA"
+ },
+ {
+  "id_genre": 23,
+  "name_genre": "EDUCAÇÃO"
+ },
+ {
+  "id_genre": 24,
+  "name_genre": "SOCIOLOGIA"
+ },
+ {
+  "id_genre": 25,
+  "name_genre": "HISTORIA"
+ },
+ {
+  "id_genre": 26,
+  "name_genre": "FISICA"
+ },
+ {
+  "id_genre": 27,
+  "name_genre": "POLÍTICA"
+ },
+ {
+  "id_genre": 28,
+  "name_genre": "CIÊNCIAS"
+ },
+ {
+  "id_genre": 29,
+  "name_genre": "ECONOMIA"
+ },
+ {
+  "id_genre": 30,
+  "name_genre": "DIREITO"
+ },
+ {
+  "id_genre": 31,
+  "name_genre": "QUIMICA"
+ },
+ {
+  "id_genre": 32,
+  "name_genre": "COMUNICAÇÃO SOCIAL"
+ },
+ {
+  "id_genre": 33,
+  "name_genre": "ESPANHOL"
+ },
+ {
+  "id_genre": 34,
+  "name_genre": "INGLÊS"
+ },
+ {
+  "id_genre": 35,
+  "name_genre": "ARTE"
+ },
+ {
+  "id_genre": 36,
+  "name_genre": "MATEMÁTICA"
+ },
+ {
+  "id_genre": 37,
+  "name_genre": "BIOLOGIA"
+ },
+ {
+  "id_genre": 38,
+  "name_genre": "PSICOLOGIA"
+ },
+ {
+  "id_genre": 39,
+  "name_genre": "EDUCAÇÃO FÍSICA"
+ },
+ {
+  "id_genre": 40,
+  "name_genre": "ADMINISTRAÇÃO"
+ },
+ {
+  "id_genre": 41,
+  "name_genre": "TEATRO"
+ }
+]

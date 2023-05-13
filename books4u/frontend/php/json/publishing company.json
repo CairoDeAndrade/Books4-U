@@ -1,0 +1,2254 @@
+[
+ {
+  "id_publishing_company": 1,
+  "name_publishing_company": "PEARSON"
+ },
+ {
+  "id_publishing_company": 2,
+  "name_publishing_company": "MARVEL"
+ },
+ {
+  "id_publishing_company": 4,
+  "name_publishing_company": "VOZES NOBILIS"
+ },
+ {
+  "id_publishing_company": 0,
+  "name_publishing_company": "NÃO DEFINIDA"
+ },
+ {
+  "id_publishing_company": 6,
+  "name_publishing_company": "SEXTANTE"
+ },
+ {
+  "id_publishing_company": 8,
+  "name_publishing_company": "EDITORA RECORD"
+ },
+ {
+  "id_publishing_company": 9,
+  "name_publishing_company": "FTD"
+ },
+ {
+  "id_publishing_company": 10,
+  "name_publishing_company": "GRYPHUS"
+ },
+ {
+  "id_publishing_company": 7,
+  "name_publishing_company": "HEDRA"
+ },
+ {
+  "id_publishing_company": 11,
+  "name_publishing_company": "INTRINSECA"
+ },
+ {
+  "id_publishing_company": 3,
+  "name_publishing_company": "VERUS EDITORA"
+ },
+ {
+  "id_publishing_company": 12,
+  "name_publishing_company": "PÉ DA LETRA"
+ },
+ {
+  "id_publishing_company": 13,
+  "name_publishing_company": "GALERA RECORD"
+ },
+ {
+  "id_publishing_company": 14,
+  "name_publishing_company": "LANDMARK"
+ },
+ {
+  "id_publishing_company": 15,
+  "name_publishing_company": "FABRICA 231"
+ },
+ {
+  "id_publishing_company": 17,
+  "name_publishing_company": "CONFIANÇA"
+ },
+ {
+  "id_publishing_company": 18,
+  "name_publishing_company": "BR EDUCAÇÃO"
+ },
+ {
+  "id_publishing_company": 23,
+  "name_publishing_company": "FÁBRICA231"
+ },
+ {
+  "id_publishing_company": 25,
+  "name_publishing_company": "GALERA"
+ },
+ {
+  "id_publishing_company": 26,
+  "name_publishing_company": "RECORD"
+ },
+ {
+  "id_publishing_company": 28,
+  "name_publishing_company": "GLOBOLIVROS"
+ },
+ {
+  "id_publishing_company": 29,
+  "name_publishing_company": "FANTÁSTICA ROCCO"
+ },
+ {
+  "id_publishing_company": 30,
+  "name_publishing_company": "UNIVERSO DOS LIVROS"
+ },
+ {
+  "id_publishing_company": 33,
+  "name_publishing_company": "PERSPECTIVA"
+ },
+ {
+  "id_publishing_company": 16,
+  "name_publishing_company": "ROCCO"
+ },
+ {
+  "id_publishing_company": 36,
+  "name_publishing_company": "FARO EDITORIAL"
+ },
+ {
+  "id_publishing_company": 37,
+  "name_publishing_company": "SEGUINTE"
+ },
+ {
+  "id_publishing_company": 38,
+  "name_publishing_company": "T&S EDITORES"
+ },
+ {
+  "id_publishing_company": 40,
+  "name_publishing_company": "PENGUIN COMPANHIA"
+ },
+ {
+  "id_publishing_company": 41,
+  "name_publishing_company": "HUM. PUBLICAÇÕES"
+ },
+ {
+  "id_publishing_company": 42,
+  "name_publishing_company": "ILELIS EDITORA"
+ },
+ {
+  "id_publishing_company": 43,
+  "name_publishing_company": "MELHORAMENTOS"
+ },
+ {
+  "id_publishing_company": 44,
+  "name_publishing_company": "NOVALEXANDRIA"
+ },
+ {
+  "id_publishing_company": 45,
+  "name_publishing_company": "PANDA BOOKS"
+ },
+ {
+  "id_publishing_company": 46,
+  "name_publishing_company": "LEYA"
+ },
+ {
+  "id_publishing_company": 47,
+  "name_publishing_company": "EDITORA ÁTICA"
+ },
+ {
+  "id_publishing_company": 50,
+  "name_publishing_company": "CASA DA PALAVRA"
+ },
+ {
+  "id_publishing_company": 48,
+  "name_publishing_company": "NOVO CONCEITO"
+ },
+ {
+  "id_publishing_company": 51,
+  "name_publishing_company": "VERGANA E RIBA EDITORAS"
+ },
+ {
+  "id_publishing_company": 53,
+  "name_publishing_company": "EDITORA CONTEXTO"
+ },
+ {
+  "id_publishing_company": 39,
+  "name_publishing_company": "COLOFON"
+ },
+ {
+  "id_publishing_company": 54,
+  "name_publishing_company": "GALERA JUNIOR"
+ },
+ {
+  "id_publishing_company": 55,
+  "name_publishing_company": "EDITORA MELHORAMENTOS"
+ },
+ {
+  "id_publishing_company": 56,
+  "name_publishing_company": "LEPM EDITORES"
+ },
+ {
+  "id_publishing_company": 57,
+  "name_publishing_company": "BELASLETRAS"
+ },
+ {
+  "id_publishing_company": 58,
+  "name_publishing_company": "EDITORA DA PONTE"
+ },
+ {
+  "id_publishing_company": 59,
+  "name_publishing_company": "EDITORA 34"
+ },
+ {
+  "id_publishing_company": 60,
+  "name_publishing_company": "SABER E LER"
+ },
+ {
+  "id_publishing_company": 61,
+  "name_publishing_company": "AUTÊNTICA"
+ },
+ {
+  "id_publishing_company": 62,
+  "name_publishing_company": "ILUMINURAS"
+ },
+ {
+  "id_publishing_company": 63,
+  "name_publishing_company": "EDITORA SARAIVA"
+ },
+ {
+  "id_publishing_company": 65,
+  "name_publishing_company": "BIRUTA"
+ },
+ {
+  "id_publishing_company": 66,
+  "name_publishing_company": "PAVIO"
+ },
+ {
+  "id_publishing_company": 67,
+  "name_publishing_company": "ROCCO JOVENS LEITORES"
+ },
+ {
+  "id_publishing_company": 68,
+  "name_publishing_company": "DUBOLSINHO"
+ },
+ {
+  "id_publishing_company": 69,
+  "name_publishing_company": "WMF MARTINS FONTES"
+ },
+ {
+  "id_publishing_company": 70,
+  "name_publishing_company": "JPA"
+ },
+ {
+  "id_publishing_company": 71,
+  "name_publishing_company": "FUNDAMENTO"
+ },
+ {
+  "id_publishing_company": 72,
+  "name_publishing_company": "TEXTO EDITORES"
+ },
+ {
+  "id_publishing_company": 73,
+  "name_publishing_company": "GLOBO KIDS"
+ },
+ {
+  "id_publishing_company": 74,
+  "name_publishing_company": "EDITORA SCIPIONE"
+ },
+ {
+  "id_publishing_company": 75,
+  "name_publishing_company": "EDITORA ROVELLE"
+ },
+ {
+  "id_publishing_company": 76,
+  "name_publishing_company": "GLOBAL EDITORA"
+ },
+ {
+  "id_publishing_company": 77,
+  "name_publishing_company": "RICHMOND"
+ },
+ {
+  "id_publishing_company": 78,
+  "name_publishing_company": "PAPIRUS 7 MARES"
+ },
+ {
+  "id_publishing_company": 79,
+  "name_publishing_company": "EDITORA MOITARÁ"
+ },
+ {
+  "id_publishing_company": 80,
+  "name_publishing_company": "PALLAS"
+ },
+ {
+  "id_publishing_company": 82,
+  "name_publishing_company": "DIMENSÃO"
+ },
+ {
+  "id_publishing_company": 83,
+  "name_publishing_company": "EDITORA DUMMAR"
+ },
+ {
+  "id_publishing_company": 84,
+  "name_publishing_company": "EDITORAREVIRAVOLTA"
+ },
+ {
+  "id_publishing_company": 85,
+  "name_publishing_company": "LÊ"
+ },
+ {
+  "id_publishing_company": 86,
+  "name_publishing_company": "EDITORA NOVA FRONTEIRA"
+ },
+ {
+  "id_publishing_company": 89,
+  "name_publishing_company": "VALE DAS LETRAS"
+ },
+ {
+  "id_publishing_company": 90,
+  "name_publishing_company": "ALIS"
+ },
+ {
+  "id_publishing_company": 91,
+  "name_publishing_company": "TIMBÓ"
+ },
+ {
+  "id_publishing_company": 92,
+  "name_publishing_company": "NOVA LETRA"
+ },
+ {
+  "id_publishing_company": 93,
+  "name_publishing_company": "ALVORADA"
+ },
+ {
+  "id_publishing_company": 95,
+  "name_publishing_company": "ZAHAR"
+ },
+ {
+  "id_publishing_company": 96,
+  "name_publishing_company": "ALFAGUARA"
+ },
+ {
+  "id_publishing_company": 97,
+  "name_publishing_company": "GIRAFINHA"
+ },
+ {
+  "id_publishing_company": 98,
+  "name_publishing_company": "BRINQUE-BOOK"
+ },
+ {
+  "id_publishing_company": 99,
+  "name_publishing_company": "PAULINAS"
+ },
+ {
+  "id_publishing_company": 100,
+  "name_publishing_company": "EDIOURO PUBLICAÇÕES "
+ },
+ {
+  "id_publishing_company": 101,
+  "name_publishing_company": "DISTR RECORD"
+ },
+ {
+  "id_publishing_company": 103,
+  "name_publishing_company": "FGV EDITORA"
+ },
+ {
+  "id_publishing_company": 105,
+  "name_publishing_company": "PARALELA"
+ },
+ {
+  "id_publishing_company": 106,
+  "name_publishing_company": "JO"
+ },
+ {
+  "id_publishing_company": 107,
+  "name_publishing_company": "SIEDUC"
+ },
+ {
+  "id_publishing_company": 108,
+  "name_publishing_company": "ARQUEIRO EDITORA"
+ },
+ {
+  "id_publishing_company": 109,
+  "name_publishing_company": "JOSÉ OLYMPIO EDITORA"
+ },
+ {
+  "id_publishing_company": 110,
+  "name_publishing_company": "A PÁGINA"
+ },
+ {
+  "id_publishing_company": 111,
+  "name_publishing_company": "CAMINHO DE DENTRO EDIÇÕES"
+ },
+ {
+  "id_publishing_company": 112,
+  "name_publishing_company": "PAULUS"
+ },
+ {
+  "id_publishing_company": 113,
+  "name_publishing_company": "AGENCIA O GLOBO"
+ },
+ {
+  "id_publishing_company": 114,
+  "name_publishing_company": "ESTRELA CULTURAL"
+ },
+ {
+  "id_publishing_company": 115,
+  "name_publishing_company": "COMBOIO DE CORDA"
+ },
+ {
+  "id_publishing_company": 116,
+  "name_publishing_company": "EDELBRA"
+ },
+ {
+  "id_publishing_company": 117,
+  "name_publishing_company": "ESCALA INTEGRADA"
+ },
+ {
+  "id_publishing_company": 119,
+  "name_publishing_company": "MARTIN CLARET"
+ },
+ {
+  "id_publishing_company": 120,
+  "name_publishing_company": "SM"
+ },
+ {
+  "id_publishing_company": 121,
+  "name_publishing_company": "RODOPIO"
+ },
+ {
+  "id_publishing_company": 122,
+  "name_publishing_company": "PAZ E TERRA"
+ },
+ {
+  "id_publishing_company": 123,
+  "name_publishing_company": "SINGULAR"
+ },
+ {
+  "id_publishing_company": 125,
+  "name_publishing_company": "CALLIS"
+ },
+ {
+  "id_publishing_company": 126,
+  "name_publishing_company": "COMPANHIA DAS LETRAS"
+ },
+ {
+  "id_publishing_company": 127,
+  "name_publishing_company": "FAROL LITERÁRIO"
+ },
+ {
+  "id_publishing_company": 128,
+  "name_publishing_company": "EDITORA REVIRAVOLTA"
+ },
+ {
+  "id_publishing_company": 130,
+  "name_publishing_company": "EDITORA RIDEEL"
+ },
+ {
+  "id_publishing_company": 132,
+  "name_publishing_company": "OS OLHOS DO DRAGAO"
+ },
+ {
+  "id_publishing_company": 88,
+  "name_publishing_company": "OBJETIVA"
+ },
+ {
+  "id_publishing_company": 135,
+  "name_publishing_company": "INSTANTE"
+ },
+ {
+  "id_publishing_company": 145,
+  "name_publishing_company": "EDITORA MODERNA"
+ },
+ {
+  "id_publishing_company": 146,
+  "name_publishing_company": "PRUMO"
+ },
+ {
+  "id_publishing_company": 147,
+  "name_publishing_company": "EDITORA BELAS LETRAS"
+ },
+ {
+  "id_publishing_company": 148,
+  "name_publishing_company": "EDIPRO"
+ },
+ {
+  "id_publishing_company": 149,
+  "name_publishing_company": "PLANETA"
+ },
+ {
+  "id_publishing_company": 150,
+  "name_publishing_company": "DARKSIDE"
+ },
+ {
+  "id_publishing_company": 151,
+  "name_publishing_company": "GOLDEN BOOKS"
+ },
+ {
+  "id_publishing_company": 152,
+  "name_publishing_company": "BERLENDIS & VERTECCHIA"
+ },
+ {
+  "id_publishing_company": 153,
+  "name_publishing_company": "DEVIR"
+ },
+ {
+  "id_publishing_company": 154,
+  "name_publishing_company": "RAPOSA VERMELHA"
+ },
+ {
+  "id_publishing_company": 155,
+  "name_publishing_company": "NOVA FRONTEIRA"
+ },
+ {
+  "id_publishing_company": 156,
+  "name_publishing_company": "SUMA DE LETRAS"
+ },
+ {
+  "id_publishing_company": 157,
+  "name_publishing_company": "EDITORA SCHWARCZ"
+ },
+ {
+  "id_publishing_company": 159,
+  "name_publishing_company": "BEST SELLER"
+ },
+ {
+  "id_publishing_company": 160,
+  "name_publishing_company": "VIDA MELHOR"
+ },
+ {
+  "id_publishing_company": 161,
+  "name_publishing_company": "CRIANÇA CULTURAL"
+ },
+ {
+  "id_publishing_company": 162,
+  "name_publishing_company": "CIRANDA CULTURAL"
+ },
+ {
+  "id_publishing_company": 164,
+  "name_publishing_company": "SOCIEDADE LITERÁRIA"
+ },
+ {
+  "id_publishing_company": 165,
+  "name_publishing_company": "CIVILIZAÇÃO BRASILEIRA"
+ },
+ {
+  "id_publishing_company": 166,
+  "name_publishing_company": "FAROL"
+ },
+ {
+  "id_publishing_company": 167,
+  "name_publishing_company": "EDIPASS"
+ },
+ {
+  "id_publishing_company": 168,
+  "name_publishing_company": "NOVO SECULO"
+ },
+ {
+  "id_publishing_company": 169,
+  "name_publishing_company": "ARMAZÉM DA CULTURA"
+ },
+ {
+  "id_publishing_company": 170,
+  "name_publishing_company": "EDITORA LETRAS BRASILEIRA"
+ },
+ {
+  "id_publishing_company": 171,
+  "name_publishing_company": "UNO"
+ },
+ {
+  "id_publishing_company": 172,
+  "name_publishing_company": "BESOURO BOX"
+ },
+ {
+  "id_publishing_company": 134,
+  "name_publishing_company": "BERTRAND BRASIL"
+ },
+ {
+  "id_publishing_company": 173,
+  "name_publishing_company": "SALAMANDRA"
+ },
+ {
+  "id_publishing_company": 175,
+  "name_publishing_company": "EDITORA DIMENSÃO"
+ },
+ {
+  "id_publishing_company": 176,
+  "name_publishing_company": "MODERNA"
+ },
+ {
+  "id_publishing_company": 180,
+  "name_publishing_company": "CAMERON"
+ },
+ {
+  "id_publishing_company": 184,
+  "name_publishing_company": "GUTENBERG"
+ },
+ {
+  "id_publishing_company": 185,
+  "name_publishing_company": "BRASILEITURA"
+ },
+ {
+  "id_publishing_company": 186,
+  "name_publishing_company": "LETRAS BRASILEIRAS"
+ },
+ {
+  "id_publishing_company": 187,
+  "name_publishing_company": "CONRAD"
+ },
+ {
+  "id_publishing_company": 189,
+  "name_publishing_company": "IN PACTO"
+ },
+ {
+  "id_publishing_company": 190,
+  "name_publishing_company": "EDITORA ANZOL"
+ },
+ {
+  "id_publishing_company": 191,
+  "name_publishing_company": "PALAVRAS"
+ },
+ {
+  "id_publishing_company": 192,
+  "name_publishing_company": "MARTINS FONTES"
+ },
+ {
+  "id_publishing_company": 193,
+  "name_publishing_company": "FONTANAR"
+ },
+ {
+  "id_publishing_company": 194,
+  "name_publishing_company": "MAZA EDIÇÕES"
+ },
+ {
+  "id_publishing_company": 195,
+  "name_publishing_company": "CLÁSSICOS NACIONAL"
+ },
+ {
+  "id_publishing_company": 196,
+  "name_publishing_company": "EDITORA DO BRASIL"
+ },
+ {
+  "id_publishing_company": 197,
+  "name_publishing_company": "CIA. DE LETRAS"
+ },
+ {
+  "id_publishing_company": 198,
+  "name_publishing_company": "HAPER COLLINS"
+ },
+ {
+  "id_publishing_company": 200,
+  "name_publishing_company": "BOA VIAGEM"
+ },
+ {
+  "id_publishing_company": 202,
+  "name_publishing_company": "ROVELLE"
+ },
+ {
+  "id_publishing_company": 204,
+  "name_publishing_company": "NOVA DIDÁTICA"
+ },
+ {
+  "id_publishing_company": 205,
+  "name_publishing_company": "CLAROENIGMA"
+ },
+ {
+  "id_publishing_company": 207,
+  "name_publishing_company": "DCL DIFUSÃO C. DO LIVRO"
+ },
+ {
+  "id_publishing_company": 208,
+  "name_publishing_company": "ASTRAL CULTURAL"
+ },
+ {
+  "id_publishing_company": 209,
+  "name_publishing_company": "DIBRA"
+ },
+ {
+  "id_publishing_company": 211,
+  "name_publishing_company": "AGIR"
+ },
+ {
+  "id_publishing_company": 212,
+  "name_publishing_company": "CORTEZ EDITORA"
+ },
+ {
+  "id_publishing_company": 213,
+  "name_publishing_company": "CHAMPAGNAT"
+ },
+ {
+  "id_publishing_company": 158,
+  "name_publishing_company": "ARTES E OFÍCIOS"
+ },
+ {
+  "id_publishing_company": 215,
+  "name_publishing_company": "ENTRE LINHAS"
+ },
+ {
+  "id_publishing_company": 216,
+  "name_publishing_company": "PEIRÓPOLIS"
+ },
+ {
+  "id_publishing_company": 217,
+  "name_publishing_company": "CRIADEIRA LIVROS"
+ },
+ {
+  "id_publishing_company": 218,
+  "name_publishing_company": "FOLIA DE LETRAS"
+ },
+ {
+  "id_publishing_company": 219,
+  "name_publishing_company": "ESCARLATE"
+ },
+ {
+  "id_publishing_company": 220,
+  "name_publishing_company": "LGE  EDITORA"
+ },
+ {
+  "id_publishing_company": 221,
+  "name_publishing_company": "EDITORA PITANGUÁ"
+ },
+ {
+  "id_publishing_company": 222,
+  "name_publishing_company": "EDITORA DA FURB"
+ },
+ {
+  "id_publishing_company": 223,
+  "name_publishing_company": "FB PUBLICAÇÕES"
+ },
+ {
+  "id_publishing_company": 224,
+  "name_publishing_company": "EDITORA MEDIAÇÃO"
+ },
+ {
+  "id_publishing_company": 225,
+  "name_publishing_company": "FIMAC"
+ },
+ {
+  "id_publishing_company": 226,
+  "name_publishing_company": "APRENDE BRASIL"
+ },
+ {
+  "id_publishing_company": 227,
+  "name_publishing_company": "AVALIA EDUCACIONAL"
+ },
+ {
+  "id_publishing_company": 228,
+  "name_publishing_company": "JOAQUIM"
+ },
+ {
+  "id_publishing_company": 229,
+  "name_publishing_company": "QUINTETO"
+ },
+ {
+  "id_publishing_company": 230,
+  "name_publishing_company": "MAXI"
+ },
+ {
+  "id_publishing_company": 231,
+  "name_publishing_company": "NORDICA"
+ },
+ {
+  "id_publishing_company": 232,
+  "name_publishing_company": "JC EDITORA"
+ },
+ {
+  "id_publishing_company": 233,
+  "name_publishing_company": "IBEP"
+ },
+ {
+  "id_publishing_company": 234,
+  "name_publishing_company": "CULTRIX"
+ },
+ {
+  "id_publishing_company": 235,
+  "name_publishing_company": "EDITORA GAIVOTA"
+ },
+ {
+  "id_publishing_company": 236,
+  "name_publishing_company": "SPACCA"
+ },
+ {
+  "id_publishing_company": 237,
+  "name_publishing_company": "SOWIILO EDITORA"
+ },
+ {
+  "id_publishing_company": 238,
+  "name_publishing_company": "LA FONTAINE"
+ },
+ {
+  "id_publishing_company": 239,
+  "name_publishing_company": "POSIGRAF"
+ },
+ {
+  "id_publishing_company": 240,
+  "name_publishing_company": "EDIT. LENDO E APRENDENDO"
+ },
+ {
+  "id_publishing_company": 241,
+  "name_publishing_company": "LAFONTE"
+ },
+ {
+  "id_publishing_company": 242,
+  "name_publishing_company": "GAUDÍ EDITORIAL"
+ },
+ {
+  "id_publishing_company": 243,
+  "name_publishing_company": "EDITORA BONIFÁCIO"
+ },
+ {
+  "id_publishing_company": 244,
+  "name_publishing_company": "PIGMENTO"
+ },
+ {
+  "id_publishing_company": 245,
+  "name_publishing_company": "EDITORA BIRUTA"
+ },
+ {
+  "id_publishing_company": 246,
+  "name_publishing_company": "SCOR EDITORA TECCI"
+ },
+ {
+  "id_publishing_company": 247,
+  "name_publishing_company": "ESTANTE DE LIVROS"
+ },
+ {
+  "id_publishing_company": 248,
+  "name_publishing_company": "ALETRIA"
+ },
+ {
+  "id_publishing_company": 249,
+  "name_publishing_company": "BICO DE LLACRE"
+ },
+ {
+  "id_publishing_company": 250,
+  "name_publishing_company": "RHJ"
+ },
+ {
+  "id_publishing_company": 251,
+  "name_publishing_company": "PIÁ"
+ },
+ {
+  "id_publishing_company": 252,
+  "name_publishing_company": "AMARILYS"
+ },
+ {
+  "id_publishing_company": 253,
+  "name_publishing_company": "PARÁBOLA"
+ },
+ {
+  "id_publishing_company": 174,
+  "name_publishing_company": "CAROCHINHA"
+ },
+ {
+  "id_publishing_company": 254,
+  "name_publishing_company": "COMPOR"
+ },
+ {
+  "id_publishing_company": 255,
+  "name_publishing_company": "DUETTO"
+ },
+ {
+  "id_publishing_company": 257,
+  "name_publishing_company": "PETRA"
+ },
+ {
+  "id_publishing_company": 258,
+  "name_publishing_company": "EITORA AGUILAR"
+ },
+ {
+  "id_publishing_company": 259,
+  "name_publishing_company": "EDITORA AGUIILAR"
+ },
+ {
+  "id_publishing_company": 260,
+  "name_publishing_company": "MADREPÉROLA"
+ },
+ {
+  "id_publishing_company": 261,
+  "name_publishing_company": "EDITORADMR"
+ },
+ {
+  "id_publishing_company": 263,
+  "name_publishing_company": "COMPANHIA DAS LETRINHAS"
+ },
+ {
+  "id_publishing_company": 264,
+  "name_publishing_company": "EDITORA DMR"
+ },
+ {
+  "id_publishing_company": 265,
+  "name_publishing_company": "QUATRO CANTOS"
+ },
+ {
+  "id_publishing_company": 266,
+  "name_publishing_company": "OLHO DE VIDRO"
+ },
+ {
+  "id_publishing_company": 267,
+  "name_publishing_company": "SEXTANTE FICÇÃO"
+ },
+ {
+  "id_publishing_company": 256,
+  "name_publishing_company": "TODAVIA"
+ },
+ {
+  "id_publishing_company": 269,
+  "name_publishing_company": "PROJETO"
+ },
+ {
+  "id_publishing_company": 270,
+  "name_publishing_company": "KINDLEBOOKBR"
+ },
+ {
+  "id_publishing_company": 271,
+  "name_publishing_company": "COMPANHIA EDITORA NACIONA"
+ },
+ {
+  "id_publishing_company": 272,
+  "name_publishing_company": "EDITORA VOZES"
+ },
+ {
+  "id_publishing_company": 273,
+  "name_publishing_company": "PARABOLÉ"
+ },
+ {
+  "id_publishing_company": 274,
+  "name_publishing_company": "ESTAÇÃO LIBERDADE"
+ },
+ {
+  "id_publishing_company": 188,
+  "name_publishing_company": "CARLINI CANIATO"
+ },
+ {
+  "id_publishing_company": 275,
+  "name_publishing_company": "CASA LYGIA BOJUNGA"
+ },
+ {
+  "id_publishing_company": 276,
+  "name_publishing_company": "VENETA"
+ },
+ {
+  "id_publishing_company": 278,
+  "name_publishing_company": "ARQUEIRO"
+ },
+ {
+  "id_publishing_company": 279,
+  "name_publishing_company": "EDITORA ÚNICA"
+ },
+ {
+  "id_publishing_company": 280,
+  "name_publishing_company": "GENTE EDITORA"
+ },
+ {
+  "id_publishing_company": 281,
+  "name_publishing_company": "EDITORA REVAN"
+ },
+ {
+  "id_publishing_company": 282,
+  "name_publishing_company": "NOVAS PÁGINAS"
+ },
+ {
+  "id_publishing_company": 283,
+  "name_publishing_company": "EDIPUCRS"
+ },
+ {
+  "id_publishing_company": 284,
+  "name_publishing_company": "PRESTÍGIO EDITORIAL"
+ },
+ {
+  "id_publishing_company": 285,
+  "name_publishing_company": "AZOUGUE EDITORIAL"
+ },
+ {
+  "id_publishing_company": 286,
+  "name_publishing_company": "EDITORA HEDRA"
+ },
+ {
+  "id_publishing_company": 287,
+  "name_publishing_company": "PORTO ALEGRE"
+ },
+ {
+  "id_publishing_company": 288,
+  "name_publishing_company": "COMPANHIA DE BOLSO"
+ },
+ {
+  "id_publishing_company": 289,
+  "name_publishing_company": "MIGUILIM"
+ },
+ {
+  "id_publishing_company": 290,
+  "name_publishing_company": "CRÍTICA"
+ },
+ {
+  "id_publishing_company": 291,
+  "name_publishing_company": "VESTIGIO"
+ },
+ {
+  "id_publishing_company": 292,
+  "name_publishing_company": "PROF CLÁUDIA GONÇALVES"
+ },
+ {
+  "id_publishing_company": 293,
+  "name_publishing_company": "SESI-SP EDITORA"
+ },
+ {
+  "id_publishing_company": 294,
+  "name_publishing_company": "POCKET"
+ },
+ {
+  "id_publishing_company": 295,
+  "name_publishing_company": "BESTBOLSO"
+ },
+ {
+  "id_publishing_company": 296,
+  "name_publishing_company": "IMFE"
+ },
+ {
+  "id_publishing_company": 297,
+  "name_publishing_company": "UDP"
+ },
+ {
+  "id_publishing_company": 298,
+  "name_publishing_company": "EDITORA ALEPH"
+ },
+ {
+  "id_publishing_company": 299,
+  "name_publishing_company": "ED.LAB"
+ },
+ {
+  "id_publishing_company": 300,
+  "name_publishing_company": "PAPIRUS"
+ },
+ {
+  "id_publishing_company": 301,
+  "name_publishing_company": "MERCURYO JOVEM"
+ },
+ {
+  "id_publishing_company": 302,
+  "name_publishing_company": "AYMARÁ"
+ },
+ {
+  "id_publishing_company": 303,
+  "name_publishing_company": "MANDARIM"
+ },
+ {
+  "id_publishing_company": 304,
+  "name_publishing_company": "MYRRHA"
+ },
+ {
+  "id_publishing_company": 306,
+  "name_publishing_company": "ESCALA EDUCACIONAL"
+ },
+ {
+  "id_publishing_company": 307,
+  "name_publishing_company": "UNISUL"
+ },
+ {
+  "id_publishing_company": 308,
+  "name_publishing_company": "FUNDO MUNICIPAL"
+ },
+ {
+  "id_publishing_company": 309,
+  "name_publishing_company": "NÃO.EDITORA"
+ },
+ {
+  "id_publishing_company": 310,
+  "name_publishing_company": "QUADRINHOS NA CIA"
+ },
+ {
+  "id_publishing_company": 311,
+  "name_publishing_company": "TODAS AS LETRAS"
+ },
+ {
+  "id_publishing_company": 312,
+  "name_publishing_company": "SL"
+ },
+ {
+  "id_publishing_company": 313,
+  "name_publishing_company": "ESCRITA FINA"
+ },
+ {
+  "id_publishing_company": 314,
+  "name_publishing_company": "EDIGRAF LTDA"
+ },
+ {
+  "id_publishing_company": 316,
+  "name_publishing_company": "BIBLIOTECA AZUL"
+ },
+ {
+  "id_publishing_company": 317,
+  "name_publishing_company": "JANGADA"
+ },
+ {
+  "id_publishing_company": 318,
+  "name_publishing_company": "BOM TEXTO"
+ },
+ {
+  "id_publishing_company": 319,
+  "name_publishing_company": "ANGLO"
+ },
+ {
+  "id_publishing_company": 320,
+  "name_publishing_company": "SARAIVA"
+ },
+ {
+  "id_publishing_company": 321,
+  "name_publishing_company": "DUBLINENSE"
+ },
+ {
+  "id_publishing_company": 322,
+  "name_publishing_company": "EDIFURB"
+ },
+ {
+  "id_publishing_company": 323,
+  "name_publishing_company": "LETRAS CONTEPOTÁNEAS"
+ },
+ {
+  "id_publishing_company": 324,
+  "name_publishing_company": "ALEPH"
+ },
+ {
+  "id_publishing_company": 325,
+  "name_publishing_company": "TORDESILHAS"
+ },
+ {
+  "id_publishing_company": 326,
+  "name_publishing_company": "BAMBOLÊ"
+ },
+ {
+  "id_publishing_company": 327,
+  "name_publishing_company": "LEBLU"
+ },
+ {
+  "id_publishing_company": 328,
+  "name_publishing_company": "DIFEL"
+ },
+ {
+  "id_publishing_company": 329,
+  "name_publishing_company": "ÚNICA EDITORA"
+ },
+ {
+  "id_publishing_company": 330,
+  "name_publishing_company": "LIVRARIA SARAIVA"
+ },
+ {
+  "id_publishing_company": 331,
+  "name_publishing_company": "NOVO CONTINENTE"
+ },
+ {
+  "id_publishing_company": 332,
+  "name_publishing_company": "HEMISFÉRIO SUL"
+ },
+ {
+  "id_publishing_company": 333,
+  "name_publishing_company": "ARQUIPELAGO"
+ },
+ {
+  "id_publishing_company": 334,
+  "name_publishing_company": "EDITORA NOVA IDEIAS"
+ },
+ {
+  "id_publishing_company": 335,
+  "name_publishing_company": "ARTE DA CRÔNICA"
+ },
+ {
+  "id_publishing_company": 336,
+  "name_publishing_company": "LUNARDELLI"
+ },
+ {
+  "id_publishing_company": 337,
+  "name_publishing_company": "CULTURA BRASIL"
+ },
+ {
+  "id_publishing_company": 338,
+  "name_publishing_company": "TH EDITORA"
+ },
+ {
+  "id_publishing_company": 339,
+  "name_publishing_company": "PULO DO GATO"
+ },
+ {
+  "id_publishing_company": 340,
+  "name_publishing_company": "REVAN"
+ },
+ {
+  "id_publishing_company": 341,
+  "name_publishing_company": "LITERATURA PARA TODOS"
+ },
+ {
+  "id_publishing_company": 342,
+  "name_publishing_company": "NOSSA CULTURA"
+ },
+ {
+  "id_publishing_company": 343,
+  "name_publishing_company": "LAMPARINA"
+ },
+ {
+  "id_publishing_company": 344,
+  "name_publishing_company": "HARLEQUIN BOOKS"
+ },
+ {
+  "id_publishing_company": 345,
+  "name_publishing_company": "NEMO"
+ },
+ {
+  "id_publishing_company": 346,
+  "name_publishing_company": "SG-AMARANTE"
+ },
+ {
+  "id_publishing_company": 347,
+  "name_publishing_company": "ALEX GUENTHER"
+ },
+ {
+  "id_publishing_company": 348,
+  "name_publishing_company": "VITRINE EDITORA"
+ },
+ {
+  "id_publishing_company": 349,
+  "name_publishing_company": "ABRIL EDUCAÇÃO"
+ },
+ {
+  "id_publishing_company": 350,
+  "name_publishing_company": "KLICK"
+ },
+ {
+  "id_publishing_company": 351,
+  "name_publishing_company": "DESIGN EDITORA"
+ },
+ {
+  "id_publishing_company": 352,
+  "name_publishing_company": "LDM"
+ },
+ {
+  "id_publishing_company": 353,
+  "name_publishing_company": "EDITORA GAIA LTDA"
+ },
+ {
+  "id_publishing_company": 354,
+  "name_publishing_company": "FRENTE"
+ },
+ {
+  "id_publishing_company": 315,
+  "name_publishing_company": "FRASE E FEITO"
+ },
+ {
+  "id_publishing_company": 355,
+  "name_publishing_company": "ALFA"
+ },
+ {
+  "id_publishing_company": 356,
+  "name_publishing_company": "A MENINA GRÁFICA"
+ },
+ {
+  "id_publishing_company": 357,
+  "name_publishing_company": "MENINA GRÁFICA"
+ },
+ {
+  "id_publishing_company": 358,
+  "name_publishing_company": "AVENIDA GRÁFICA"
+ },
+ {
+  "id_publishing_company": 359,
+  "name_publishing_company": "RR DONNELLEY"
+ },
+ {
+  "id_publishing_company": 360,
+  "name_publishing_company": "ATELIÊ"
+ },
+ {
+  "id_publishing_company": 361,
+  "name_publishing_company": "UFSM"
+ },
+ {
+  "id_publishing_company": 362,
+  "name_publishing_company": "ODORIZZI"
+ },
+ {
+  "id_publishing_company": 363,
+  "name_publishing_company": "LIVRARIA DO CHAIN"
+ },
+ {
+  "id_publishing_company": 364,
+  "name_publishing_company": "GRUA"
+ },
+ {
+  "id_publishing_company": 365,
+  "name_publishing_company": "EDITORA SULINA"
+ },
+ {
+  "id_publishing_company": 366,
+  "name_publishing_company": "EDITORA BRASILIENSE"
+ },
+ {
+  "id_publishing_company": 367,
+  "name_publishing_company": "ORGANIZADORA"
+ },
+ {
+  "id_publishing_company": 368,
+  "name_publishing_company": "GLOBO"
+ },
+ {
+  "id_publishing_company": 369,
+  "name_publishing_company": "GARAPUVU"
+ },
+ {
+  "id_publishing_company": 370,
+  "name_publishing_company": "VERSAL"
+ },
+ {
+  "id_publishing_company": 371,
+  "name_publishing_company": "RIDEEL"
+ },
+ {
+  "id_publishing_company": 372,
+  "name_publishing_company": "COLEÇÃO ANTA"
+ },
+ {
+  "id_publishing_company": 373,
+  "name_publishing_company": "TOPBOOKS"
+ },
+ {
+  "id_publishing_company": 374,
+  "name_publishing_company": "FCC EDIÇÕES"
+ },
+ {
+  "id_publishing_company": 375,
+  "name_publishing_company": "LEITURA"
+ },
+ {
+  "id_publishing_company": 376,
+  "name_publishing_company": "EDIITORA LEITURA"
+ },
+ {
+  "id_publishing_company": 377,
+  "name_publishing_company": "EDITORA UNISUL"
+ },
+ {
+  "id_publishing_company": 378,
+  "name_publishing_company": "SCIPIONE"
+ },
+ {
+  "id_publishing_company": 379,
+  "name_publishing_company": "ACADEMIA DE INTELIGÊNCIA"
+ },
+ {
+  "id_publishing_company": 380,
+  "name_publishing_company": "NOOVHA AMERICA"
+ },
+ {
+  "id_publishing_company": 381,
+  "name_publishing_company": "LACERDA EDITORES"
+ },
+ {
+  "id_publishing_company": 382,
+  "name_publishing_company": "TRES ESTRELAS"
+ },
+ {
+  "id_publishing_company": 383,
+  "name_publishing_company": "EDITORA AGIR"
+ },
+ {
+  "id_publishing_company": 305,
+  "name_publishing_company": "COSACNAIFY"
+ },
+ {
+  "id_publishing_company": 384,
+  "name_publishing_company": "LEPM POCKET"
+ },
+ {
+  "id_publishing_company": 385,
+  "name_publishing_company": "NÃO EDITORA"
+ },
+ {
+  "id_publishing_company": 386,
+  "name_publishing_company": "CIRCUITO"
+ },
+ {
+  "id_publishing_company": 387,
+  "name_publishing_company": "CÓDICE"
+ },
+ {
+  "id_publishing_company": 388,
+  "name_publishing_company": "CLÁSSICO LITERATURA"
+ },
+ {
+  "id_publishing_company": 389,
+  "name_publishing_company": "ADÉLIA PRADO"
+ },
+ {
+  "id_publishing_company": 390,
+  "name_publishing_company": "SICILIANO"
+ },
+ {
+  "id_publishing_company": 391,
+  "name_publishing_company": "ATUAL EDITORA"
+ },
+ {
+  "id_publishing_company": 392,
+  "name_publishing_company": "CLARICE LISPECTOR"
+ },
+ {
+  "id_publishing_company": 393,
+  "name_publishing_company": "IAGE"
+ },
+ {
+  "id_publishing_company": 394,
+  "name_publishing_company": "LUÍS MARTINS"
+ },
+ {
+  "id_publishing_company": 395,
+  "name_publishing_company": "EDITORA PEIRÓPOLIS"
+ },
+ {
+  "id_publishing_company": 396,
+  "name_publishing_company": "VIA LETTERA"
+ },
+ {
+  "id_publishing_company": 397,
+  "name_publishing_company": "SOMOS EDUCAÇIÃO"
+ },
+ {
+  "id_publishing_company": 398,
+  "name_publishing_company": "KALINKA"
+ },
+ {
+  "id_publishing_company": 399,
+  "name_publishing_company": "FEB"
+ },
+ {
+  "id_publishing_company": 400,
+  "name_publishing_company": "QUILOMBHOJE"
+ },
+ {
+  "id_publishing_company": 401,
+  "name_publishing_company": "EDIÇÕES DEMÓCRITO ROCHA"
+ },
+ {
+  "id_publishing_company": 402,
+  "name_publishing_company": "GERAÇÃO EDITORIAL"
+ },
+ {
+  "id_publishing_company": 403,
+  "name_publishing_company": "PAPA.TERRA EDITORA"
+ },
+ {
+  "id_publishing_company": 404,
+  "name_publishing_company": "GRADIVA"
+ },
+ {
+  "id_publishing_company": 405,
+  "name_publishing_company": "LITERATURA EM MINHA CASA"
+ },
+ {
+  "id_publishing_company": 406,
+  "name_publishing_company": "MELHORAMENTO"
+ },
+ {
+  "id_publishing_company": 407,
+  "name_publishing_company": "MATHEUS FONTES"
+ },
+ {
+  "id_publishing_company": 408,
+  "name_publishing_company": "MEMÓRIA VISUAL"
+ },
+ {
+  "id_publishing_company": 409,
+  "name_publishing_company": "LETRADÁGUA"
+ },
+ {
+  "id_publishing_company": 410,
+  "name_publishing_company": "FLORECER"
+ },
+ {
+  "id_publishing_company": 411,
+  "name_publishing_company": "MORROBRANCO EDITORA"
+ },
+ {
+  "id_publishing_company": 412,
+  "name_publishing_company": "HARPER COLLINS"
+ },
+ {
+  "id_publishing_company": 413,
+  "name_publishing_company": "LETRAS JURÍDICAS"
+ },
+ {
+  "id_publishing_company": 414,
+  "name_publishing_company": "EDITORA LEITURA"
+ },
+ {
+  "id_publishing_company": 415,
+  "name_publishing_company": "BRIMAR"
+ },
+ {
+  "id_publishing_company": 416,
+  "name_publishing_company": "TODOLIVRO"
+ },
+ {
+  "id_publishing_company": 417,
+  "name_publishing_company": "AMOLER"
+ },
+ {
+  "id_publishing_company": 418,
+  "name_publishing_company": "EDITORA POSITIVO"
+ },
+ {
+  "id_publishing_company": 419,
+  "name_publishing_company": "ARAGUAIA"
+ },
+ {
+  "id_publishing_company": 420,
+  "name_publishing_company": "JUJUBA"
+ },
+ {
+  "id_publishing_company": 421,
+  "name_publishing_company": "CANGURU"
+ },
+ {
+  "id_publishing_company": 422,
+  "name_publishing_company": "ZÉ "
+ },
+ {
+  "id_publishing_company": 423,
+  "name_publishing_company": "TORMONT"
+ },
+ {
+  "id_publishing_company": 424,
+  "name_publishing_company": "PIKIDS PUBLICATIONS"
+ },
+ {
+  "id_publishing_company": 425,
+  "name_publishing_company": "LPC PUBLICAÇÕES"
+ },
+ {
+  "id_publishing_company": 426,
+  "name_publishing_company": "LM LIVROS DA MATRIZ"
+ },
+ {
+  "id_publishing_company": 427,
+  "name_publishing_company": "ME"
+ },
+ {
+  "id_publishing_company": 428,
+  "name_publishing_company": "PONTEIO"
+ },
+ {
+  "id_publishing_company": 429,
+  "name_publishing_company": "GIRASSOL"
+ },
+ {
+  "id_publishing_company": 430,
+  "name_publishing_company": "BOMBOLÊ"
+ },
+ {
+  "id_publishing_company": 431,
+  "name_publishing_company": "POSITIVO"
+ },
+ {
+  "id_publishing_company": 432,
+  "name_publishing_company": "ALFONSO RUANO"
+ },
+ {
+  "id_publishing_company": 433,
+  "name_publishing_company": "CIA TRUKS, TEATRO  BONECO"
+ },
+ {
+  "id_publishing_company": 435,
+  "name_publishing_company": "BOI TA TÁ"
+ },
+ {
+  "id_publishing_company": 436,
+  "name_publishing_company": "H. Z. DE LIVROS"
+ },
+ {
+  "id_publishing_company": 437,
+  "name_publishing_company": "ALTEA"
+ },
+ {
+  "id_publishing_company": 438,
+  "name_publishing_company": "KOMEDI"
+ },
+ {
+  "id_publishing_company": 439,
+  "name_publishing_company": "MUNDO MIRIM"
+ },
+ {
+  "id_publishing_company": 440,
+  "name_publishing_company": "FORMATO"
+ },
+ {
+  "id_publishing_company": 441,
+  "name_publishing_company": "OXFORD"
+ },
+ {
+  "id_publishing_company": 442,
+  "name_publishing_company": "BICHO ESPERTO"
+ },
+ {
+  "id_publishing_company": 443,
+  "name_publishing_company": "MARTINS"
+ },
+ {
+  "id_publishing_company": 444,
+  "name_publishing_company": "LAGOA"
+ },
+ {
+  "id_publishing_company": 445,
+  "name_publishing_company": "UNIVERSO DA LITERATURA"
+ },
+ {
+  "id_publishing_company": 446,
+  "name_publishing_company": "DSOP"
+ },
+ {
+  "id_publishing_company": 447,
+  "name_publishing_company": "RONA"
+ },
+ {
+  "id_publishing_company": 448,
+  "name_publishing_company": "GAIA"
+ },
+ {
+  "id_publishing_company": 449,
+  "name_publishing_company": "DIGISA"
+ },
+ {
+  "id_publishing_company": 450,
+  "name_publishing_company": "RODA E CIA"
+ },
+ {
+  "id_publishing_company": 451,
+  "name_publishing_company": "BERGAMOTA"
+ },
+ {
+  "id_publishing_company": 452,
+  "name_publishing_company": "EDITORA ELEMENTAR"
+ },
+ {
+  "id_publishing_company": 453,
+  "name_publishing_company": "MANATI"
+ },
+ {
+  "id_publishing_company": 454,
+  "name_publishing_company": "ABACATTE"
+ },
+ {
+  "id_publishing_company": 455,
+  "name_publishing_company": "EDITORA DIDATICA"
+ },
+ {
+  "id_publishing_company": 456,
+  "name_publishing_company": "TERRA DA LUZ EDITORIAL"
+ },
+ {
+  "id_publishing_company": 457,
+  "name_publishing_company": "EDIÇÕES CHOCOLATE"
+ },
+ {
+  "id_publishing_company": 458,
+  "name_publishing_company": "LAROUSSE JÚNIOR"
+ },
+ {
+  "id_publishing_company": 459,
+  "name_publishing_company": "SIGNO"
+ },
+ {
+  "id_publishing_company": 460,
+  "name_publishing_company": "CASA AMARELINHA"
+ },
+ {
+  "id_publishing_company": 461,
+  "name_publishing_company": "GUIA DOS CURIOSOS"
+ },
+ {
+  "id_publishing_company": 462,
+  "name_publishing_company": "AGAQUÊ"
+ },
+ {
+  "id_publishing_company": 463,
+  "name_publishing_company": "COLÉGIO ANCHIETA"
+ },
+ {
+  "id_publishing_company": 464,
+  "name_publishing_company": "M10 EDITORIAL"
+ },
+ {
+  "id_publishing_company": 465,
+  "name_publishing_company": "BASE EDITORIAL"
+ },
+ {
+  "id_publishing_company": 466,
+  "name_publishing_company": "TRIOLECA"
+ },
+ {
+  "id_publishing_company": 467,
+  "name_publishing_company": "ESCRITURAS"
+ },
+ {
+  "id_publishing_company": 468,
+  "name_publishing_company": "MGE"
+ },
+ {
+  "id_publishing_company": 469,
+  "name_publishing_company": "MANOLE"
+ },
+ {
+  "id_publishing_company": 470,
+  "name_publishing_company": "EDIJOVEM"
+ },
+ {
+  "id_publishing_company": 471,
+  "name_publishing_company": "SIVADI EDITORIAL"
+ },
+ {
+  "id_publishing_company": 472,
+  "name_publishing_company": "TERO"
+ },
+ {
+  "id_publishing_company": 473,
+  "name_publishing_company": "EDITORA LENDO  APRENDENDO"
+ },
+ {
+  "id_publishing_company": 474,
+  "name_publishing_company": "EDITORA KUARUP"
+ },
+ {
+  "id_publishing_company": 476,
+  "name_publishing_company": "CONCEITO"
+ },
+ {
+  "id_publishing_company": 477,
+  "name_publishing_company": "ALEGRO"
+ },
+ {
+  "id_publishing_company": 478,
+  "name_publishing_company": "AUTORES ASSOCIADOS"
+ },
+ {
+  "id_publishing_company": 479,
+  "name_publishing_company": "EDIÇOES LOYOLA"
+ },
+ {
+  "id_publishing_company": 480,
+  "name_publishing_company": "MMM"
+ },
+ {
+  "id_publishing_company": 482,
+  "name_publishing_company": "LIQUIDIFICADOR"
+ },
+ {
+  "id_publishing_company": 483,
+  "name_publishing_company": "CONTRAPORTO"
+ },
+ {
+  "id_publishing_company": 484,
+  "name_publishing_company": "PENSIERI"
+ },
+ {
+  "id_publishing_company": 485,
+  "name_publishing_company": "EDICON"
+ },
+ {
+  "id_publishing_company": 486,
+  "name_publishing_company": "TOTUM"
+ },
+ {
+  "id_publishing_company": 487,
+  "name_publishing_company": "EDITORA SOPHOS"
+ },
+ {
+  "id_publishing_company": 488,
+  "name_publishing_company": "SUMMUS EDITORIAL"
+ },
+ {
+  "id_publishing_company": 489,
+  "name_publishing_company": "CENCAGE LEARNING"
+ },
+ {
+  "id_publishing_company": 490,
+  "name_publishing_company": "ODYSSEUS"
+ },
+ {
+  "id_publishing_company": 491,
+  "name_publishing_company": "EDITORA DA UFSC"
+ },
+ {
+  "id_publishing_company": 492,
+  "name_publishing_company": "UFRGS EDITORA"
+ },
+ {
+  "id_publishing_company": 494,
+  "name_publishing_company": "NOVA AGUILAR"
+ },
+ {
+  "id_publishing_company": 495,
+  "name_publishing_company": "COLEÇÃO ACL"
+ },
+ {
+  "id_publishing_company": 496,
+  "name_publishing_company": "EDITOGRAF"
+ },
+ {
+  "id_publishing_company": 497,
+  "name_publishing_company": "CCL"
+ },
+ {
+  "id_publishing_company": 498,
+  "name_publishing_company": "ASL"
+ },
+ {
+  "id_publishing_company": 499,
+  "name_publishing_company": "EDITORA INSULAR"
+ },
+ {
+  "id_publishing_company": 500,
+  "name_publishing_company": "ALFA OMEGA"
+ },
+ {
+  "id_publishing_company": 501,
+  "name_publishing_company": "LUCERNA"
+ },
+ {
+  "id_publishing_company": 502,
+  "name_publishing_company": "LEXIKON"
+ },
+ {
+  "id_publishing_company": 503,
+  "name_publishing_company": "EDITORA GLOBO"
+ },
+ {
+  "id_publishing_company": 504,
+  "name_publishing_company": "JURIDICA BRASILEIRA"
+ },
+ {
+  "id_publishing_company": 505,
+  "name_publishing_company": "HB EDITORA"
+ },
+ {
+  "id_publishing_company": 506,
+  "name_publishing_company": "MERCADO DE LETRAS"
+ },
+ {
+  "id_publishing_company": 507,
+  "name_publishing_company": "SPRINT"
+ },
+ {
+  "id_publishing_company": 508,
+  "name_publishing_company": "GARAMOND"
+ },
+ {
+  "id_publishing_company": 509,
+  "name_publishing_company": "EDITORA MASSANGANA"
+ },
+ {
+  "id_publishing_company": 510,
+  "name_publishing_company": "EDITORA TRÊS"
+ },
+ {
+  "id_publishing_company": 511,
+  "name_publishing_company": "ALVART "
+ },
+ {
+  "id_publishing_company": 512,
+  "name_publishing_company": "EDITORA MAIS SC"
+ },
+ {
+  "id_publishing_company": 513,
+  "name_publishing_company": "CIDADE FUTURA"
+ },
+ {
+  "id_publishing_company": 514,
+  "name_publishing_company": "IMPRENSA"
+ },
+ {
+  "id_publishing_company": 515,
+  "name_publishing_company": "UNIFEBE"
+ },
+ {
+  "id_publishing_company": 481,
+  "name_publishing_company": "OIKOS"
+ },
+ {
+  "id_publishing_company": 516,
+  "name_publishing_company": "ALÍNEA"
+ },
+ {
+  "id_publishing_company": 517,
+  "name_publishing_company": "VALORIZANDO O TEMPO"
+ },
+ {
+  "id_publishing_company": 518,
+  "name_publishing_company": "BARSAPLANETA"
+ },
+ {
+  "id_publishing_company": 519,
+  "name_publishing_company": "DIFUSÃO CULTURAL DO LIVRO"
+ },
+ {
+  "id_publishing_company": 520,
+  "name_publishing_company": "METALIVROS"
+ },
+ {
+  "id_publishing_company": 521,
+  "name_publishing_company": "OFICINA DE TEXTOS"
+ },
+ {
+  "id_publishing_company": 522,
+  "name_publishing_company": "MAIS SC"
+ },
+ {
+  "id_publishing_company": 523,
+  "name_publishing_company": "ARTMED"
+ },
+ {
+  "id_publishing_company": 524,
+  "name_publishing_company": "SUMMUS"
+ },
+ {
+  "id_publishing_company": 475,
+  "name_publishing_company": "ESCRITINHA"
+ },
+ {
+  "id_publishing_company": 525,
+  "name_publishing_company": "IOESC"
+ },
+ {
+  "id_publishing_company": 526,
+  "name_publishing_company": "EDITORA RETRATO"
+ },
+ {
+  "id_publishing_company": 527,
+  "name_publishing_company": "TEMPO  EDITORIAL"
+ },
+ {
+  "id_publishing_company": 528,
+  "name_publishing_company": "RESULTADO"
+ },
+ {
+  "id_publishing_company": 529,
+  "name_publishing_company": "IBPEX"
+ },
+ {
+  "id_publishing_company": 530,
+  "name_publishing_company": "DIVULGAÇÃO CULTURAL"
+ },
+ {
+  "id_publishing_company": 531,
+  "name_publishing_company": "GRUPO A"
+ },
+ {
+  "id_publishing_company": 532,
+  "name_publishing_company": "FUTURA"
+ },
+ {
+  "id_publishing_company": 533,
+  "name_publishing_company": "ADUANEIRAS"
+ },
+ {
+  "id_publishing_company": 534,
+  "name_publishing_company": "ALFAITAR"
+ },
+ {
+  "id_publishing_company": 535,
+  "name_publishing_company": "BANCOFATOR"
+ },
+ {
+  "id_publishing_company": 536,
+  "name_publishing_company": "CAMPUS"
+ },
+ {
+  "id_publishing_company": 537,
+  "name_publishing_company": "MANUSCRITO"
+ },
+ {
+  "id_publishing_company": 538,
+  "name_publishing_company": "GRÁFICA"
+ },
+ {
+  "id_publishing_company": 539,
+  "name_publishing_company": "SAGRA LUZZATTO"
+ },
+ {
+  "id_publishing_company": 540,
+  "name_publishing_company": "CONFEBRÁS"
+ },
+ {
+  "id_publishing_company": 541,
+  "name_publishing_company": "SEICHO-NO-IE"
+ },
+ {
+  "id_publishing_company": 542,
+  "name_publishing_company": "BARBARA ED"
+ },
+ {
+  "id_publishing_company": 543,
+  "name_publishing_company": "FUNENSEG"
+ },
+ {
+  "id_publishing_company": 544,
+  "name_publishing_company": "LUA DE PAPEL"
+ },
+ {
+  "id_publishing_company": 545,
+  "name_publishing_company": "THOMAS NELSON"
+ },
+ {
+  "id_publishing_company": 546,
+  "name_publishing_company": "MC"
+ },
+ {
+  "id_publishing_company": 547,
+  "name_publishing_company": "CONTEXTO"
+ },
+ {
+  "id_publishing_company": 548,
+  "name_publishing_company": "BUNGE FUNDAÇÃO"
+ },
+ {
+  "id_publishing_company": 549,
+  "name_publishing_company": "BOM LIVRO"
+ },
+ {
+  "id_publishing_company": 550,
+  "name_publishing_company": "GRAPHIA"
+ },
+ {
+  "id_publishing_company": 551,
+  "name_publishing_company": "PHORTE EDITORA"
+ },
+ {
+  "id_publishing_company": 552,
+  "name_publishing_company": "BRASIL TELECOM"
+ },
+ {
+  "id_publishing_company": 553,
+  "name_publishing_company": "VERSUS"
+ },
+ {
+  "id_publishing_company": 554,
+  "name_publishing_company": "ARTES MÉDICAS"
+ },
+ {
+  "id_publishing_company": 555,
+  "name_publishing_company": "TELOS"
+ },
+ {
+  "id_publishing_company": 556,
+  "name_publishing_company": "EDIÇÕES LOYOLA"
+ },
+ {
+  "id_publishing_company": 557,
+  "name_publishing_company": "EDITORA ORIGINAL"
+ },
+ {
+  "id_publishing_company": 558,
+  "name_publishing_company": "FIOCRUZ"
+ },
+ {
+  "id_publishing_company": 559,
+  "name_publishing_company": "SELEÇÕES READER´S DIGEST"
+ },
+ {
+  "id_publishing_company": 560,
+  "name_publishing_company": "ENCYCLOPAEDIA  BRITANNICA"
+ },
+ {
+  "id_publishing_company": 561,
+  "name_publishing_company": "EDITORA DIDÁTICA PAULISTA"
+ },
+ {
+  "id_publishing_company": 562,
+  "name_publishing_company": "EDITORA NOVA GERAÇÃO"
+ },
+ {
+  "id_publishing_company": 563,
+  "name_publishing_company": "IBGE"
+ },
+ {
+  "id_publishing_company": 564,
+  "name_publishing_company": "DK"
+ },
+ {
+  "id_publishing_company": 565,
+  "name_publishing_company": "EDITORA UDESC"
+ },
+ {
+  "id_publishing_company": 566,
+  "name_publishing_company": "EDIOTRA FOCOS"
+ },
+ {
+  "id_publishing_company": 567,
+  "name_publishing_company": "EDITORA FOCUS"
+ },
+ {
+  "id_publishing_company": 568,
+  "name_publishing_company": "EDITORA CASSOL"
+ },
+ {
+  "id_publishing_company": 569,
+  "name_publishing_company": "EDELSA"
+ },
+ {
+  "id_publishing_company": 570,
+  "name_publishing_company": "O CLARIM"
+ },
+ {
+  "id_publishing_company": 571,
+  "name_publishing_company": "MACMILLAN"
+ },
+ {
+  "id_publishing_company": 572,
+  "name_publishing_company": "THOMSON"
+ },
+ {
+  "id_publishing_company": 573,
+  "name_publishing_company": "HEINEMANN"
+ },
+ {
+  "id_publishing_company": 574,
+  "name_publishing_company": "KITS"
+ },
+ {
+  "id_publishing_company": 575,
+  "name_publishing_company": "EDITORA NACIONAL"
+ },
+ {
+  "id_publishing_company": 576,
+  "name_publishing_company": "PLAYMORE "
+ },
+ {
+  "id_publishing_company": 577,
+  "name_publishing_company": "LINGUAPHONE"
+ },
+ {
+  "id_publishing_company": 578,
+  "name_publishing_company": "AO LIVRRO TÉCNICO"
+ },
+ {
+  "id_publishing_company": 579,
+  "name_publishing_company": "HELBRING READERS"
+ },
+ {
+  "id_publishing_company": 580,
+  "name_publishing_company": "LITERATURE E LANGUAGE"
+ },
+ {
+  "id_publishing_company": 581,
+  "name_publishing_company": "OXFORD STORYLAND READERS"
+ },
+ {
+  "id_publishing_company": 582,
+  "name_publishing_company": "CAMBRIDGE UNIVERSITY PRES"
+ },
+ {
+  "id_publishing_company": 583,
+  "name_publishing_company": "PENGUIN READERS"
+ },
+ {
+  "id_publishing_company": 584,
+  "name_publishing_company": "LONGMAN"
+ },
+ {
+  "id_publishing_company": 585,
+  "name_publishing_company": "MUNDO CRISTÃO"
+ },
+ {
+  "id_publishing_company": 586,
+  "name_publishing_company": "CASA BENDITA"
+ },
+ {
+  "id_publishing_company": 587,
+  "name_publishing_company": "TOP SELLER"
+ },
+ {
+  "id_publishing_company": 588,
+  "name_publishing_company": "LITTLE BROWN"
+ },
+ {
+  "id_publishing_company": 589,
+  "name_publishing_company": "PALLAS MINI"
+ },
+ {
+  "id_publishing_company": 590,
+  "name_publishing_company": "SEI"
+ },
+ {
+  "id_publishing_company": 591,
+  "name_publishing_company": "VIDA E CONSCIÊNCIA"
+ },
+ {
+  "id_publishing_company": 592,
+  "name_publishing_company": "SCRIPTORIUM"
+ },
+ {
+  "id_publishing_company": 593,
+  "name_publishing_company": "CLARIDADE"
+ },
+ {
+  "id_publishing_company": 594,
+  "name_publishing_company": "MYTHOS EDITORA"
+ },
+ {
+  "id_publishing_company": 595,
+  "name_publishing_company": "SÁ EDITORA"
+ },
+ {
+  "id_publishing_company": 596,
+  "name_publishing_company": "DM72 EDITORIAL"
+ },
+ {
+  "id_publishing_company": 597,
+  "name_publishing_company": "CUCA FRESCA"
+ },
+ {
+  "id_publishing_company": 598,
+  "name_publishing_company": "JARDIM DOS LIVROS"
+ },
+ {
+  "id_publishing_company": 434,
+  "name_publishing_company": "EDITORA LTDA"
+ },
+ {
+  "id_publishing_company": 599,
+  "name_publishing_company": "INTEGRARE"
+ },
+ {
+  "id_publishing_company": 600,
+  "name_publishing_company": "DIOESC"
+ },
+ {
+  "id_publishing_company": 601,
+  "name_publishing_company": "FINO TRAÇO EDITORA"
+ },
+ {
+  "id_publishing_company": 602,
+  "name_publishing_company": "BLU EDITORA"
+ },
+ {
+  "id_publishing_company": 603,
+  "name_publishing_company": "EDITORA PINTANGUÁ"
+ },
+ {
+  "id_publishing_company": 604,
+  "name_publishing_company": "EVOLUIR"
+ },
+ {
+  "id_publishing_company": 493,
+  "name_publishing_company": "PUBLIFOLHINHA"
+ },
+ {
+  "id_publishing_company": 605,
+  "name_publishing_company": "ESPIRAL"
+ },
+ {
+  "id_publishing_company": 606,
+  "name_publishing_company": "MELHORAMENTOS LIVRARIAS"
+ },
+ {
+  "id_publishing_company": 607,
+  "name_publishing_company": "BAMBOOZINHO"
+ },
+ {
+  "id_publishing_company": 608,
+  "name_publishing_company": "SEFE"
+ },
+ {
+  "id_publishing_company": 609,
+  "name_publishing_company": "PENNINHA EDIÇÕES"
+ },
+ {
+  "id_publishing_company": 610,
+  "name_publishing_company": "RAKUM"
+ },
+ {
+  "id_publishing_company": 611,
+  "name_publishing_company": "EDITORA FAPI"
+ }
+]

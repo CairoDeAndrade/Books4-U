@@ -1,0 +1,9462 @@
+[
+ {
+  "id_author": 1,
+  "name_author": "SIDNEY SHELDON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 4,
+  "name_author": "DAN BROWN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2,
+  "name_author": "STEPHEN KING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 5,
+  "name_author": "DR. LUC BODIN \/ MARIA ELISA HURTADO-GRACIET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 0,
+  "name_author": "NÃO DEFINIDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 7,
+  "name_author": "RHONDA BYRNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 9,
+  "name_author": "ELIAS YAGUAKAG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 10,
+  "name_author": "MARCUS SEDGWICK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 11,
+  "name_author": "PEDRO PAIXÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 12,
+  "name_author": "ONZE NOITES EM JERUSALÉM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 14,
+  "name_author": "JOHN GREEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 15,
+  "name_author": "CARINA RISSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 22,
+  "name_author": "JANE AUSTEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 23,
+  "name_author": "ANNA CARREY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 25,
+  "name_author": "HOWARD PYLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 26,
+  "name_author": "F.SCOTT FITZGERALD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 27,
+  "name_author": "LUKE DELANEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 33,
+  "name_author": "PATRICK ROTHFUSS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 34,
+  "name_author": "GABRIEL BONIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 35,
+  "name_author": "LUANA CHNAIDERMAN DE ALMEIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 36,
+  "name_author": "MAQUIAVEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 44,
+  "name_author": "R.J PALACIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 55,
+  "name_author": "THALITA REBOUÇAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 70,
+  "name_author": "PAULA HAWKINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 71,
+  "name_author": "ROBERT GALBRAITH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 72,
+  "name_author": "JORGE FERNÁNDEZ DÍAZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 73,
+  "name_author": "CAROLINA MUNHÓZ & SOPHIA ABRAHÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 74,
+  "name_author": "ELIZABETH RUDNICK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 75,
+  "name_author": "ANNIE DARLING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 13,
+  "name_author": "MARIA LUIZA TUCCI CARNEIRO\/ CAROL  COLFFIELD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 24,
+  "name_author": "MAJ SJOWALL \/ PER WAHLOO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 78,
+  "name_author": "JOHN GREEN\/MAUREEN JOHNSON\/LHUREN MYRHCLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 80,
+  "name_author": "MARK BILLINGHAM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 81,
+  "name_author": "ANNE FRANK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 82,
+  "name_author": "JOJO MOYES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 83,
+  "name_author": "E.O. CHIROVICI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 84,
+  "name_author": "CHARLIE DONLEA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 85,
+  "name_author": "VICTORIA AVEYARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 86,
+  "name_author": "ROGÉRIO LANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 87,
+  "name_author": "PAUL TREMBLAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 88,
+  "name_author": "OSCAR WILDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 89,
+  "name_author": "BRUNO PALMA E SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 90,
+  "name_author": "NEIR ILELIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 91,
+  "name_author": "JÚLIO VERNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 93,
+  "name_author": "REGINA DRUMMOND\/SHIRLEY SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 94,
+  "name_author": "GEORGE R.R. MARTIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 95,
+  "name_author": "JAY ASHER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 97,
+  "name_author": "OLIVER BOWDEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 98,
+  "name_author": "ERNEST CLINE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 99,
+  "name_author": "KERI SMITH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 100,
+  "name_author": "MATTHEW J. KIRBY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 110,
+  "name_author": "ROSE COOPER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 111,
+  "name_author": "ELISE BROACH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 112,
+  "name_author": "REGIANE ALGUSTO DE MATTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 113,
+  "name_author": "JUVA BATELLA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 114,
+  "name_author": "SARAH MOORE FITZGERALD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 116,
+  "name_author": "HILARY MCKAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 92,
+  "name_author": "SÉRGIO CAPARELLI E MÁRCIA SCHMALTZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 118,
+  "name_author": "RICARDO PRADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 119,
+  "name_author": "CLOTILDE TAVARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 120,
+  "name_author": "VINICIUS CELLURALE NOVAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 121,
+  "name_author": "DOMINIQUE TORRÈS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 122,
+  "name_author": "EMILIO SALGARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 123,
+  "name_author": "GISELDA LAPORTA NICOLELIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 124,
+  "name_author": "MARIA JOSÉ DUPRÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 125,
+  "name_author": "ANA CRISTINA MASSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 126,
+  "name_author": "RICK RIORDAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 127,
+  "name_author": "ERICH KASTNER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 128,
+  "name_author": "JANNY VAN DER MOLEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 129,
+  "name_author": "RITA ESPESCHIT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 130,
+  "name_author": "MICHAEL MORPURGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 131,
+  "name_author": "ROSEANA MURRAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 132,
+  "name_author": "LARA BERGEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 133,
+  "name_author": "ALI BENJAMIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 134,
+  "name_author": "MÁRCIO VASSALLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 135,
+  "name_author": "STELLA MARIS REZENDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 136,
+  "name_author": "LEUSA ARAUJO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 137,
+  "name_author": "SYLVIA ORTHOF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 138,
+  "name_author": "BARTOLOMEU CAMPOS DE QUEIRÓS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 140,
+  "name_author": "PEDRO BANDEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 141,
+  "name_author": "JOÃO PROTETI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 142,
+  "name_author": "FLÁVIO CARNEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 143,
+  "name_author": "CONCEIÇÃO EVARISTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 154,
+  "name_author": "MARINA COLASANTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 155,
+  "name_author": "JOEL RUFINO DOS SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 156,
+  "name_author": "DOMINGOS PELLEGRINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 157,
+  "name_author": "MARCOS REY ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 158,
+  "name_author": "JO HOESTLANDT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 159,
+  "name_author": "MARÍLIA LOVATEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 160,
+  "name_author": "MÁRIO GOULART",
+  "stats_author": 1
+ },
+ {
+  "id_author": 161,
+  "name_author": "REGINALDO PRANDI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 162,
+  "name_author": "SILVANA DE MENEZES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 163,
+  "name_author": "MARIA CLARA MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 164,
+  "name_author": "TONI BRANDÃO ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 165,
+  "name_author": "LEONARDO BRASILIENSE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 166,
+  "name_author": "LÊDO IVO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 167,
+  "name_author": "FERNANDO HENRIQUE BECKER SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 168,
+  "name_author": "JOÃO PONTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 169,
+  "name_author": "JOÃO ANZANELLO CARRASCOZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 170,
+  "name_author": "RICARDO BRANDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 171,
+  "name_author": "GILBERTO MATTJE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 173,
+  "name_author": "MICHELLE MULDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 174,
+  "name_author": "LIA ZATZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 175,
+  "name_author": "KEILA GRINBERG\/LUCIA GRINBERG\/ANITA CORREIA LIMA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 176,
+  "name_author": "JOSÉ ROBERTO TORERO\/MARCUS AURELIUS PIMENTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 177,
+  "name_author": "HAWTHORNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 178,
+  "name_author": "PABLO DE SANTIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 179,
+  "name_author": "COLIN THOMPSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 180,
+  "name_author": "CHRISTIAN DAVID",
+  "stats_author": 1
+ },
+ {
+  "id_author": 181,
+  "name_author": "CECÍLIA VASCONCELLOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 182,
+  "name_author": "DAVID DUCHOVNY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 183,
+  "name_author": "GASTON LEROUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 184,
+  "name_author": "TÂNIA ALEXANDRE MARTINELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 186,
+  "name_author": "KÉFERA BUCHMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 187,
+  "name_author": "VERONICA ROTH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 188,
+  "name_author": "MAURICE DRUON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 189,
+  "name_author": "GANYMÉDES JOSÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 198,
+  "name_author": "COLLEEN HOUCK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 139,
+  "name_author": "KIERA CASS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3,
+  "name_author": "J.K. ROWLING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 8,
+  "name_author": "JOHN GREEN E DAVID LEVITHAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 117,
+  "name_author": "MARCOS PIANGERS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 199,
+  "name_author": "JOÃO CARLOS MARINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 200,
+  "name_author": "CYNTHIA RYLANT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 201,
+  "name_author": "ANNE JONAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 203,
+  "name_author": "NATALIE JANE PRIOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 204,
+  "name_author": "ALUÍSIO AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 205,
+  "name_author": "MILTON CÉLIO DE OLIVEIRA FILHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 206,
+  "name_author": "LÉO CUNHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 207,
+  "name_author": "NELSON CRUZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 208,
+  "name_author": "RUBEM ALVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 209,
+  "name_author": "ILAN BRENMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 210,
+  "name_author": "GUSTAVO PIQUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 211,
+  "name_author": "MARY SHELLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 212,
+  "name_author": "MARIE-THÉRÈSE DAVIDSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 213,
+  "name_author": "CÂNDIDA VILARES E VERA VILHENA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 214,
+  "name_author": "MÁRCIA LEITE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 215,
+  "name_author": "ANTONIO CARLOS VILELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 216,
+  "name_author": "MARTIN BALTSCHEIT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 217,
+  "name_author": "JACQUES PAPIER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 218,
+  "name_author": "ANA MARIA MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 219,
+  "name_author": "WILLIAN HOPE HODGSEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 220,
+  "name_author": "NÉLIDA PIÑON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 222,
+  "name_author": "ZIRALDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 223,
+  "name_author": "ORLANDO VILLAS BÔAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 224,
+  "name_author": "TIAGO DE MELO ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 225,
+  "name_author": "LUIS ALBERTO BRANDÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 226,
+  "name_author": "VINICIUS CAMPOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 227,
+  "name_author": "SHERMAN ALEXIE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 202,
+  "name_author": "KENNETH GRAHAME",
+  "stats_author": 1
+ },
+ {
+  "id_author": 231,
+  "name_author": "DANIEL DEFOE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 232,
+  "name_author": "THOMAS BREZINA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 235,
+  "name_author": "JOSÉ J. VEIGA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 236,
+  "name_author": "ROSA AMANDA STRAUSZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 242,
+  "name_author": "CAROLINA NABUCO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 243,
+  "name_author": "CATHERINE GENDRINI\/ LAURENT CORVASIER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 96,
+  "name_author": "JOAO CARLOS MARINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 255,
+  "name_author": "CATHERINE GENDRIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 264,
+  "name_author": "STELLA CARR\/LAÍS CARR RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 265,
+  "name_author": "GRAPHIC CHILLERS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 275,
+  "name_author": "L. FRANK BAUM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 286,
+  "name_author": "KARL MARX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 297,
+  "name_author": "FRANK MCDONOUGH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 308,
+  "name_author": "MARY KUBICA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 309,
+  "name_author": "LUÍS DA CÂMARA CASCUDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 319,
+  "name_author": "SCOTT SIGLER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 330,
+  "name_author": "ANNE-LAURE BONDOUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 341,
+  "name_author": "HELENA GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 342,
+  "name_author": "RAINA TELGEMEIR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 343,
+  "name_author": "LUCY MAUD MONTGOMERY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 344,
+  "name_author": "HOWARD PHILLIPS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 345,
+  "name_author": "CRESSIDA COWELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 346,
+  "name_author": "CARLOS HEITOR CONY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 347,
+  "name_author": "JOHN STEPHENS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 348,
+  "name_author": "HENRY GRESTON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 349,
+  "name_author": "JOANNA HERSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 352,
+  "name_author": "ANTOINE DE SAINT-EXUPÉRY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 353,
+  "name_author": "ROBERT LUIS STEVENSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 354,
+  "name_author": "PAULO MENDES CAMPOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 355,
+  "name_author": "HERMAN MELVILLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 363,
+  "name_author": "RAINBOW  ROWELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 364,
+  "name_author": "BARBARA MITCHLHILL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 374,
+  "name_author": "RACHEL RENÉE RUSSEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 375,
+  "name_author": "JIM BENTON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 376,
+  "name_author": "BEATRIZ PRATS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 377,
+  "name_author": "ZULMIRA RIBEIRO TAVARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 378,
+  "name_author": "ANA MIRANDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 379,
+  "name_author": "MANOEL DE BARROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 380,
+  "name_author": "RAIMUNDO CARRERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 381,
+  "name_author": "AHARON APPELFELD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 382,
+  "name_author": "JAKZAM KAISER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 383,
+  "name_author": "CARLOS HENRIQUE SCHROEDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 384,
+  "name_author": "JORGE MIGUEL MARINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 385,
+  "name_author": "TADEU PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 386,
+  "name_author": "ADWOA BADOE E BABA WAGÉ DIAKITÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 387,
+  "name_author": "AMÉLIA PINTO PAIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 388,
+  "name_author": "DANIEL WALLACE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 389,
+  "name_author": "CAIO FERNANDO ABREU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 391,
+  "name_author": "ANTÔNIO SCHIMENECK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 392,
+  "name_author": "VICTOR HUGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 393,
+  "name_author": "RUTH ROCHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 394,
+  "name_author": "RABINDRANATH TAGORE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 396,
+  "name_author": "MARIO GOULARTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 397,
+  "name_author": "MEG CABOT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 398,
+  "name_author": "STEVEN JAMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 399,
+  "name_author": "LUIZ EDUARDO SOARES, CLAUDIO FERRAZ, ANDRÉ BATISTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 400,
+  "name_author": "SUZANNE COLLINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 401,
+  "name_author": "LUÍS DILL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 402,
+  "name_author": "ARIANO SUASSUNA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 403,
+  "name_author": "CARLOS HEREULANOS LOPES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 407,
+  "name_author": "WASHINGTON LRVING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 408,
+  "name_author": "BEN ZIMET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 411,
+  "name_author": "PEDRO IVO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 418,
+  "name_author": "ALESSANDRO MANZONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 419,
+  "name_author": "MARLI WALKER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 420,
+  "name_author": "MAY SHURAVEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 421,
+  "name_author": "LEO CUNHA E RICARDO BENEVIDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 422,
+  "name_author": "CLÁUDIA MARIA DE VASCONCELLOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 423,
+  "name_author": "ISABELA NORONHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 424,
+  "name_author": "ALEXANDRE DUMAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 426,
+  "name_author": "MANUEL FILHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 427,
+  "name_author": "GEORGINA MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 428,
+  "name_author": "ROALD DAHL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 429,
+  "name_author": "FRANCESCO D'ADAMO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 430,
+  "name_author": "ROSANE PAMPLONA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 431,
+  "name_author": "PAULA PIMENTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 432,
+  "name_author": "KEKA REIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 433,
+  "name_author": "ANGTHICHAY, ARARIBY, JASSANÃ, MANGUAHÃ, KANÁTYO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 434,
+  "name_author": "KIUSAM DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 435,
+  "name_author": "IGNÁCIO DE LOYOLA BRANDÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 436,
+  "name_author": "JACK LONDON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 437,
+  "name_author": "JÚLIO EMÍLIO BRAZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 440,
+  "name_author": "ANNA SOLER-PONT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 441,
+  "name_author": "MHAIRI MCFARLANE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 234,
+  "name_author": "RENÈ GOSCINNY & JEAN-JACQUES SEMPÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 443,
+  "name_author": "LUIS BRAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 451,
+  "name_author": "RAFAELLA VIEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 452,
+  "name_author": "EUCANÂ FERRAZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 454,
+  "name_author": "MARK TWAIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 462,
+  "name_author": "JOHN BOYNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 463,
+  "name_author": "ERIC WRIGHT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 464,
+  "name_author": "JORGE VIVEIROS DE CASTRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 465,
+  "name_author": "ERNANI SSÓ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 468,
+  "name_author": "JOSE LINS DO REGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 469,
+  "name_author": "BRAULIO TAVARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 473,
+  "name_author": "RICARDO RAMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 475,
+  "name_author": "LUIS FERNANDO VERISSIMO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 476,
+  "name_author": "ANDREW DADDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 477,
+  "name_author": "JOSÉ ARRABAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 478,
+  "name_author": "ANGELA LÜHNING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 485,
+  "name_author": "FÁTIMA MESQUITA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 498,
+  "name_author": "JEFFERSON ASSUMÇÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 499,
+  "name_author": "VICTOR TRINDADE E GABRIEL FERNANDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 500,
+  "name_author": "ELIAMA MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 501,
+  "name_author": "JACKIE FRENCH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 502,
+  "name_author": "ELIANE GANEM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 503,
+  "name_author": "NELSON ALBISSÚ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 506,
+  "name_author": "ESMERALDA OTIZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 508,
+  "name_author": "KENNETH OPPEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 509,
+  "name_author": "JUDE WATSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 510,
+  "name_author": "JOSÉ LOUZEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 511,
+  "name_author": "ROGÉRIO ANDRADE BARBOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 512,
+  "name_author": "ILKA BRUNHILDE LAURITO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 496,
+  "name_author": "EDUARDO ZUGAIB",
+  "stats_author": 1
+ },
+ {
+  "id_author": 513,
+  "name_author": "ÁLVARO CARDOSO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 516,
+  "name_author": "ALVARO CARDOSO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 517,
+  "name_author": "CELSON GUTFREIND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 518,
+  "name_author": "LUIZ VILELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 521,
+  "name_author": "ROBERTA ASSE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 528,
+  "name_author": "PAUL STRATHERN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 529,
+  "name_author": "ELS PELGROM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 530,
+  "name_author": "GIUSEPPE VERDI E ANTONIO GHISLANZONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 531,
+  "name_author": "MIGUEL DE CERVANTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 532,
+  "name_author": "LUIZ RUFFATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 533,
+  "name_author": "ORÍGENES LESSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 534,
+  "name_author": "DEBORA ELLIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 535,
+  "name_author": "ARLENE HOLANDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 536,
+  "name_author": "CELSO SISTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 537,
+  "name_author": "GUSTAVO BERNARDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 538,
+  "name_author": "RICARDO AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 539,
+  "name_author": "LOURENÇO CAZARRÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 540,
+  "name_author": "CARLOS AXT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 541,
+  "name_author": "FIÓDOR DOSTOIÉVSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 542,
+  "name_author": "VINICIUS DE MORAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 543,
+  "name_author": "TATIANA BELINKY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 544,
+  "name_author": "FLAVIO DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 545,
+  "name_author": "SALMA FERRAZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 546,
+  "name_author": "ELIZABETH LOIBL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 547,
+  "name_author": "JACK TROUT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 548,
+  "name_author": "WILLIAM SHAKESPEARE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 549,
+  "name_author": "AUGUSTO CURY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 550,
+  "name_author": "WAGNER COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 551,
+  "name_author": "MALBA TAHAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 561,
+  "name_author": "MARIE-AUDE MURAIL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 562,
+  "name_author": "SAULO DOURADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 563,
+  "name_author": "PEDRO DONG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 564,
+  "name_author": "EDSON GABRIEL GARCIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 565,
+  "name_author": "ANTONIO SANTA ANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 566,
+  "name_author": "VALÉRIE ZENATTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 567,
+  "name_author": "MARCOS BAGNO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 568,
+  "name_author": "ROBERTO ATHAYDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 569,
+  "name_author": "MARCELO XAVIER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 570,
+  "name_author": "PEPETELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 571,
+  "name_author": "ADRIANO BITARÃES NETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 572,
+  "name_author": "REIDAR JÖNSSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 573,
+  "name_author": "ANNE BALLESTER SOARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 574,
+  "name_author": "BORIS SCHNAIDERMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 575,
+  "name_author": "NELSON RODRIGUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 576,
+  "name_author": "MAMEDE MUSTAFA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 577,
+  "name_author": "BERT HELLINGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 578,
+  "name_author": "FLÁVIA SAVARY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 579,
+  "name_author": "RUBEM BRAGA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 580,
+  "name_author": "MARK HADDON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 581,
+  "name_author": "HERMAN HESSE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 582,
+  "name_author": "ROSANA RIOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 583,
+  "name_author": "IVAN JAF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 584,
+  "name_author": "LILIA MORITZ SCHWARCZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 585,
+  "name_author": "GUSTAVO ADOLFO BÉCQUER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 586,
+  "name_author": "CECÍLIA MEIRELES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 588,
+  "name_author": "ANA PAULA CORRADINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 589,
+  "name_author": "SUSANA VENTURA & HELENA GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 590,
+  "name_author": "AUGUSTO PESSÔA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 591,
+  "name_author": "LUCAS M. CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 592,
+  "name_author": "VANESSA MARTINELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 593,
+  "name_author": "PATRICIA AUERBACH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 594,
+  "name_author": "CASSIANO SYDOW, KIKA ANTUNES..",
+  "stats_author": 1
+ },
+ {
+  "id_author": 595,
+  "name_author": "OBIOMA OFOEGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 596,
+  "name_author": "JONATHAN SWIFT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 597,
+  "name_author": "LUIZ RAUL MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 598,
+  "name_author": "GUILA AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 599,
+  "name_author": "EDY LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 605,
+  "name_author": "CELINA BODENMULLER\/ FABIANA PRANDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 616,
+  "name_author": "RICARDO GÓMEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 617,
+  "name_author": "TERESA CÁRDENAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 618,
+  "name_author": "JANE TUTIKIAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 619,
+  "name_author": "DIONISIO JACOB",
+  "stats_author": 1
+ },
+ {
+  "id_author": 620,
+  "name_author": "TEREZINHA MANCZAK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 627,
+  "name_author": "BEL ASSUNÇÃO AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 484,
+  "name_author": "ADRIANA FALCÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 628,
+  "name_author": "WALMIR AYALA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 629,
+  "name_author": "FERNANDO LIMOEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 630,
+  "name_author": "FÁBIO SOMBRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 631,
+  "name_author": "LETÍCIA WIERZCHOWSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 632,
+  "name_author": "IVANA VERSIANI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 633,
+  "name_author": "MARCO HAURÉLIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 638,
+  "name_author": "WIELAND FREUND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 639,
+  "name_author": "KAREL TCHAPEK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 640,
+  "name_author": "FRANÇOIZE BOUCHER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 649,
+  "name_author": "DANIELA CHINDLER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 650,
+  "name_author": "LUCIANO DAMI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 651,
+  "name_author": "CÁSTOR CARTELLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 652,
+  "name_author": "GONÇALVES DIAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 520,
+  "name_author": "GABRIELA ROMEU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 519,
+  "name_author": "MOACYR SCLIAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 653,
+  "name_author": "STÉPHANE SÉNÉGAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 660,
+  "name_author": "MARGARIDA PATRIOTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 661,
+  "name_author": "DIVERSOS AUTORES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 662,
+  "name_author": "CAIO RITTER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 663,
+  "name_author": "ANNA LEE \/ CARLOS HEITOR CONY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 664,
+  "name_author": "XOSÉ A. NEIRA CRUZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 666,
+  "name_author": "CHARLES DICKENS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 667,
+  "name_author": "MÁRIO DE ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 671,
+  "name_author": "BRENO FERNANDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 673,
+  "name_author": "ADRIANO MESSIAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 674,
+  "name_author": "DUDA PORTO DE SOUZA\/ ARYANE CARARO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 675,
+  "name_author": "LAURA SANDRONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 676,
+  "name_author": "ROGER MELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 683,
+  "name_author": "ÍNDIOS PATXÓ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 684,
+  "name_author": "MARIO QUINTANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 685,
+  "name_author": "SILVANA SALERNO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 686,
+  "name_author": "CRIS MIGUEL \/ SERGIO SERRANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 687,
+  "name_author": "MARCIA PAGANINI \/ RICARDO DALAI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 693,
+  "name_author": "HELOISA PRIETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 694,
+  "name_author": "MICHAËL ESCOFFIER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 695,
+  "name_author": "CÉCILE BERGAME \/ AUDE LÉONARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 696,
+  "name_author": "FERNANDO VILELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 697,
+  "name_author": "ANGÉLICA LOPES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 698,
+  "name_author": "KATIA CANTON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 699,
+  "name_author": "ANGELA LEITE DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 700,
+  "name_author": "STEFANIA STEFANI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 701,
+  "name_author": "CASTRO ALVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 704,
+  "name_author": "ALAIN MABANCKOU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 705,
+  "name_author": "LEWIS HELFAND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 706,
+  "name_author": "SÉRGIO KLEIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 707,
+  "name_author": "PEDRO VELUDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 708,
+  "name_author": "EDUARDO VETILLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 709,
+  "name_author": "BERTOLD BRECHT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 710,
+  "name_author": "DANIEL MUNDURUKU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 711,
+  "name_author": "CORNELIA FUNKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 712,
+  "name_author": "CASSANDRA CLARE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 713,
+  "name_author": "GILLIAN FLYNN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 714,
+  "name_author": "HARLAN COBEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 715,
+  "name_author": "J.A. REDMERSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 716,
+  "name_author": "LUIS FERNANDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 717,
+  "name_author": "JENNY HAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 726,
+  "name_author": "J D SALINGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 718,
+  "name_author": "MAARCELO CARNEIRO DA CUNHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 719,
+  "name_author": "MIA COUTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 720,
+  "name_author": "CÁSSIA CASSITAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 721,
+  "name_author": "MARGARET STOHL \/ KAMI GARCIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 722,
+  "name_author": "EDITH MODESTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 723,
+  "name_author": "SIR ARTHUR CONAN DOYLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 724,
+  "name_author": "PIERRE WEIL \/ ROLAND TOMPAKOW",
+  "stats_author": 1
+ },
+ {
+  "id_author": 725,
+  "name_author": "SÔNIA MACHADO DE AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 738,
+  "name_author": "ROBERT K. WITTMAN E DAVID KINNEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 739,
+  "name_author": "NEIL GAIMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 740,
+  "name_author": "NÉLIO SPRÉA E MILTON KARAM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 741,
+  "name_author": "YOKO OGAWA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 748,
+  "name_author": "WILLIAN SHAKESPEARE E OUTROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 749,
+  "name_author": "LEV TOLSTÓI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 750,
+  "name_author": "HELOISA PIRES LIMA, WILLIVANE FERREIRA...",
+  "stats_author": 1
+ },
+ {
+  "id_author": 751,
+  "name_author": "JOSTEIN GARDER E KLAUS HAGERUP",
+  "stats_author": 1
+ },
+ {
+  "id_author": 752,
+  "name_author": "LYGIA BOJUNGA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 753,
+  "name_author": "MARCELO D'SALETE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 754,
+  "name_author": "KHALED HOSSEINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 755,
+  "name_author": "FORD MADOX FORD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 756,
+  "name_author": "SIEG LARSSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 757,
+  "name_author": "AGATHA CRISTIE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 758,
+  "name_author": "GODOFREDO DE OLIVEIRA NETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 759,
+  "name_author": "STANISLAW PONTE PRETA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 760,
+  "name_author": "SOCORRO ACIOLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 761,
+  "name_author": "MÁRCIO DE SÁ-CARNEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 763,
+  "name_author": "MURIEL BARBERY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 764,
+  "name_author": "JOELLE CHARBONNEAU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 765,
+  "name_author": "JAMES PATTERSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 762,
+  "name_author": "LU FERREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 766,
+  "name_author": "LÁZARO RAMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 767,
+  "name_author": "MAURÍCIO GOMYDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 768,
+  "name_author": "LUCA COGNATO E SILVIA DELFRANCIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 770,
+  "name_author": "PETER JAMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 771,
+  "name_author": "BROOKE SHIELDS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 772,
+  "name_author": "MATTHEW  FITZSIMMONS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 774,
+  "name_author": "JOSEPH CONRAD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 775,
+  "name_author": "ÉDIPO REI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 776,
+  "name_author": "JOHN GRISHAM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 777,
+  "name_author": "NICHOLAS SPARKS E MICAH SPARKS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 778,
+  "name_author": "MANUEL ANTÔNIO DE ALMEIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 781,
+  "name_author": "ROBERTSON FRIZERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 782,
+  "name_author": "JOHN CRISHAM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 783,
+  "name_author": "RICHARD BARBER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 784,
+  "name_author": "MARCELO GLEISER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 785,
+  "name_author": "MILTON HATOUM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 786,
+  "name_author": "ANA CAROLINA DELMAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 787,
+  "name_author": "ERNEST HEMINGWAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 788,
+  "name_author": "MARIO PUZO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 789,
+  "name_author": "KRISTINA OHLSSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 790,
+  "name_author": "KRISTIN HANNAH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 792,
+  "name_author": "SOCIEDADE DE ESCRITORES DE BLUMENAU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 793,
+  "name_author": "MARIA TEREZA MALDONADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 794,
+  "name_author": "NICHOLAS SPARKS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 803,
+  "name_author": "CAMILO CASTELO BRANCO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 804,
+  "name_author": "WILLIAM P. YOUNG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 805,
+  "name_author": "C. BAXTER KRUGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 806,
+  "name_author": "MIGUEL SANCHES NETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 807,
+  "name_author": "PARAMAHANSA YOGANADA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 808,
+  "name_author": "JÜRGEN MATTHÄUS  E FRANK BAJOHR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 809,
+  "name_author": "TIMOTHY W. RYBACK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 810,
+  "name_author": "MARIO VARGAS LLOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 811,
+  "name_author": "ERIC J. HOBSBAWN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 814,
+  "name_author": "BRUNO BERLENDIS DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 825,
+  "name_author": "MARIA VALÉRIA REZENDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 826,
+  "name_author": "COLBERT DEMARIA BOITEUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 827,
+  "name_author": "BIANCA SANTANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 828,
+  "name_author": "JOHN MARSDEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 829,
+  "name_author": "CRISTINA ANTUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 830,
+  "name_author": "RUTH WARE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 831,
+  "name_author": "NIALL LEONARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 832,
+  "name_author": "KARIN FOSSUM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 833,
+  "name_author": "ALEX BELLOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 836,
+  "name_author": "SHAKESPEARE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 837,
+  "name_author": "THOMAS KENEALLY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 838,
+  "name_author": "SILVANA TAVANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 839,
+  "name_author": "ADÃO VENTURA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 840,
+  "name_author": "MARTINS FONTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 841,
+  "name_author": "FABIO ATUI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 842,
+  "name_author": "PATRICIA D. CORNWELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 843,
+  "name_author": "ARNALDUR INDRIDASON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 844,
+  "name_author": "ANGELA NANETTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 845,
+  "name_author": "ADRIANA LUNARDI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 846,
+  "name_author": "MARY HIGGINS CLARK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 847,
+  "name_author": "DARIO BEDUSCHI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 858,
+  "name_author": "EDUARDO SPOHR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 769,
+  "name_author": "WOLF ERLBRUCH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 869,
+  "name_author": "GABRIEL GARCÍA MÁRQUEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 870,
+  "name_author": "JO NESBO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 871,
+  "name_author": "MARKUS ZUSAK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 872,
+  "name_author": "WILL ADAMS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 873,
+  "name_author": "GAYLE FORMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 874,
+  "name_author": "ALESSANDRO D'AVENIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 875,
+  "name_author": "JOHN SCALZI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 876,
+  "name_author": "JOSÉ ARRABAL ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 877,
+  "name_author": "GREGÓRIO DE MATOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 878,
+  "name_author": "GILVÃ MENDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 879,
+  "name_author": "MIGUEL JORGE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 880,
+  "name_author": "ISHMAEL BEAH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 881,
+  "name_author": "H.G.WELLS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 882,
+  "name_author": "EMILY BRONTË",
+  "stats_author": 1
+ },
+ {
+  "id_author": 883,
+  "name_author": "DINO BUZZATI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 884,
+  "name_author": "ERIK AXL SUND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 885,
+  "name_author": "SAMIR THOMAZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 886,
+  "name_author": "STEPHEN HAWKING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 887,
+  "name_author": "RANSOM RIGGS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 888,
+  "name_author": "LAUREN KATE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 891,
+  "name_author": "JOHN STEINBECK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 892,
+  "name_author": "EDUARDO GALEANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 893,
+  "name_author": "ELIAS JOSÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 894,
+  "name_author": "LUIZ ALFREDO GARCIA-ROZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 895,
+  "name_author": "MICHAEL JENSEN E DAVID POWERS KING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 896,
+  "name_author": "ANTHONY KNIVET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 897,
+  "name_author": "ALBERT CAMUS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 898,
+  "name_author": "THOMAS MANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 899,
+  "name_author": "JULIO VERNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 900,
+  "name_author": "KEN FOLLETT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 901,
+  "name_author": "FERNANDO REINACH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 902,
+  "name_author": "ALEXANDER AFANÁSSIEV",
+  "stats_author": 1
+ },
+ {
+  "id_author": 903,
+  "name_author": "LISA KLEYPAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 913,
+  "name_author": "LUÍS PIMENTEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 914,
+  "name_author": "LUIZ ANTONIO AGUIAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 915,
+  "name_author": "HUMBERTO WERNECK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 916,
+  "name_author": "GÓRKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 917,
+  "name_author": "PEDRO PUECH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 918,
+  "name_author": "FERNANDA FELISBERTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 919,
+  "name_author": "PAULO GALVÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 924,
+  "name_author": "JOSÉ BOITEUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 925,
+  "name_author": "CARLA TORRENS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 926,
+  "name_author": "MARCELO LEITE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 927,
+  "name_author": "JULIA DANTAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 928,
+  "name_author": "JAIR VITÓRIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 929,
+  "name_author": "LANDE ONAWALE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 930,
+  "name_author": "FERREIRA GULLAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 931,
+  "name_author": "MARJANE SATRAPI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 932,
+  "name_author": "CYRIL PEDROSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 933,
+  "name_author": "ONDJAKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 934,
+  "name_author": "MANUEL RUI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 935,
+  "name_author": "ARISTÓFANES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 936,
+  "name_author": "ÉVELYNE BRISOU-PELLEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 937,
+  "name_author": "ÍNDIGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 938,
+  "name_author": "HERMES BERNARDI JR.",
+  "stats_author": 1
+ },
+ {
+  "id_author": 939,
+  "name_author": "JOSÉ EDUARDO AGUALUSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 940,
+  "name_author": "IOURENÇO CAZARRÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 941,
+  "name_author": "AFFONSO ROMANO DE SANT'ANNA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 942,
+  "name_author": "ÉRICA BOMBARDI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 944,
+  "name_author": "FLAUBERT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 945,
+  "name_author": "RAY BRADBURY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 946,
+  "name_author": "DRAUZIO VARELLA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 947,
+  "name_author": "ELENA P.MELODIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 948,
+  "name_author": "DANIEL WATERS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 949,
+  "name_author": "C. L TAYLOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 943,
+  "name_author": "MARQUESA DE SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 950,
+  "name_author": "LISA GARDNER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 951,
+  "name_author": "RENATO MOSCATELI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 952,
+  "name_author": "JAMIE MCGUIRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 953,
+  "name_author": "GEORGE ORWELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 954,
+  "name_author": "VALÉRIA PIASSA POLIZZI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 955,
+  "name_author": "ITALO SVEVO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 956,
+  "name_author": "PEDRO XISTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 957,
+  "name_author": "HENRIQUE SCHNEIDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 958,
+  "name_author": "MARIA LUIZA RANAUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 959,
+  "name_author": "FERNANDO BONASSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 960,
+  "name_author": "MARCELO TÉO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 961,
+  "name_author": "RICHARD BACHMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 968,
+  "name_author": "MARCOS LOSEKANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 969,
+  "name_author": "ANTHONY DOERR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 970,
+  "name_author": "OLIVER TWIST",
+  "stats_author": 1
+ },
+ {
+  "id_author": 971,
+  "name_author": "CILA E ROLF BÖRJLIND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 972,
+  "name_author": "ANTHONY BURGESS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 973,
+  "name_author": "NEIL STRAUSS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 974,
+  "name_author": "TESS GERRITSEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 975,
+  "name_author": "ANTONIO CESTARO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 976,
+  "name_author": "FABRICIO CARPINEJAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 977,
+  "name_author": "YVYRUPA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 978,
+  "name_author": "JOÃO PEDRO RORIZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 979,
+  "name_author": "BABA WAGUÉ DIAKITÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 980,
+  "name_author": "CARLOS EDUARDO PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 981,
+  "name_author": "SIRLENE BARBOSA E JOÃO PINHEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 982,
+  "name_author": "ANA CRISTINA MELO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 983,
+  "name_author": "JANE MITCHELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 984,
+  "name_author": "PLAUTO EURIPIDES SÓFOCLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 985,
+  "name_author": "STEPHENIE MEYER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 986,
+  "name_author": "WENDY HOLDEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 987,
+  "name_author": "JANE HAWKING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 988,
+  "name_author": "GILBERTO FREYRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 990,
+  "name_author": "ANNIE PROULX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 991,
+  "name_author": "JOHN BUCHAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 992,
+  "name_author": "APOSTOLOS DOXIADIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 993,
+  "name_author": "FRED PARONUZZI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 994,
+  "name_author": "MENALTON BRAFF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 995,
+  "name_author": "EURÍPEDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 996,
+  "name_author": "RODRIGO LACERDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 997,
+  "name_author": "LEO CUNHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 998,
+  "name_author": "ANDRZEJ SZCZYPIORSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 999,
+  "name_author": "DANILO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1000,
+  "name_author": "CORNÉLIO ANGELO MARCON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1001,
+  "name_author": "FRED UHLMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1002,
+  "name_author": "CARLOS ROSA MOREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1003,
+  "name_author": "LUÍS HENRIQUE PELLANDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1005,
+  "name_author": "SALLY GARDNER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1006,
+  "name_author": "EDGAR ALLAN POE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1007,
+  "name_author": "LUIS SCAFATTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1008,
+  "name_author": "GYULA KRÚDY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1009,
+  "name_author": "FLÁVIO JOSÉ CARDOZO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1010,
+  "name_author": "ELIANE BRUM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1011,
+  "name_author": "JOÃO DE JESUS PÃES LOUREIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1013,
+  "name_author": "TALAL HUSSEINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1014,
+  "name_author": "BALZAC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1015,
+  "name_author": "CRISTÓVÃO TEZZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1016,
+  "name_author": "C S LEWIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1017,
+  "name_author": "W BRUCE CAMERON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1018,
+  "name_author": "ANA ALONSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1012,
+  "name_author": "CASSIANO RICARDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1023,
+  "name_author": "KATHERINE MANSFIELD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1025,
+  "name_author": "JEAN GIONO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1035,
+  "name_author": "XINRAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1036,
+  "name_author": "RADUANNASSAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1037,
+  "name_author": "CALVINO,ITALO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1038,
+  "name_author": "LLOYD JONES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1039,
+  "name_author": "LUIGI PIRANDELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1040,
+  "name_author": "LYA LUFT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1034,
+  "name_author": "VOLTAIRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1041,
+  "name_author": "COLLEEN HOOVER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1042,
+  "name_author": "LUCY SYKES E JO PIAZZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1043,
+  "name_author": "D.NARCISA DE VILLAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1044,
+  "name_author": "KATE BRIAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1045,
+  "name_author": "REALI JR.",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1046,
+  "name_author": "MARIO BENEDETTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1047,
+  "name_author": "DAVID NICHOLLS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1048,
+  "name_author": "WALT WHITMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1049,
+  "name_author": "ESMERALDA DO CARMO ORTIZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1050,
+  "name_author": "PAULO DE MORAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1051,
+  "name_author": "AURÉLIO BUARQUE E PAULO RÓNAI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1052,
+  "name_author": "AYRES KOERIC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1053,
+  "name_author": "MICHEL TOURNIER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1054,
+  "name_author": "MÁRCIO BORGES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1055,
+  "name_author": "PHILIP PULLMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1056,
+  "name_author": "IRENE M. PEPPERBERG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1057,
+  "name_author": "MILLENNIUM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1058,
+  "name_author": "NORA ROBERTS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1059,
+  "name_author": "SERGIO AGUIRRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1060,
+  "name_author": "PAUL BOWLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1061,
+  "name_author": "VERA LÚCIA DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1062,
+  "name_author": "ROSA MONTERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1063,
+  "name_author": "WILLIAM FAULKNER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1067,
+  "name_author": "NELSON DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1068,
+  "name_author": "FREDERICK DOUGLAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1069,
+  "name_author": "MARCELO CARNEIRO DA CUNHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1070,
+  "name_author": "EÇA DE QUEIRÓS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1071,
+  "name_author": "JOSTEIN GAARDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1072,
+  "name_author": "ROBERT CRAIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1073,
+  "name_author": "SANDRA BROWN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1074,
+  "name_author": "VIVIANA MAZZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1075,
+  "name_author": "TIM LAHAYE E JERRY JENKINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1076,
+  "name_author": "JP DELANEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1077,
+  "name_author": "ROBIN SLOAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1078,
+  "name_author": "SHARI LAPENA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1079,
+  "name_author": "AFFINITY KONAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1080,
+  "name_author": "DINAH JEFFERIES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1089,
+  "name_author": "ONFRAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1090,
+  "name_author": "SHAUN TAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1091,
+  "name_author": "JASON QUINN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1092,
+  "name_author": "WALTER PAX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1093,
+  "name_author": "JOÃO GUIMARÃES ROSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1094,
+  "name_author": "ANDRÉ TORAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1095,
+  "name_author": "RICARDO SOARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1096,
+  "name_author": "SILVIO COELHO DOS SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1097,
+  "name_author": "ELEUTÉRIO NICOLAU DA CONCEIÇÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1098,
+  "name_author": "ESTEVÃO RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1100,
+  "name_author": "JOSÉ SARAMAGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1101,
+  "name_author": "VISCONDE DE TAUNAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1102,
+  "name_author": "RAUL POMPÉIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1104,
+  "name_author": "BÁRBARA HELLER, LUÍS DE BRITO E MARISA LAJOLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1105,
+  "name_author": "LUÍS DE CAMÕES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1112,
+  "name_author": "CRISTOVÃO TEZZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1113,
+  "name_author": "GRACILIANO RAMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1114,
+  "name_author": "CEZAR DIAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1115,
+  "name_author": "ANTONIETA CUNHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1116,
+  "name_author": "RITA CHAVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1117,
+  "name_author": "CARLOS DRUMMOND DE ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1118,
+  "name_author": "AFRÂNIO COUTINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1119,
+  "name_author": "J. AMADO J.LINS G.RAMOS A. MACHADO R. QUEIROZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1120,
+  "name_author": "MARCIA KUPSTAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1121,
+  "name_author": "OSWALD DE ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1122,
+  "name_author": "JORGE AMADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1133,
+  "name_author": "JOSÉ MURILO DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1134,
+  "name_author": "JOÃO DE CABRAL DE MELO NETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1135,
+  "name_author": "JOSÉ ALBERTO BARBOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1136,
+  "name_author": "JOSUÉ MONTELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1137,
+  "name_author": "MARTHA MEDEIROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1138,
+  "name_author": "ANGELA BRAGA TORRES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1144,
+  "name_author": "ALCIDES BUSS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1145,
+  "name_author": "ALBERTO DA COSTA E SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1146,
+  "name_author": "CORA CORALINA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1147,
+  "name_author": "DARCY FRANÇA DENÓFRIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1148,
+  "name_author": "JOHN BELLAIRS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1149,
+  "name_author": "ISMAEL DOS SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1150,
+  "name_author": "DOUGLAS TUFANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1151,
+  "name_author": "JULETA DE GODOY LADEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1152,
+  "name_author": "LIMA BARRETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1153,
+  "name_author": "JOAQUIM MANUEL DE MACEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1154,
+  "name_author": "ANTÔNIO DE ALCÂNTARA MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1155,
+  "name_author": "FERNANDO SABINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1156,
+  "name_author": "DARCKY RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1157,
+  "name_author": "LAURO JUNKES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1158,
+  "name_author": "GIL VICENTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1159,
+  "name_author": "MARTINS PENA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1160,
+  "name_author": "PEDRO BRUM SANTOS E VITOR BIASOLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1161,
+  "name_author": "EUCLIDES DA CUNHAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1162,
+  "name_author": "ALFREDO SCOTTINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1163,
+  "name_author": "AUTRAN DOURADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1164,
+  "name_author": "ASSIS UTSCH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1165,
+  "name_author": "CARLOS EDUARDO DE MAGALHÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1166,
+  "name_author": "DRUMMOND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1167,
+  "name_author": "CLARICE LISPECTOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1177,
+  "name_author": "CYRO DOS ANJOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1178,
+  "name_author": "DIAS GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1179,
+  "name_author": "DYONELIO MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1180,
+  "name_author": "JEFERSON TENÓRIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1181,
+  "name_author": "MACHADO DE ASSIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1182,
+  "name_author": "JOSÉ CÂNDIDO DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1183,
+  "name_author": "LEIDA LUSMAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1184,
+  "name_author": "LYGIA FAGUNDES TELLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1185,
+  "name_author": "MARIO PRATA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1186,
+  "name_author": "SERGIO BUARQUE DE HOLANDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1187,
+  "name_author": "JOSÉ ROBERTO TORERO E MARCUS AURELIUS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1188,
+  "name_author": "OSMAN LINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1189,
+  "name_author": "SELEÇÃO MORICONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1190,
+  "name_author": "ITALO MORICONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1191,
+  "name_author": "JOSÉ DE ALENCAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1192,
+  "name_author": "ALUISIO AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1193,
+  "name_author": "ANTONIO ARNONI PRADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1194,
+  "name_author": "JOÃO CABRAL DE MELO NETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1195,
+  "name_author": "FÁTIMA VENUTTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1196,
+  "name_author": "MAICON TENFEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1197,
+  "name_author": "JOSÉ LINS DO REGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1198,
+  "name_author": "IVAN ANGELO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1199,
+  "name_author": "JOÃO SANTANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1200,
+  "name_author": "JOÃO UBALDO RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1201,
+  "name_author": "LÍGIA MILITZ DA COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1202,
+  "name_author": "PAULO NOVAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1203,
+  "name_author": "SILIO BOCCANERA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1204,
+  "name_author": "WALCYR CARRASCO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1205,
+  "name_author": "SHERRY ARGOV ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1210,
+  "name_author": "FERRÉZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1211,
+  "name_author": "MANOEL BOMFIM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1212,
+  "name_author": "JOSÉ ROBERTO TORERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1213,
+  "name_author": "JOÃO MIRAMAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1214,
+  "name_author": "NIKOLAI GÓGOL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1215,
+  "name_author": "JOSÉ GUILHERME MERQUIOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1216,
+  "name_author": "ARTHUR AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1217,
+  "name_author": "MARCO ANTONIO ARANTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1111,
+  "name_author": "JOÃO JOSÉ REIS E FLÁVIO DOS SANTOS GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1218,
+  "name_author": "GABRIEL CHALITA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1219,
+  "name_author": "RACHEL DE QUEIROZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1220,
+  "name_author": "JOÃO GABRIEL DE LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1221,
+  "name_author": "MARISA LAJOLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1222,
+  "name_author": "JAIRO PACHECO MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1223,
+  "name_author": "DANIELA  OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1224,
+  "name_author": "DANIEL GALERA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1225,
+  "name_author": "DUARTE SCHUTEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1226,
+  "name_author": "DANTEALIGHIERI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1227,
+  "name_author": "ANTÔNIO JOSÉ DA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1232,
+  "name_author": "JORGE CALDEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1233,
+  "name_author": "MARIA CAROLINA MAIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1234,
+  "name_author": "CHICO BUARQUE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1235,
+  "name_author": "MÁRIO PALMÉRIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1236,
+  "name_author": "ZUENIR VENTURA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1237,
+  "name_author": "RUI BARBOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1238,
+  "name_author": "MAITÊ PROENÇA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1239,
+  "name_author": "SERGIO MARANHÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1240,
+  "name_author": "ERICO VERISSIMO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1241,
+  "name_author": "AFONSO CRUZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1242,
+  "name_author": "LEDA MROWINSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1243,
+  "name_author": "LIGIA MILITZ DA COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1244,
+  "name_author": "ALMANAQUE HISTÓRICO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1245,
+  "name_author": "RAIMUNDO FONTENELE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1246,
+  "name_author": "RILKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1247,
+  "name_author": "MONTEIRO LOBATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1248,
+  "name_author": "FRANZ KAFKA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1249,
+  "name_author": "J.BICCA LARRÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1250,
+  "name_author": "XICO SÁ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1251,
+  "name_author": "MARIANA LANELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1252,
+  "name_author": "MARIANA CARDOSO RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1253,
+  "name_author": "ALVAREZ DE AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1254,
+  "name_author": "LUZIA HOMEM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1255,
+  "name_author": "JOSUÉ DE CASTRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1256,
+  "name_author": "CRUZ E SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1257,
+  "name_author": "MÁRIO DE SÁ CARNEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1258,
+  "name_author": "JOSÉ SARNEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1259,
+  "name_author": "ANTONIO CALLADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1260,
+  "name_author": "GAVINO LEDDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1262,
+  "name_author": "CLAUDIA ALBIQUERQUE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1265,
+  "name_author": "VÂNIA MARIA REZENDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1266,
+  "name_author": "ANTÔNIO TORRES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1267,
+  "name_author": "ANTONIO CANDIDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1268,
+  "name_author": "PEDRO BANDEIRA E GUIDO CARLOS LEVI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1269,
+  "name_author": "AUGUSTO MASSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1270,
+  "name_author": "EMANUEL DE MORAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1271,
+  "name_author": "MANUEL BANDEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1272,
+  "name_author": "JÚLIO CASTAÑON GUIMARÃES E RACHEL T. VALENÇA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1273,
+  "name_author": "JÚLIO CASTAÑON  GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1274,
+  "name_author": "EVE BUNTING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1276,
+  "name_author": "ELINOR BURKETT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1277,
+  "name_author": "FERNANDO MORAIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1278,
+  "name_author": "MARTINS 3",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1279,
+  "name_author": "MASSAU SIMIZO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1280,
+  "name_author": "MANOEL RICARDO DE LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1281,
+  "name_author": "LUIZ DELFINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1282,
+  "name_author": "MOACIR PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1283,
+  "name_author": "ALICE RUIZ S",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1284,
+  "name_author": "CYRO DE MATTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1285,
+  "name_author": "ELOÍ ELISABETE BOCHECO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1286,
+  "name_author": "L M ALCOTT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1287,
+  "name_author": "PAULO BENTANCUR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1288,
+  "name_author": "LUZILÁ GONÇALVES FERREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1289,
+  "name_author": "ANTONIO BARRETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1290,
+  "name_author": "NATALIA BORGES POLESSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1291,
+  "name_author": "FERNANDO GABEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1292,
+  "name_author": "HENRIQUE RODRIGUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1293,
+  "name_author": "PATATIVA DO ASSARÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1294,
+  "name_author": "FREI BETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1295,
+  "name_author": "ALMEIDA GARRET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1296,
+  "name_author": "RUBEM FONSECA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1297,
+  "name_author": "BELVEDERE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1298,
+  "name_author": "AURÉLIO E PAULO RÓNAI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1299,
+  "name_author": "FERNANDO PESSOA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1300,
+  "name_author": "ADÉLIA PRADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1309,
+  "name_author": "JOSÉ PAULO PAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1310,
+  "name_author": "URDA ALICE KLUEGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1311,
+  "name_author": "JUCE E JOYCE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1312,
+  "name_author": "REGINALDO SANTOS TEIXEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1313,
+  "name_author": "JUAN FRANCISCO MANZANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1314,
+  "name_author": "MURILO RUBIÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1315,
+  "name_author": "ELLEN G WHITE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1316,
+  "name_author": "WERNER ZOTZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1317,
+  "name_author": "ITALO CALVINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1318,
+  "name_author": "ISRAEL JELIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1319,
+  "name_author": "MAIKE KRAUSSER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1320,
+  "name_author": "VIRGILIO VARZEA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1321,
+  "name_author": "ANTÓNIO LOBO ANTUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1322,
+  "name_author": "CARLOS ALBERTO DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1323,
+  "name_author": "ODETTE DE BARROS MOTT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1324,
+  "name_author": "NILMA LACERDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1325,
+  "name_author": "GEORGE MACDONALD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1326,
+  "name_author": "ERRI DE LUCA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1327,
+  "name_author": "EVELYNE BRISOU PELLEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1328,
+  "name_author": "MONIKA GRYCZYNSKA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1329,
+  "name_author": "GEORGES BOURDOUKAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1330,
+  "name_author": "MARCELO RUBENS PAIVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1331,
+  "name_author": "RADUAN NASSAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1332,
+  "name_author": "JOAO TERNURA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1342,
+  "name_author": "MARINA FIORATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1343,
+  "name_author": "CHICO BUARQUE E PAULO PONTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1344,
+  "name_author": "MARIA ADELAIDE AMARAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1345,
+  "name_author": "SAMIR YAZBEK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1346,
+  "name_author": "CARLOS DRUMOND DE ANDRADE ET. AL.",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1347,
+  "name_author": "LUÍS MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1348,
+  "name_author": "LACERDA COUTINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1349,
+  "name_author": "VÁRIOS AUTORES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1350,
+  "name_author": "WILL EISNER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1351,
+  "name_author": "FÁBIO MOON E GABRIEL BÁ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1352,
+  "name_author": "MOLIÈRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1353,
+  "name_author": "ANTÔNIO CARLOS GOMES E ANTONIO SCALVINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1354,
+  "name_author": "DRUMMOND AMORIM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1355,
+  "name_author": "BASÍLIO DA GAMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1364,
+  "name_author": "GIANFRANCESCO GUARNIERI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1365,
+  "name_author": "FREDERICO GARCIA LORCA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1366,
+  "name_author": "JOÃO GUIMARÂES ROSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1367,
+  "name_author": "GABRIEL BICALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1368,
+  "name_author": "F DOTOIÉVSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1369,
+  "name_author": "GUY DE MAUPASSANT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1370,
+  "name_author": "MARCELINO DUTRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1371,
+  "name_author": "LYCIA FAGUNDES TELLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1372,
+  "name_author": "GERALDO LUZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1373,
+  "name_author": "IVO HADLICH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1374,
+  "name_author": "MARIO SERGIO CORTELLA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1375,
+  "name_author": "CECILIA ALMEIDA SALLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1376,
+  "name_author": "SERGIO BAMBARÉN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1377,
+  "name_author": "WANDER MELO MIRANDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1575,
+  "name_author": "CAULOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1261,
+  "name_author": "ALICE LUTTEMBARCK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1378,
+  "name_author": "ESMERALDA RIBEIRO E MÁRCIO BARBOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1379,
+  "name_author": "TÉRCIA MONTENEGRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1380,
+  "name_author": "BYRON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1381,
+  "name_author": "SÉRGIO CAPPARELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1382,
+  "name_author": "JOÃO GILBERTO NOLL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1383,
+  "name_author": "ALEXANDER PÚCHKIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1384,
+  "name_author": "HORACIO QUIROGA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1386,
+  "name_author": "MAKSIM GÓRKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1387,
+  "name_author": "FELIPE FELISBINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1388,
+  "name_author": "GERALD BRITTLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1397,
+  "name_author": "ANTONIETA DE BARROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1398,
+  "name_author": "LINDOLF BELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1399,
+  "name_author": "DELMINDA SILVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1400,
+  "name_author": "KLEVISSON VIAMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1401,
+  "name_author": "LUCIANA V.P. DE MENDONÇA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1402,
+  "name_author": "JOAO SILVEIRA DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1403,
+  "name_author": "PAULO LEMINSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1404,
+  "name_author": "SIMONE SANTOS GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1405,
+  "name_author": "MARCOS AGUSTINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1406,
+  "name_author": "CARLOS FELIPE MOISÉS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1407,
+  "name_author": "LORREINE BEATRICE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1408,
+  "name_author": "VERA AGUIAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1419,
+  "name_author": "ÁLVARO MICHEL ALVES GUIMARÃES FIGUEIREDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1420,
+  "name_author": "PALLOTTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1421,
+  "name_author": "EMILY DICKINSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1422,
+  "name_author": "PAULO,AGENOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1423,
+  "name_author": "MÁRIO QUINTANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1424,
+  "name_author": "STÉLIO TORQUATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1425,
+  "name_author": "FABRICIO WOLFF E ERALDO SCHNAIDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1426,
+  "name_author": "ILO KRUGLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1427,
+  "name_author": "AYRTON BENTO MAFRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1428,
+  "name_author": "MARLENE EDIR SEVERINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1429,
+  "name_author": "MIRNA PINSKY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1430,
+  "name_author": "MONICA STAHEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1431,
+  "name_author": "LUCIANA SANDRONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1432,
+  "name_author": "PEDRO BLOCH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1433,
+  "name_author": "CHICO DE ASSIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1441,
+  "name_author": "CIÇA FITTIPALDI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1442,
+  "name_author": "JOÃO DE BARRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1443,
+  "name_author": "LOURENÇO DIAFÉRIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1444,
+  "name_author": "ANDRÉ MOURA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1452,
+  "name_author": "NEUSA SORRENTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1453,
+  "name_author": "MARIA JARLETE GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1454,
+  "name_author": "RICARDO ALEIXO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1455,
+  "name_author": "ARNALDO ANTUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1456,
+  "name_author": "CASIMIRO DE ABREU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1457,
+  "name_author": "OLGA REVERBEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1458,
+  "name_author": "ANA CRISTINA CESAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1459,
+  "name_author": "OSCAR VON PFUHL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1460,
+  "name_author": "THIAGO DE MELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1461,
+  "name_author": "WAGNER ALFREDO D'ÁVILA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1462,
+  "name_author": "FEDERICO GARCÍA LORCA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1463,
+  "name_author": "JOSÉ DE CASTRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1464,
+  "name_author": "MAURO GALVÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1465,
+  "name_author": "BRUNO LIMA PERIDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1474,
+  "name_author": "PAULO COELHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1475,
+  "name_author": "JO SOARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1476,
+  "name_author": "JOHN GLEDSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1477,
+  "name_author": "ZÉLIA GATTAI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1478,
+  "name_author": "HANS MAGNUS ENZENSBERGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1479,
+  "name_author": "WANDER PIROLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1480,
+  "name_author": "ONFRAY LEROY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1481,
+  "name_author": "ALEX GHENTER ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1482,
+  "name_author": "FLÁVIO MOREIRA DA COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1484,
+  "name_author": "ANTONIO CICERO E EUCANAÂ FERRAZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1485,
+  "name_author": "MÁRCIA DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1486,
+  "name_author": "LEÔNIDAS PELLEGRINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1487,
+  "name_author": "MAJA LUNDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1488,
+  "name_author": "CARLOS HERCULANO LOPES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1489,
+  "name_author": "FLAVIO DOS SANTOS GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1496,
+  "name_author": "FERNANDO BRANT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1497,
+  "name_author": "ORIDES FONTELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1498,
+  "name_author": "LUDMILA SCARANO COIMBRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1499,
+  "name_author": "S. BERNARDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1500,
+  "name_author": "JOAO DÉCIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1501,
+  "name_author": "LUISA TOMBINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1502,
+  "name_author": "MONIQUE REVILLION",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1507,
+  "name_author": "JOSÉ CARLOS MAGDALENA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1508,
+  "name_author": "ROBERTO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1509,
+  "name_author": "ERICO VERÍSSIMO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1510,
+  "name_author": "BETTY MINDLIN E NARRADORES INDÍGENAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1511,
+  "name_author": "JÃO DÉCIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1512,
+  "name_author": "IRENE DE LA PUENTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1513,
+  "name_author": "FERNANDO FÁBIO FIORESE FURTADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1514,
+  "name_author": "ROBERTO VERGEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1518,
+  "name_author": "ADRIANA GUMZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1519,
+  "name_author": "PAULINHO ASSUNÇÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1529,
+  "name_author": "LUIS CAMARGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1530,
+  "name_author": "GUSTAVO ROLDAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1531,
+  "name_author": "EVA FURNARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1532,
+  "name_author": "MERCE LOPEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1533,
+  "name_author": "EMILIA LANG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1534,
+  "name_author": "FIONA REMPT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1535,
+  "name_author": "MARCELO CIPIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1536,
+  "name_author": "MARÍA HERGUETA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1537,
+  "name_author": "WALTER ONO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1538,
+  "name_author": "RUI DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1539,
+  "name_author": "RICARDO ELIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1541,
+  "name_author": "LUCIA VILLARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1542,
+  "name_author": "MARIA PASCUAL DE LA TORRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1543,
+  "name_author": "DOLORES SCHRAM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1544,
+  "name_author": "KIARA TERRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1545,
+  "name_author": "RUDI IMHOF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1546,
+  "name_author": "ANA TERRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1547,
+  "name_author": "NEUZA LOZANO PERES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1548,
+  "name_author": "BIA VILLELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1549,
+  "name_author": "CARMEN LUCIA CAMPOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1550,
+  "name_author": "ANDRÉ NEVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1551,
+  "name_author": "LUCIA HIRATSUKA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1552,
+  "name_author": "GUILHERME KARSTEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1553,
+  "name_author": "BLANDIDA FRANCO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1554,
+  "name_author": "PAUL HOPPE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1555,
+  "name_author": "JANAINA TOKITAKA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1556,
+  "name_author": "SULAMITA COELHO AMARAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1557,
+  "name_author": "LISA PAPP",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1558,
+  "name_author": "AGUSTIN COMOTTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1559,
+  "name_author": "ANA RAQUEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1560,
+  "name_author": "KAYLA FERRARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1561,
+  "name_author": "GISELLE GONÇALVES DA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1562,
+  "name_author": "GUSTAVO ROSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1563,
+  "name_author": "TÂNIA RODRIGUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1564,
+  "name_author": "MIRIAM APARECIDA DE ROCHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1565,
+  "name_author": "LILIANA E MICHELE IACOCCA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1566,
+  "name_author": "CRISTINA MARQUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1567,
+  "name_author": "NILMA LINO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1568,
+  "name_author": "VÁSSIA SILVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1569,
+  "name_author": "RONALDO SIMÕES COELHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1570,
+  "name_author": "DISNEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1571,
+  "name_author": "ALISON WINN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1572,
+  "name_author": "WELLINGTON SRBEK E WILL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1573,
+  "name_author": "JACQUI BAILEY E MATTHEW LILLY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1574,
+  "name_author": "LAURA HERRERA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1483,
+  "name_author": "JULIE ASHWORTH  E JOHN CLARK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1576,
+  "name_author": "ANETTE BLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1584,
+  "name_author": "MARY FRANÇA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1585,
+  "name_author": "MARGARET MUIRHEAD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1587,
+  "name_author": "MARILDA CASTANHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1588,
+  "name_author": "ANN RACHLIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1589,
+  "name_author": "SUSAN HELLARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1590,
+  "name_author": "SIDÓNIO MURACHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1591,
+  "name_author": "LARA MEANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1592,
+  "name_author": "PAULA GIANNINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1593,
+  "name_author": "MARIE SELLIER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1594,
+  "name_author": "SALATIEL BARRAGÁN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1595,
+  "name_author": "RONIWALTER JATOBÁ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1596,
+  "name_author": "YAGUARÊ YAMÃ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1597,
+  "name_author": "ANTONIO SKÁRMETA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1598,
+  "name_author": "LÚCIA HIRATSUKA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1599,
+  "name_author": "HENRIQUE SITCHIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1600,
+  "name_author": "JOSÉ MARCELO RODRIGUES FREIRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1601,
+  "name_author": "ANDRÉ MOURA E ALÊ ABREU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1602,
+  "name_author": "JORGE LUJÁN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1603,
+  "name_author": "JENS RASSMUS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1606,
+  "name_author": "ROBERTO RECH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1607,
+  "name_author": "DANIEL RENARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1608,
+  "name_author": "MARTIN WILLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1609,
+  "name_author": "ANNA GOBEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1610,
+  "name_author": "MURIEL MINGAU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1611,
+  "name_author": "ANNA E BARBARA FIENBERG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1612,
+  "name_author": "MARIA DE LOURDES SCOTTINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1613,
+  "name_author": "MARCIA REGINA DA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1614,
+  "name_author": "ÉLISA GEHIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1615,
+  "name_author": "LOROTAS E FOFOCAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1616,
+  "name_author": "NYE RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1617,
+  "name_author": "JOANNE WILLIS ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1618,
+  "name_author": "JEANNE WILLIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1619,
+  "name_author": "ASCENSO FERREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1620,
+  "name_author": "LIZ GARTON SCANLON E MARLA FRAZEE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1621,
+  "name_author": "IZA LOTITO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1622,
+  "name_author": "ELIANDRO ROCHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1623,
+  "name_author": "DAVID CONWAY E JUDE DALY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1624,
+  "name_author": "LUIZA MARA E SALMO DANSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1625,
+  "name_author": "REMO USAI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1626,
+  "name_author": "MARTINHO DA VILA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1627,
+  "name_author": "MARIO BAG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1628,
+  "name_author": "GIAN CALVI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1629,
+  "name_author": "MARIE FRANCINE HÉBERT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1639,
+  "name_author": "SHIN JI-YUN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1640,
+  "name_author": "GRAÇA LIMA, MARIANA MASSARANI E ROGER MELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1641,
+  "name_author": "CARLOS NOGUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1642,
+  "name_author": "OLGA DE DIOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1643,
+  "name_author": "ALEXANDRE DE CASTRO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1644,
+  "name_author": "RODRIGO TRAMONTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1645,
+  "name_author": "HELME HEINE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1646,
+  "name_author": "POCHYUA ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1647,
+  "name_author": "FINELON FERREIRA FIGUEIREDO NETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1648,
+  "name_author": "CAROL ROTH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1649,
+  "name_author": "ANDRÉ RICARDO AGUIAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1650,
+  "name_author": "GUTO LINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1651,
+  "name_author": "VÍCTOR ESCANDELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1652,
+  "name_author": "ELISABETH TEIXEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1653,
+  "name_author": "CESAR CARDOSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1661,
+  "name_author": "CACO GALHARDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1662,
+  "name_author": "JEAN RASSMUS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1663,
+  "name_author": "JONAS WORCMAN DE MATOS E JOSÉ SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1664,
+  "name_author": "VERA LICIA VAZ DE ARRUDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1665,
+  "name_author": "EDUARD JOSÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1666,
+  "name_author": "R. GOSCINNY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1667,
+  "name_author": "MARTINS RODRIGUES TEIXEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1668,
+  "name_author": "MAURICIO NEGRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1669,
+  "name_author": "GERALD ROSE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1670,
+  "name_author": "PAULO DANIEL FARAH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1671,
+  "name_author": "ANGELA HOFMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1672,
+  "name_author": "ALANE BEATRIZ VERMELHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1673,
+  "name_author": "CARLA CARUSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1674,
+  "name_author": "SANDRA LANE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1675,
+  "name_author": "CECÍLIA ARANHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1676,
+  "name_author": "LUCIA TOMAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1677,
+  "name_author": "ROSE E.SGROGLIA MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1678,
+  "name_author": "BENJAMIN LEROY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1679,
+  "name_author": "MAX LUGADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1680,
+  "name_author": "JON SCIESKA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1681,
+  "name_author": "SÕNIA BARROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1682,
+  "name_author": "INGRID BIESEMEYER BELLINGHAUSEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1683,
+  "name_author": "MARLENE CRESPO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1684,
+  "name_author": "MARTIN HANDFORD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1685,
+  "name_author": "MURILO CISALPINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1686,
+  "name_author": "FABIANO MORAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1687,
+  "name_author": "RICARDO DREGUER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1688,
+  "name_author": "SYLVIA ROESCH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1689,
+  "name_author": "REINALDO DOMINGOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1690,
+  "name_author": "JOSÉ SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1691,
+  "name_author": "PAULO VALENTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1692,
+  "name_author": "SELMA MARIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1693,
+  "name_author": "IVAN ALCÂNTARA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1694,
+  "name_author": "CECÍLIA CAVALIERI FRANÇA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1695,
+  "name_author": "REGINA RENNÓ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1696,
+  "name_author": "PAULA SANDRONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1705,
+  "name_author": "PAULO VENTURELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1706,
+  "name_author": "JEN WOJTOWICZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1707,
+  "name_author": "PABLO NERUDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1708,
+  "name_author": "LIANA LEÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1709,
+  "name_author": "ANUSHKA RAVISHANKAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1710,
+  "name_author": "SYLVIE GIRARDET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1711,
+  "name_author": "MARIANA ZANETTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1712,
+  "name_author": "CLAUDIA SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1713,
+  "name_author": "ALAIN SERRES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1714,
+  "name_author": "CHARLOTTE BELLIÈRE E IAN DE HAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1715,
+  "name_author": "CRISTINE NAUMANN ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1716,
+  "name_author": "PEDRO MOURÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1717,
+  "name_author": "BEATRICE ALEMAGNA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1718,
+  "name_author": "BOB GILL E ALASTAIR REID",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1719,
+  "name_author": "MARCELO MALUF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1720,
+  "name_author": "MARTA GHIHLIONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1721,
+  "name_author": "ANNA MUYLAERT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1722,
+  "name_author": "ANGELO MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1723,
+  "name_author": "ANNA CLAUDIA RAMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1724,
+  "name_author": "SÔNIA BARROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1725,
+  "name_author": "MAX VELTHUIJS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1726,
+  "name_author": "AGNES LAROCHE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1727,
+  "name_author": "LILLO PARRA,ROGÊ ANTÔNIO E AKIRA SANOKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1728,
+  "name_author": "LUÍS DONISETE BENZI GRUPIONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1540,
+  "name_author": "SIDÓNIO MURALHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1729,
+  "name_author": "LUCIANA SAVAGET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1730,
+  "name_author": "KANÁTYO PATAXÓ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1731,
+  "name_author": "SÉRGIO MEURER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1732,
+  "name_author": "KETY CHEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1733,
+  "name_author": "GLAUCIA LEWICKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1734,
+  "name_author": "JOSÉ ROBERTO LUCHETTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1735,
+  "name_author": "EUN HEE NA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1736,
+  "name_author": "ARNALDO ANTUNES E ZABA MOREAU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1737,
+  "name_author": "MARÍA WERNICKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1738,
+  "name_author": "RONALDO CLAVER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1739,
+  "name_author": "IRMÃOS GRIMM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1740,
+  "name_author": "VALÉRIA BELÉM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1741,
+  "name_author": "TINO FREITAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1742,
+  "name_author": "DOUGLAS SLVA LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1743,
+  "name_author": "TONIO CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1749,
+  "name_author": "ASTERIX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1750,
+  "name_author": "GUILHERME MATEUS DO SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1760,
+  "name_author": "SONIA JUNQUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1761,
+  "name_author": "RENATA BUENO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1762,
+  "name_author": "RICARDO DA CUNHA LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1763,
+  "name_author": "CINTIA ALVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1764,
+  "name_author": "ALEXANDRE PARAFITA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1771,
+  "name_author": "RENAN ARCO-VERDE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1772,
+  "name_author": "ALFREDO BOULOS JÚNIOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1773,
+  "name_author": "ROSANE PAMPLONA E SÔNIA MAGALHÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1774,
+  "name_author": "GABRIEL O PENSADOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1775,
+  "name_author": "FERNANDO A. PIRES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1776,
+  "name_author": "REGINA CASÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1777,
+  "name_author": "KATHRYN LAMB",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1778,
+  "name_author": "DOM QUIXOTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1779,
+  "name_author": "EDMIR PERROTTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1782,
+  "name_author": "ANDREA BELO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1783,
+  "name_author": "GRACIELA MONTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1784,
+  "name_author": "E.T.A HOFFMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1785,
+  "name_author": "SUNNY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1786,
+  "name_author": "JORGE FURTADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1787,
+  "name_author": "CHICO ALENCAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1788,
+  "name_author": "VICTORIA PÉREZ ESCRIVÁ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1789,
+  "name_author": "ESTER GARCÍA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1790,
+  "name_author": "MARIANNE DUBUC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1791,
+  "name_author": "VIVINA DE ASSIS VIANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1792,
+  "name_author": "HANS CHRISTIAN ANDERSEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1793,
+  "name_author": "LUIZ BRAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1794,
+  "name_author": "ANA MÁRIA PAVEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1795,
+  "name_author": "CONSTANZA RECART",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1796,
+  "name_author": "FERNANDA LOPES DE ALMEIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1797,
+  "name_author": "ANDRÉ DINIZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1804,
+  "name_author": "ERNESTO RODRIGUEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1805,
+  "name_author": "VIVIANA DE ASSIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1806,
+  "name_author": "BARBARA KINDERMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1807,
+  "name_author": "ALMIR CORREIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1808,
+  "name_author": "JOANA D'ARC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1809,
+  "name_author": "CLAUDIA SCATAMACCHIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1810,
+  "name_author": "RENATA PALLOTTINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1811,
+  "name_author": "FANNY ABRAMOVICH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1812,
+  "name_author": "RAQUEL MARTHA BARTHE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1813,
+  "name_author": "TKAINÃ E LAURA BACELLAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1814,
+  "name_author": "ANTONIO PRATA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1815,
+  "name_author": "BIA HETZEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1816,
+  "name_author": "SAKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1817,
+  "name_author": "H. RIDER HAGGARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1818,
+  "name_author": "CARLOS COLLODI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1819,
+  "name_author": "FRANZ BERMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1820,
+  "name_author": "CLAUDIO FRAGATA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1821,
+  "name_author": "MAX EHRMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1822,
+  "name_author": "NATALIA RAMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1823,
+  "name_author": "MARCO TÚLIO COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1824,
+  "name_author": "ANASTÁCIA CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1825,
+  "name_author": "LEWIS CARROLL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1826,
+  "name_author": "JOY COWLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1827,
+  "name_author": "SUZANA DIAS-BECK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1828,
+  "name_author": "RENATE ROSSMARK E WIELAND LICKFELD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1829,
+  "name_author": "CARMEN LUCIA CAMPOS E NILSON JOAQUIM DA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1103,
+  "name_author": "MARIA DINORAH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1830,
+  "name_author": "SEHAY KA´AT HARÍA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1831,
+  "name_author": "FIDO NESTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1837,
+  "name_author": "PIERRE VERGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1838,
+  "name_author": "SUSIE MORGENSTERN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1839,
+  "name_author": "ALFREDO BOSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1840,
+  "name_author": "RAUL DREWNICK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1841,
+  "name_author": "IVANA ARRUDA LEITE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1842,
+  "name_author": "RENATA SANT'ANNA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1843,
+  "name_author": "CARLOS DA CUNHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1844,
+  "name_author": "CARLOS QUEIROZ TELLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1845,
+  "name_author": "ELVIRA VIGNA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1846,
+  "name_author": "GABRIELA SCHMITZ BERTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1847,
+  "name_author": "ALICE VIEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1848,
+  "name_author": "FERNANDO CARRARO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1849,
+  "name_author": "JAIME KEMP",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1859,
+  "name_author": "LUIZ GALDINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1860,
+  "name_author": "HELOISA PRIETO E GILBERTO DIMESTEIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1861,
+  "name_author": "LUIS LORENZO RIVERA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1862,
+  "name_author": "TINA GALLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1863,
+  "name_author": "PETER SCHÖSSOW",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1870,
+  "name_author": "JORN RIEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1871,
+  "name_author": "GABRIELLA SANTOS RODRIGUES DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1872,
+  "name_author": "SÓFOCLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1881,
+  "name_author": "MARIO SERGIO CORTELLA E EUGENIO MUSSAK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1882,
+  "name_author": "MARIO SERGIO CORTELLA E RENATO JANINE RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1892,
+  "name_author": "MARIO SERGIO CORTELLA E GILBERTO DIMENSTEIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1893,
+  "name_author": "MARIO SERGIO CORTELLA E YVES DE LA TAILLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1904,
+  "name_author": "SIMON SINGH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1905,
+  "name_author": "WINFRIED BOHM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1906,
+  "name_author": "ZAIR ANÍBAL DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1907,
+  "name_author": "WENDY LUSTBADER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1903,
+  "name_author": "ZYGMUNT BAUMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1914,
+  "name_author": "LIDIA MARIA RODRIGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1925,
+  "name_author": "WALTER O. KOHAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1926,
+  "name_author": "MARIO BUNGE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1927,
+  "name_author": "SERGIO PAULO ROUANET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1928,
+  "name_author": "PLATÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1929,
+  "name_author": "F. M. CORNFORD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1930,
+  "name_author": "MADELEINE ARONDEL- ROHAUT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1931,
+  "name_author": "MARIOS SERGIO CORTELLA, LEONARDO BOFF E FREI BETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1932,
+  "name_author": "MARIO SERGIO CORTELLA E FREI BETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1933,
+  "name_author": "VALÉRIA MARIA ALVES ADISSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1934,
+  "name_author": "RENATO MOCELLIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1935,
+  "name_author": "ANTONIO CARLOS BRANDÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1936,
+  "name_author": "MILTON MEIRA DO NASCIMENTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1937,
+  "name_author": "HERMANI DONATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1938,
+  "name_author": "WLADIMIR POMAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1939,
+  "name_author": "LUIZ ALEXANDRE TEIXEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1940,
+  "name_author": "FRANZ VICTOR RUDIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1941,
+  "name_author": "CARLOS BERNARDO GONZÁLEZ PECOTCHE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1942,
+  "name_author": "ECLÉA BOSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1943,
+  "name_author": "FLORESTAN FERNANDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1944,
+  "name_author": "ÉMILE DURKHEIM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1945,
+  "name_author": "ANA PAULA DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1946,
+  "name_author": "MARIA CECÍLIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1947,
+  "name_author": "ANA MARIA ARAÚJO FREIRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1958,
+  "name_author": "CARLOS MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1959,
+  "name_author": "SAMUEL MURGEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1960,
+  "name_author": "MAYURA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1961,
+  "name_author": "TERESA CRISTINA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1962,
+  "name_author": "DURVAL MUNIZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1963,
+  "name_author": "MÁRIO PAREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1965,
+  "name_author": "TOMAZ TADEU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1966,
+  "name_author": "L.S.VIGOTSKI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1967,
+  "name_author": "GILBERTO DIMENSTEIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1968,
+  "name_author": "OCTACÍLIO SHULLER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1969,
+  "name_author": "QUÉLI FLACH ANSCHAU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1970,
+  "name_author": "VÍCTOR JARA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1971,
+  "name_author": "MARIA ISABEL ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1850,
+  "name_author": "REINERT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1972,
+  "name_author": "IGNACY SACHS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1980,
+  "name_author": "MARGARET J. WHEATLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1981,
+  "name_author": "MAX WEBER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1982,
+  "name_author": "HUBERTO ROHDEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1983,
+  "name_author": "CARLOS BENEDITO MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1984,
+  "name_author": "EDGAR MORIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1985,
+  "name_author": "JOSÉ D ASSUNÇÃO BARROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1986,
+  "name_author": "MARCUS VINICIUS FONSECA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1987,
+  "name_author": "HAMILTON WERNECK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1988,
+  "name_author": "FRITJOF CAPRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1989,
+  "name_author": "NELSON WERNECK SODRÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1990,
+  "name_author": "NEWTON DUARTE MOLON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1991,
+  "name_author": "FLÁVIO DOS SANTOS GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2002,
+  "name_author": "FRANCISCO C . WEFFORT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2013,
+  "name_author": "VINICIUS DE FIGUEIREDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2014,
+  "name_author": "HERVÉ THIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2015,
+  "name_author": "MOACYR COSTA FERREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2016,
+  "name_author": "NELY CAIXETA, CLAYTON NETZ E RICARDO GALUPPO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2017,
+  "name_author": "PEDRINHO GUARESCHI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2018,
+  "name_author": "OCTAVIO IANNI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2019,
+  "name_author": "OG MANDINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2020,
+  "name_author": "LUIZ CARLOS PAVAN E PAULO VENDELINO KONS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2021,
+  "name_author": "CAROLINA V. DANTAS, HEBE MATTOS E MARTHA ABREU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2022,
+  "name_author": "EMILIO GARCÍA MÉNDEZ E MARY BELOFF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2024,
+  "name_author": "MARCELO SZPILMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2025,
+  "name_author": "MARCELLA LOPES GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2026,
+  "name_author": "ALLAN PERCY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2035,
+  "name_author": "CARLOS CARDOSO AVELINE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2036,
+  "name_author": "LUIZ BOLOGNESI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2037,
+  "name_author": "FERNANDO FROCHTENGARTEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2038,
+  "name_author": "ANNA MARIA PESSOA DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2039,
+  "name_author": "FRANCISCO ALVES FILHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2040,
+  "name_author": "INÊS TEIXEIRA,, JOSÉ LOPES E JUARES DAYRELL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2041,
+  "name_author": "NELIO BIZZO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2042,
+  "name_author": "MARIA JOSÉ REIS E NEUSA MARIA BLOEMER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2043,
+  "name_author": "DIRCE MARIA ANTUNES SUERTEGARAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2044,
+  "name_author": "UFRGS EDITORA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2045,
+  "name_author": "CÁSSIO LEITE VIEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2046,
+  "name_author": "OSCAR D ´AMBROSIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2057,
+  "name_author": "BORIS FAUSTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2068,
+  "name_author": "LUIZ IVAN ALBUQUERQUE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2069,
+  "name_author": "JORGE DE LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2070,
+  "name_author": "MURILO MENDES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2071,
+  "name_author": "MAURA DE SENNA PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2072,
+  "name_author": "MARIA VIANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2073,
+  "name_author": "SALOMÃO RIBAS JUNIOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2074,
+  "name_author": "ANDRÉ DE SOUZA ROEPKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2075,
+  "name_author": "NÍCIA VILELA LUZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2076,
+  "name_author": "ARAUJO FIGUEIREDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2077,
+  "name_author": "RENÉ CASTRO BERARDI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2078,
+  "name_author": "RENATA SÁ FORTES RÉGIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2079,
+  "name_author": "FERNANDO GRANATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2090,
+  "name_author": "JOSUÉ GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2091,
+  "name_author": "CLÓVIS OSVALDO ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2101,
+  "name_author": "ARNON HOLLAENDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2102,
+  "name_author": "GIOVANNA CAMPOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2103,
+  "name_author": "AURÉLIO BUARQUE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2104,
+  "name_author": "ANGELA B",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2105,
+  "name_author": "MADALENA PARISI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2106,
+  "name_author": "EVANILDO BECHARA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2107,
+  "name_author": "ATALIBA CASTILHO E VANDA ELIAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2108,
+  "name_author": "CELSO CUNHA E LINDLEY CINTRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2109,
+  "name_author": "MARIA TEREZA CAMARGO BIDERMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2110,
+  "name_author": "PAULO GEIGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2112,
+  "name_author": "GERALDO MATTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2113,
+  "name_author": "ROGÉRIO DE ARAÚJO RAMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2123,
+  "name_author": "MARCUS CLÁUDIO ACQUAVIVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2124,
+  "name_author": "FÁTIMA SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2125,
+  "name_author": "ADRIANO DA GAMA KURY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2126,
+  "name_author": "MARCIO RICARDO LOPES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2127,
+  "name_author": "VILSON DO NASCIMENTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2128,
+  "name_author": "PAULO FREIRE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2129,
+  "name_author": "DR. FRANCISCO ANTUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2130,
+  "name_author": "RUY CEZAR DO ESPIRITO SANTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2131,
+  "name_author": "RENATA JUNQUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2132,
+  "name_author": "ROBERTO DAMATTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2133,
+  "name_author": "HENRI WALLON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2134,
+  "name_author": "ÉRICA VERDERI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2135,
+  "name_author": "ESTHER BEYER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2136,
+  "name_author": "CARL SAGAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2137,
+  "name_author": "SALVADOR NOGUEIRA E JOÃO CANALLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2138,
+  "name_author": "BERTHA K BECKER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2139,
+  "name_author": "ISABEL A. MARQUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2140,
+  "name_author": "KEITH SWANWICK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2141,
+  "name_author": "EGYDIO VOLPATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2142,
+  "name_author": "MOACIR GADOTTI, PAULO FREIRE E SÉRGIO GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2143,
+  "name_author": "SUE COWLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2145,
+  "name_author": "PAULO MICELI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2146,
+  "name_author": "ANA BEATRIZ BARBOSA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2147,
+  "name_author": "SANDRO DA SILVEIRA COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2148,
+  "name_author": "KABENGELE MUNANGA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2156,
+  "name_author": "ANTONIO OLINTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2167,
+  "name_author": "EVANILDO C. BECHARA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2178,
+  "name_author": "MENGA LÜDKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2179,
+  "name_author": "GILBERTO LUIZ ALVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2180,
+  "name_author": "ANA CHRYSTINA VENANCIO MIGNOT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2181,
+  "name_author": "CLARICE NUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2182,
+  "name_author": "RAQUEL GANDINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2183,
+  "name_author": "CARLOS ROBERTO JAMIL CURY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2184,
+  "name_author": "MARIA DE LOURDES E OSMAR FÁVERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2185,
+  "name_author": "CANDIDO ALBERTO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2186,
+  "name_author": "YOLANDA LOBO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2187,
+  "name_author": "MARIA CIAVATTA E ZULEIDE SIMAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2188,
+  "name_author": "JORGE ANTONIO RANGEL(FIDEL)",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2189,
+  "name_author": "MARIA LUIZA PENNA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2190,
+  "name_author": "SOFIA LERCHE VIEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2191,
+  "name_author": "MÁRIO HÉLIO GOMES DE LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2192,
+  "name_author": "JOSÉ SILVERIO BAIA HORTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2193,
+  "name_author": "MARCO ANTONIO CARVALHO SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2194,
+  "name_author": "REGINA HELENA DE FREITAS CAMPOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2195,
+  "name_author": "JOSE SERGIO FONSECA CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2196,
+  "name_author": "JOSÉ ALFREDO VIDIGAL PONTES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2197,
+  "name_author": "CARLOS MONARCHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2198,
+  "name_author": "REBECA GONTIJO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2199,
+  "name_author": "JOÃO ADOLFO HANSEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2200,
+  "name_author": "CONTÂNCIA LIMA DUARTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2201,
+  "name_author": "ZAIA BRANDÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2202,
+  "name_author": "CELSO DE RUI BEISIEGEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2203,
+  "name_author": "MARIA CRISTINA GOMES MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2204,
+  "name_author": "MARTA MARIA CHAGAS DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2205,
+  "name_author": "ALOYLSON GREGÓRIO DE TOLEDO PINTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2206,
+  "name_author": "FRANCISCO PEREIRA DA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2207,
+  "name_author": "PEDRO PEREIRA DA SILVA COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2208,
+  "name_author": "LOURENÇO DANTAS MOTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2209,
+  "name_author": "MARCIO TAVARES D'AMARAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2210,
+  "name_author": "VIRGILIO PEREIRA DA SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2211,
+  "name_author": "MÁRCIO TAVARES D´AMARAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2212,
+  "name_author": "MARCOS MOREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2213,
+  "name_author": "ORLANDO GUILHON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2214,
+  "name_author": "RINALDO SANTOS TEIXEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2215,
+  "name_author": "LUIS PAULO PIASSI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2216,
+  "name_author": "CARLOS EDUARDO GRANJA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2217,
+  "name_author": "CRISTINA REIS FIGUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2218,
+  "name_author": "ELIANA POUGY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2219,
+  "name_author": "SUCA M. MAZZAMATI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2220,
+  "name_author": "ANA LUCIA GUERRERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2221,
+  "name_author": "BIANCA ZUCCHI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2222,
+  "name_author": "VERA MENEZES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2233,
+  "name_author": "G.N. FILONOV",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2234,
+  "name_author": "ATTILIO MONASTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2235,
+  "name_author": "RENÉ ZAZZO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2236,
+  "name_author": "GREGORIO WEINBERG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2237,
+  "name_author": "IRENA WOJNAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2238,
+  "name_author": "FRED ZIMRING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2239,
+  "name_author": "LOUIS LEGRAND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2240,
+  "name_author": "JÜRGEN-ECKART PLEINES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2241,
+  "name_author": "LOUIS M. SMITH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2242,
+  "name_author": "JEAN-CLAUDE FILLOUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2243,
+  "name_author": "DANIEL HAMELINE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2244,
+  "name_author": "FRANCINE DUBREUCY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2245,
+  "name_author": "MICHEL SOËTARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2246,
+  "name_author": "JEAN PIAGET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2247,
+  "name_author": "MARCELA GAJARDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2248,
+  "name_author": "HÉLENE GRATIOT-ALFANDÉRY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2249,
+  "name_author": "HERMAN RÖHRS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2250,
+  "name_author": "BERNARD JOLIBERT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2251,
+  "name_author": "LOUIS  RAILLON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2252,
+  "name_author": "JUAN ESCÁMEZ SÁNCHES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2255,
+  "name_author": "IVAN IVIC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2256,
+  "name_author": "MARTA DEMARCHI E HUGO RODRIGUEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2257,
+  "name_author": "RICARDO NASSIF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2258,
+  "name_author": "MICHAEL SOËTARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2259,
+  "name_author": "NORBERT HILGENHEGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2260,
+  "name_author": "ROBERT B. WESTBROOK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2261,
+  "name_author": "ALBERTO MUNARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2266,
+  "name_author": "MARINA SENTI DE ALENCAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2277,
+  "name_author": "WILSON DE PAULA E GISELEDE PAULA  PIRES ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2278,
+  "name_author": "MÁRICA DETONI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2279,
+  "name_author": "ALBERTO MONTALVÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2288,
+  "name_author": "GEISLON TIAGO RODRIGUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2289,
+  "name_author": "FRANCISCO S. BORBA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2290,
+  "name_author": "IONE RIBEIRO VALLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2291,
+  "name_author": "CAROLINA VIANNA DANTAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2292,
+  "name_author": "ANDRÉ GERALDO SOARES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2293,
+  "name_author": "CARLOS ALBERTO CIOCE SAMPAIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2294,
+  "name_author": "DICK TERESI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2295,
+  "name_author": "LUCIANO FLORIT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2296,
+  "name_author": "VILMAR VIDOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2299,
+  "name_author": "ÁLISSON CASTRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2310,
+  "name_author": "EGON RANGEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2311,
+  "name_author": "MARCUS GRIGATO CAMPOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2312,
+  "name_author": "ALEX GUENTHER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2313,
+  "name_author": "LILIAN BLANCK DE OLIVEIRA E ELCIO CECCHETI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2321,
+  "name_author": "FABIANA HENRIQUE  E VICTOR CARLSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2322,
+  "name_author": "CARLOS EDUARDO PACHECO AMARAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2323,
+  "name_author": "KLAUS H. G. REHFELDT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2324,
+  "name_author": "CARMEN LOZZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1024,
+  "name_author": "NEIDE DE MELO AGUIAR SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2325,
+  "name_author": "GILSON R. DE M. PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2326,
+  "name_author": "EMELY AGNES LANSER ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2327,
+  "name_author": "LÚCIA ARAGÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2328,
+  "name_author": "RICARDO MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2329,
+  "name_author": "RAYMUNDO FAORO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2330,
+  "name_author": "RAQUEL S. THIAGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2331,
+  "name_author": "JOSÉ MARCELO FREITAS DE LUNA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2332,
+  "name_author": "ANGELINA C. R. WITTMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2343,
+  "name_author": "FLÁVIA SCHILLING",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2344,
+  "name_author": "SELENIR MARGARETH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2345,
+  "name_author": "JOSÉ ADILÇON CAMPIGOTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2346,
+  "name_author": "NERILTON NERILO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2347,
+  "name_author": "ALBERTINA MARTÍNEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2348,
+  "name_author": "JOSÉ MURILO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2349,
+  "name_author": "JOSÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2350,
+  "name_author": "JOSÉ VALDIR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2351,
+  "name_author": "CLAUDIA FREITAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2352,
+  "name_author": "CRISTIANO LUIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2353,
+  "name_author": "LUIZ CAVALIERI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2354,
+  "name_author": "ELI MAOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2355,
+  "name_author": "CÉSAR DA SILVA CAMARGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2356,
+  "name_author": "ELIANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2357,
+  "name_author": "BEATRIZ PELLIZZETTI LOLLA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2358,
+  "name_author": "MARITZA GÓMEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2359,
+  "name_author": "ENRIQUE PEREGALLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2365,
+  "name_author": "WILLIAM GIBSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2366,
+  "name_author": "MARISTELA PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2367,
+  "name_author": "TERESA CALLOTTI FLORENZANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2368,
+  "name_author": "VOLNEI MARTINS BEZ VALMIRÉ ROCHA DOS SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2369,
+  "name_author": "MONICA CRISTINA CORREA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2370,
+  "name_author": "LENITA MIRANDA DE FIGUEIREDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2371,
+  "name_author": "JOSH MALERMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2372,
+  "name_author": "ANA LÚCIA SILVA SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2373,
+  "name_author": "JULIANA SANTILLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2374,
+  "name_author": "EDWARD O. WILSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2375,
+  "name_author": "CHARLES DARWIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2376,
+  "name_author": "ATTICO CHASSOT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2377,
+  "name_author": "MARIO TOLENTINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2378,
+  "name_author": "BOB ANDERSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2379,
+  "name_author": "SOLANGE UTUARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2387,
+  "name_author": "GILBERTO SCHMIDT- GERLACH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2388,
+  "name_author": "DAISI VOGEL, ELISABETH KARAN E JENI DE ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2389,
+  "name_author": "DAISI VOGEL, DALMO VIEIRA FILHO E JENI DE ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2390,
+  "name_author": "MARIA LUIZA RENAUX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2391,
+  "name_author": "RENATE ROSSMARK E WILFRIED VOLKMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2392,
+  "name_author": "MAURÍCIO OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2393,
+  "name_author": "WALTER F. PIAZZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2398,
+  "name_author": "CRISTINA MARQUES E NANA TOLEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2409,
+  "name_author": "LUIS PAULO LUPPA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2410,
+  "name_author": "DALMO DE ABREU DALLARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2411,
+  "name_author": "LAINE DE ANDRADE E SILVA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2412,
+  "name_author": "ANDRÉA BERNARDINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2413,
+  "name_author": "NÚRIA ROCA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2414,
+  "name_author": "JOHN PALFREY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2420,
+  "name_author": "LARRY YOUG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2421,
+  "name_author": "PETER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2422,
+  "name_author": "PETER S.COHAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2423,
+  "name_author": "ANA CLARISSA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2424,
+  "name_author": "ANA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2425,
+  "name_author": "MIGUEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2426,
+  "name_author": "MIGUEL ABUHAB",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2427,
+  "name_author": "MARA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2428,
+  "name_author": "MARA LUQUET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2429,
+  "name_author": "VERA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2430,
+  "name_author": "VERA CAPUCHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2431,
+  "name_author": "MARIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2432,
+  "name_author": "MARIA LIGIA PRADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2433,
+  "name_author": "IRVIN D. YALON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2434,
+  "name_author": "IRVIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2435,
+  "name_author": "ROBERTO JUSTUS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2436,
+  "name_author": "ROBERTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2437,
+  "name_author": "JAMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2438,
+  "name_author": "JAMES C.HUNTER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2439,
+  "name_author": "DANIEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2440,
+  "name_author": "DANIEL GOLEMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2441,
+  "name_author": "FRED KIEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2442,
+  "name_author": "FRED",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2443,
+  "name_author": "DOUG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2444,
+  "name_author": "DOUG LENNICK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2445,
+  "name_author": "MANUSCRITO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2446,
+  "name_author": "ZIBIA GASPARETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2447,
+  "name_author": "LE NOUVEL OBSERVATEUR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2448,
+  "name_author": "LYNN HUNT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2449,
+  "name_author": "LÉLIA PEREIRA DA SILVA NUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2450,
+  "name_author": "NEREIDE SCHILARO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2451,
+  "name_author": "NATALINO NEVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2452,
+  "name_author": "JÚLIO JOSÉ ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2453,
+  "name_author": "MILTON SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2454,
+  "name_author": "MILTON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2455,
+  "name_author": "MARGARET",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2456,
+  "name_author": "MARGARET MAC ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2457,
+  "name_author": "VICTOR NUNES LEAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2458,
+  "name_author": "VICTOR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2464,
+  "name_author": "AUGUSTO BOAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2465,
+  "name_author": "MARILDE SIEVERT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2466,
+  "name_author": "JULIA SIQUEIRA DA ROCHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2467,
+  "name_author": "ÉDISON DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2468,
+  "name_author": "HORACIO ITZCOVICH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2469,
+  "name_author": "SAARA NOUSIAINEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2470,
+  "name_author": "PAULO RAMOS ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2471,
+  "name_author": "KATIA HELENA PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2472,
+  "name_author": "ANTÔNIO MENEZES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2475,
+  "name_author": "SEICHO TANIGUCHI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2476,
+  "name_author": "EULINA LADEWIG SILVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2477,
+  "name_author": "TERRY DEARY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2478,
+  "name_author": "SONIA MENDONÇA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2479,
+  "name_author": "AMÉRICO SIMÕES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2480,
+  "name_author": "J. B. LIBANIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2481,
+  "name_author": "JA,MES C. HUNTER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2483,
+  "name_author": "TERESINHA CARDOSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2484,
+  "name_author": "GENEEN ROTH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2485,
+  "name_author": "EDUARDO CARLOS PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2486,
+  "name_author": "LILIANA LAGANÁ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2497,
+  "name_author": "READER´S DIGEST",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2508,
+  "name_author": "NANDA BEZERRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2509,
+  "name_author": "CÍNTIA LOPES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2510,
+  "name_author": "RACHEL SHEHERAZADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2511,
+  "name_author": "JAIME PINSKY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2512,
+  "name_author": "RAYMOND CHANDLER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2513,
+  "name_author": "ROY KELLERMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2514,
+  "name_author": "THE OC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2515,
+  "name_author": "CHRIS WOODFORD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2519,
+  "name_author": "STIEC LARSSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2520,
+  "name_author": "GUSTAVO SIQUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2521,
+  "name_author": "HÉCTOR RICARDO LEIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2523,
+  "name_author": "MÁRCIO MATOS CARNEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2524,
+  "name_author": "NORBERTO DALLABRIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2525,
+  "name_author": "BETO JUNQUEYRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2530,
+  "name_author": "DELMIR JOSÉ VELENTINI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2541,
+  "name_author": "ALVARO CORREIA ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2542,
+  "name_author": "MARIANA DE MELLO E SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2543,
+  "name_author": "HANS BROOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2544,
+  "name_author": "JOEL PACHECO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2545,
+  "name_author": "LÉDIO ROSA DE ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2546,
+  "name_author": "FRITZ MULLER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2547,
+  "name_author": "DR HERMAM BLUMENAU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2552,
+  "name_author": "URDA A. KLUEGER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2553,
+  "name_author": "JOSEFINA HELLMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2554,
+  "name_author": "REGINA BALLMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2555,
+  "name_author": "OLÍVIA CAMBOIM ROMANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2556,
+  "name_author": "RODRIGO DE MELLO FRANCO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2557,
+  "name_author": "JOSÉ ROBERTO DE CASTRO NEVES ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2558,
+  "name_author": "PAULO WERNECK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2563,
+  "name_author": "RONALDO ROGÉRIO DE FREITAS ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2564,
+  "name_author": "PERCIVAL TIRAPELI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2565,
+  "name_author": "GRAÇA PROENÇA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2566,
+  "name_author": "MARIA LUCIA DE ARRUDA ARANHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2567,
+  "name_author": "BENEDITO NUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2574,
+  "name_author": "MANUEL SERGIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2575,
+  "name_author": "ALEXANDRE BRANDÃO GROSSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2576,
+  "name_author": "CLAUDIA  DE PAULA E MARCIA CRISTINA DE OLIVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2585,
+  "name_author": "MARCOS NAPOLITANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2586,
+  "name_author": "CARLOS EDUARDO NOVAES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2587,
+  "name_author": "SIMON FRANCO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2588,
+  "name_author": "FABIO SABA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2589,
+  "name_author": "CHRIS BOHJALIAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2590,
+  "name_author": "MARIO TOLENTINO, ROMEU ROCHA-FILHO E ROBERTO SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2591,
+  "name_author": "TÃNIA BRITO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2592,
+  "name_author": "JOÃO MAURÍCIO GALINDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2593,
+  "name_author": "YAGUARÊ YAMÂ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2594,
+  "name_author": "JOSIANA BENÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2595,
+  "name_author": "CHARLES FEITOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2596,
+  "name_author": "HILDEGARD FEIST",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2597,
+  "name_author": "ANGEL ALSINA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2607,
+  "name_author": "ROSA IAVELBERG",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2608,
+  "name_author": "FÁTIMA MIGUEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2609,
+  "name_author": "EMERSON SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2610,
+  "name_author": "MARIA LÚCIA DE CASTRO GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2611,
+  "name_author": "PATRICIA SADOVSKY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2618,
+  "name_author": "DAVID COIMBRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2619,
+  "name_author": "JÚLIO JOSÉ CHIAVENATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2620,
+  "name_author": "LUIGI SARCINELLA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2621,
+  "name_author": "JOAÕ JOSÉ REIS E FLÁVIO DOS SANTOS GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2622,
+  "name_author": "JAIME PINSKY E CARLA BASSANEZI PINSKY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2623,
+  "name_author": "ROSA MARGARIDA DE CARVALHO ROCHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2624,
+  "name_author": "CAROL KOLYNIAK FILHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2629,
+  "name_author": "HÉLIO SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2630,
+  "name_author": "LARISSA MANOELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2640,
+  "name_author": "WILLIAM ROBERTO CEREJA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2641,
+  "name_author": "OLINDA EVANGELISTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2642,
+  "name_author": "JORGE MARCOS BUSSARELO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2651,
+  "name_author": "ROSÂNGELA DOIN DE ALMEIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2662,
+  "name_author": "JOSÉ NICOLAU GREGORIN ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2663,
+  "name_author": "JILL HADFIELD E CHARLES HADFIELD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2664,
+  "name_author": "JANINE LESANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2665,
+  "name_author": "EVANDRO GHEDIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2666,
+  "name_author": "EDILEUZA PENHA DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2673,
+  "name_author": "ANATOL ROSENFELD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2674,
+  "name_author": "THOMAS S. KUHN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2675,
+  "name_author": "MARIA TERESINHA HEIMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2676,
+  "name_author": "MARTA MORAIS DA COSTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2677,
+  "name_author": "ZÉLIA CAVALCANTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2684,
+  "name_author": "ANGELA B. KLEIMAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2685,
+  "name_author": "LÍLIAN MARIA GHIURO PASSARELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2686,
+  "name_author": "LUIZ CARLOS CAGLIARI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2695,
+  "name_author": "DARCILIA SIMÕES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2696,
+  "name_author": "ALEXANDRE RANGEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2697,
+  "name_author": "ROSANA APARECIDA E ARGENTO REBELO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2698,
+  "name_author": "ZOÉ RIOS E MÁRCIA LIBÂNIO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2699,
+  "name_author": "SANDOVAL NONATO GOMES-SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2706,
+  "name_author": "GRACE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2707,
+  "name_author": "GRACE CRISTIANE THIEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2708,
+  "name_author": "JANICE CRISTINE THIEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2709,
+  "name_author": "THEREZA CHEMELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2710,
+  "name_author": "CARMEN SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2711,
+  "name_author": "KÁTIA STOCCO SMOLE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2712,
+  "name_author": "ANDY HARGREAVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2713,
+  "name_author": "ALEXANDRE DOS SANTOS FIGUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2714,
+  "name_author": "SIMONE GONÇALVES DE ASSIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2715,
+  "name_author": "STELLA MARIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2717,
+  "name_author": "MAROA COLASANTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2728,
+  "name_author": "ALEXNDER MAAR, ANDRÉ PERON E FERNANDO NETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2739,
+  "name_author": "ALEXANDRE BARBOSA DE SOUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2740,
+  "name_author": "ROBERTO DRUMOND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2741,
+  "name_author": "JAVIER NARANJO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2750,
+  "name_author": "VIIH TUBE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2761,
+  "name_author": "STVE PARKER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2762,
+  "name_author": "LÉIA CASSOL, VITOR SIEGEL E GISELLA CASSOL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2763,
+  "name_author": "LÉIA CASSOL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2764,
+  "name_author": "MIRIAM PORTELA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2772,
+  "name_author": "LUÍS DELFINO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2783,
+  "name_author": "SANDRA PINA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2794,
+  "name_author": "HENRYK SIENKIEWICZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2795,
+  "name_author": "ALEJANDRO DUMAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2796,
+  "name_author": "JAMES  FENIMORE CCOPER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2797,
+  "name_author": "ALONSO SANTAMARINA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2798,
+  "name_author": "BRAM STOKER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2805,
+  "name_author": "CHARLYNE HADEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2806,
+  "name_author": "SUSAN HULLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2807,
+  "name_author": "ROSANA TELLES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2808,
+  "name_author": "RICHARD H. DAVIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2809,
+  "name_author": "ROBERTO GARDIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2810,
+  "name_author": "MILTON M. AZEVEDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2811,
+  "name_author": "DAISY RADAIC",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2816,
+  "name_author": "DULCE SILVEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2817,
+  "name_author": "DIRCE GUDES AND AYRTON GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2818,
+  "name_author": "STEVE AND MARIA YOLEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2819,
+  "name_author": "VERA LÚCIA GONÇALVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2820,
+  "name_author": "ROSANA TELLES AND CHARLYNE HADEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2821,
+  "name_author": "YVONNE COOK",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2822,
+  "name_author": "CHERYL PALIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2823,
+  "name_author": "PAUL SHIPTON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2824,
+  "name_author": "JADE  MICHAELIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1964,
+  "name_author": "ROB WARING AND MAURICE JAMALL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2825,
+  "name_author": "THOMSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2827,
+  "name_author": "DIRCE GUEDES E AYRTON GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2828,
+  "name_author": "MÁRCIO NASCIMENTO E AYRTON GOMES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2829,
+  "name_author": "AMADEUS MARQUES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2830,
+  "name_author": "ELIETE CANESI MORINO E RITA BRUGIN DE FARIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2831,
+  "name_author": "ELISABETH PRESCHER E EDUARDO AMOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2832,
+  "name_author": "EDUARDO AMOS E ELISABETH PRESCHER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2833,
+  "name_author": "VITOR MAIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2834,
+  "name_author": "EDUARDO AMOS, ERNESTO PASQUALIN , ELISABETH MARTIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2835,
+  "name_author": "ELIANA, MARIA CLARA E NEUZA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2836,
+  "name_author": "JOHN MILNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2837,
+  "name_author": "ROSANA MUNHOZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2838,
+  "name_author": "GERDA QUEIROZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2839,
+  "name_author": "NARA MATTOSO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2840,
+  "name_author": "ALAIR ALVES DE CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2841,
+  "name_author": "STEPHEN RABLEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2842,
+  "name_author": "JOHN ESCOTT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2843,
+  "name_author": "JAMES FENIMORE COOPER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2844,
+  "name_author": "MARGARET IGGUILDEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2845,
+  "name_author": "L M MONTGOMERY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2846,
+  "name_author": "EDNA ST.VINCENT MILLAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2847,
+  "name_author": "HELEN BROOKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2848,
+  "name_author": "M.CRISTINA G. PACHECO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2849,
+  "name_author": "TELMA GUIMARÃES CASTRO ANDRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2850,
+  "name_author": "ALAN C.MC LEAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2851,
+  "name_author": "ISA MARA LANDO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2852,
+  "name_author": "LESLIE ECKARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2860,
+  "name_author": "CELIA WOLFF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2861,
+  "name_author": "ANDREW WRIGHT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2862,
+  "name_author": "SUE ARENGO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2863,
+  "name_author": "ROSEMARY BORDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2864,
+  "name_author": "AL MARUQES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2865,
+  "name_author": "TELMA GUIMARÃES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2866,
+  "name_author": "ETHEL HILMER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2867,
+  "name_author": "VICTORIA KELLER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2868,
+  "name_author": "VERA ZAHAR",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2869,
+  "name_author": "AMADEU MARQUES ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2870,
+  "name_author": "FERNANDO GEWAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2871,
+  "name_author": "SUSAN HILL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2872,
+  "name_author": "CAROLINE LAIDLAW",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2873,
+  "name_author": "ELIZABETH LAIRD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2874,
+  "name_author": "WILLIAM HARRIS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2875,
+  "name_author": "L G ALEXANDER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2876,
+  "name_author": "JEREMY HARMER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2882,
+  "name_author": "STORMIE OMARTIAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2883,
+  "name_author": "MARCELLUS CAMPÊLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2884,
+  "name_author": "DIEGO ARBOLEDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2885,
+  "name_author": "RAÚL SAGOSPE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2886,
+  "name_author": "STACEY JAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2893,
+  "name_author": "RICK YANCEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2894,
+  "name_author": "AUDREY CARLAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2895,
+  "name_author": "EMMA COOPER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2904,
+  "name_author": "JOHN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2905,
+  "name_author": "JOHN SANDFORD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2906,
+  "name_author": "JOHN VERDON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2907,
+  "name_author": "ARTHUR HAILEY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2908,
+  "name_author": "WILLIAM LANDAY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2909,
+  "name_author": "JEFFREY ARCHER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2910,
+  "name_author": "KARIN SLAUGHTER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2911,
+  "name_author": "ALINA GALANTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2912,
+  "name_author": "JOHN LESCROART",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2915,
+  "name_author": "DAVID BALDACCI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2926,
+  "name_author": "SOPHIE HANNAH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2927,
+  "name_author": "BENJAMIN MOSER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2928,
+  "name_author": "STUART MOORE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2938,
+  "name_author": "SHUNMYO MASUNO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2948,
+  "name_author": "VITO GRANDAM",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2949,
+  "name_author": "DAVID ALMOND",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2959,
+  "name_author": "RORY  POWER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2970,
+  "name_author": "CATHERINE BALLMANN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2971,
+  "name_author": "NATALIA CORRADI ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3003,
+  "name_author": "KIM EDWARDS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3004,
+  "name_author": "LEONARDINHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3014,
+  "name_author": "LEONID ANDREIÉV",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3025,
+  "name_author": "G NOLITTA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3026,
+  "name_author": "SÉRGIO SÁ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3036,
+  "name_author": "CRUZ E SOUSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3047,
+  "name_author": "NINFA PARREIRAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 1586,
+  "name_author": "MAURICIO DE SOUSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3058,
+  "name_author": "LÚCIA WINTHER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3059,
+  "name_author": "MAGALI QUEIROZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3060,
+  "name_author": "MÁRIO PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3048,
+  "name_author": "KAREN ACIOLY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2992,
+  "name_author": "JOSCA ALINE BAROUKH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3061,
+  "name_author": "MARTA D. MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3062,
+  "name_author": "CLUDIA MUNIZ PRADO REIGADAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3063,
+  "name_author": "CLAUDIA MUNIZ PRADO REIGADAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3064,
+  "name_author": "VIRGINIA MARIA YUNES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3065,
+  "name_author": "MARCIA RIEDERER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3066,
+  "name_author": "ELOÍ BOCHECO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3067,
+  "name_author": "MAURÍCIO E. GRAIPEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3068,
+  "name_author": "YEDDA GOULART",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3069,
+  "name_author": "REJANE PEREIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3070,
+  "name_author": "CRISTIANI INÁCIO E MARTA D. MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3071,
+  "name_author": "VALMIR FRANCISCO MURARO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3072,
+  "name_author": "PATRÍCIA CARPES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3073,
+  "name_author": "SÉRGIO CORRÊA DE SIQUEIRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3080,
+  "name_author": "HOMERO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3081,
+  "name_author": "DÂNAE E ANDRÔMEDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3091,
+  "name_author": "CÉCILE BERGAME E AUDE LÉONARD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3092,
+  "name_author": "TATIANNA BELINKY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 773,
+  "name_author": "NATHANIEL HAWTHORNE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3102,
+  "name_author": "JOHN GROGAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2981,
+  "name_author": "TARAN MATHAURU",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2937,
+  "name_author": "CHRISTIAN FIGUEREDO DE CALDAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3113,
+  "name_author": "CASSIA LESLIE E RICARDO DALAI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3114,
+  "name_author": "LUIZ FERNANDO EMEDIATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3115,
+  "name_author": "JIMMY LIAO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3124,
+  "name_author": "DIANA WYNNE JONES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3135,
+  "name_author": "PÉRICLES PRADE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3146,
+  "name_author": "GEOGIRNA MARTINS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3147,
+  "name_author": "GISELA JORAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3148,
+  "name_author": "CHIMAMANDA NGOZI ADICHIE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3157,
+  "name_author": "IÇAMI TIBA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3168,
+  "name_author": "FERNANDO HERNÁNDEZ E MONTSERRAT VENTURA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3169,
+  "name_author": "EUNICE AITA ISAIA KINDEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3170,
+  "name_author": "JOSÉ D´ASSUNÇÃO BARROS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3171,
+  "name_author": "MARY RANGEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3172,
+  "name_author": "ÂNGELA CRISTINA MUNHOZ MALUF",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3173,
+  "name_author": "ADRIANA DE OLIVEIRA LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3179,
+  "name_author": "SONIA KRAMER",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3180,
+  "name_author": "SILVIANE BONACCORSI BARBATO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3181,
+  "name_author": "HANS STADEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3182,
+  "name_author": "ANTÔNIO B. BARRETO ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3190,
+  "name_author": "ELIANE FERRETTI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3201,
+  "name_author": "JACQUELINE LOUMAYE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3212,
+  "name_author": "PEDRO GALVÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3223,
+  "name_author": "MASSIMO CACCIA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3234,
+  "name_author": "MEM FOX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3235,
+  "name_author": "MATÉ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3236,
+  "name_author": "CRISTINA KLEIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3237,
+  "name_author": "MARK TEAGUE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3238,
+  "name_author": "NÍLSON JOSÉ MACHADO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3239,
+  "name_author": "JEAN- CLAUDE ALPHEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3240,
+  "name_author": "LÚCIA PIMENTEL GÓES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3241,
+  "name_author": "HEBE COIMBRA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3242,
+  "name_author": "SANTHIAGO GOMES DE ALMEIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3243,
+  "name_author": "ROSINHA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3244,
+  "name_author": "FLÁVIA LINS E SILVA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3245,
+  "name_author": "SANDRA REGINA FÉLIX",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3246,
+  "name_author": "ÉRIC BATTUT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3247,
+  "name_author": "TRISH COOKE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 2482,
+  "name_author": "SIMON PRESCOTT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3256,
+  "name_author": "KATIA GIL ABERTE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3257,
+  "name_author": "JEAN-CLAUDE R. ALPHEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3258,
+  "name_author": "CEC´LIA PEREIRA NEVES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3259,
+  "name_author": "EUGENE TRIVIZAS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3260,
+  "name_author": "JESÚS GABÁN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3261,
+  "name_author": "LÕ CARVALHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3262,
+  "name_author": "ALEX T. SMITH",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3263,
+  "name_author": "CYNTHIA RYE",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3264,
+  "name_author": "CIÇA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3265,
+  "name_author": "MARY E RICH CHAMBERLIN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3266,
+  "name_author": "ROB SCOTTON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3267,
+  "name_author": "ELY BARBOSA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3268,
+  "name_author": "MARIA DE FÁTIMA MARTINS BAUMGÄRTEN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3269,
+  "name_author": "CRISTINA SANTOS",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3270,
+  "name_author": "NEWTON FOOT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3271,
+  "name_author": "ROBERTO BELLI",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3272,
+  "name_author": "KARIN LITTLEWOOD",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3273,
+  "name_author": "QUENTIN GRÉBAN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3274,
+  "name_author": "SUSANA LÓPEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3275,
+  "name_author": "CRISTINA BIAZETO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3278,
+  "name_author": "HELOISA PIRES LIMA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3279,
+  "name_author": "KATHRYN WHITE E JOELLE DREIDEMY",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3280,
+  "name_author": "YUYI MORALES",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3281,
+  "name_author": "ALONSO NÚÑEZ",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3282,
+  "name_author": "JOSCA ALINE BAROUKH E LUCILA  SILVA DE ALMEIDA",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3283,
+  "name_author": "SASSAFRAS DE BRUYN",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3284,
+  "name_author": "LILIANA CINETTO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3289,
+  "name_author": "CHARLES PERRAULT",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3290,
+  "name_author": "MARIA ARMANDA CAPELÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3300,
+  "name_author": "FERNANDO PAIXÃO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3301,
+  "name_author": "HUMBERTO AK'ABAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3302,
+  "name_author": "EDISON RODRIGUES FILHO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3303,
+  "name_author": "JOSÉ HAMILTON RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3304,
+  "name_author": "ROBERT LOUIS STEVENSON",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3305,
+  "name_author": "SYLVIA MANZANO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3306,
+  "name_author": "CHRISTIANE GRIBEL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3307,
+  "name_author": "EID RIBEIRO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3308,
+  "name_author": "EDNA BUENO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3309,
+  "name_author": "VERA DO VAL",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3311,
+  "name_author": "ROBERTO PAVANELLO",
+  "stats_author": 1
+ },
+ {
+  "id_author": 3312,
+  "name_author": "MARIANY PETRIN MARTINS E NATHANY PETRIN MARTINS",
+  "stats_author": 1
+ }
+]

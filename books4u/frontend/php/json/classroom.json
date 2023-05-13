@@ -1,0 +1,338 @@
+[
+ {
+  "id_classroom": 1,
+  "year_classroom": 203,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 3,
+  "year_classroom": 202,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 4,
+  "year_classroom": 204,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 2,
+  "year_classroom": 205,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 6,
+  "year_classroom": 206,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 7,
+  "year_classroom": 201,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 8,
+  "year_classroom": 302,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 9,
+  "year_classroom": 703,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 10,
+  "year_classroom": 306,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 11,
+  "year_classroom": 901,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 12,
+  "year_classroom": 902,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 13,
+  "year_classroom": 207,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 14,
+  "year_classroom": 801,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 15,
+  "year_classroom": 802,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 16,
+  "year_classroom": 208,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 17,
+  "year_classroom": 701,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 18,
+  "year_classroom": 702,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 19,
+  "year_classroom": 107,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 20,
+  "year_classroom": 301,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 21,
+  "year_classroom": 803,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 22,
+  "year_classroom": 304,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 24,
+  "year_classroom": 104,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 25,
+  "year_classroom": 106,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 28,
+  "year_classroom": 105,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 29,
+  "year_classroom": 601,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 31,
+  "year_classroom": 307,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 32,
+  "year_classroom": 303,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 34,
+  "year_classroom": 305,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 37,
+  "year_classroom": 101,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 38,
+  "year_classroom": 201,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 39,
+  "year_classroom": 301,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 40,
+  "year_classroom": 401,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 41,
+  "year_classroom": 501,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 42,
+  "year_classroom": 102,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 43,
+  "year_classroom": 202,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 44,
+  "year_classroom": 302,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 45,
+  "year_classroom": 303,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 46,
+  "year_classroom": 402,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 47,
+  "year_classroom": 205,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 23,
+  "year_classroom": 102,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 48,
+  "year_classroom": 502,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 49,
+  "year_classroom": 601,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 50,
+  "year_classroom": 701,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 51,
+  "year_classroom": 903,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 30,
+  "year_classroom": 602,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 52,
+  "year_classroom": 102,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 26,
+  "year_classroom": 201,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 55,
+  "year_classroom": 301,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 56,
+  "year_classroom": 302,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 57,
+  "year_classroom": 106,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 58,
+  "year_classroom": 202,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 54,
+  "year_classroom": 202,
+  "shift_classroom": "V",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 59,
+  "year_classroom": 203,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 60,
+  "year_classroom": 304,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 61,
+  "year_classroom": 305,
+  "shift_classroom": "N",
+  "stats_classroom": 1
+ },
+ {
+  "id_classroom": 27,
+  "year_classroom": 103,
+  "shift_classroom": "M",
+  "stats_classroom": 1
+ }
+]

@@ -1,0 +1,9053 @@
+[
+ {
+  "id": 1,
+  "student_name": "LUCAS BENJAMIN SALES PINTO",
+  "enrollment_student": 12,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 2,
+  "student_name": "ALANA OFFMANN DALLAGNOL",
+  "enrollment_student": 4551994331,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 3,
+  "student_name": "ANDERSON BRYAN  DE SOUSA ROLDÃO",
+  "enrollment_student": 4550310439,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 4,
+  "student_name": "ARTHUR LAZZAROTTO SILVEIRO",
+  "enrollment_student": 4552599274,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 5,
+  "student_name": "AYSHA MICZIKIEWICZ DE OLIVEIRA",
+  "enrollment_student": 4552385320,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 6,
+  "student_name": "BEATRIZ SCHMIT",
+  "enrollment_student": 4551904456,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 7,
+  "student_name": "BETINA CHEGATTI",
+  "enrollment_student": 4552032533,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 8,
+  "student_name": "BRYAN DA SILVA RODRIGUES",
+  "enrollment_student": 4552260730,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 9,
+  "student_name": "CAROLINA PEREIRA DIAS",
+  "enrollment_student": 4552385134,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 10,
+  "student_name": "EMILLE SOPHIA VARELA DE ALMEIDA",
+  "enrollment_student": 4552431764,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 11,
+  "student_name": "ERIC ANGELO ASSINK",
+  "enrollment_student": 4551974950,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 12,
+  "student_name": "GABRIEL JOSE DE FARIAS ",
+  "enrollment_student": 4551905100,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 13,
+  "student_name": "GEOVANNA DA SILVA DE LIMA",
+  "enrollment_student": 4551907994,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 14,
+  "student_name": "ISRAEL VINÍCIOS DOS ANJOS",
+  "enrollment_student": 4551974080,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 15,
+  "student_name": "LUIZA IZABELY DE ANDRADE PEREIRA",
+  "enrollment_student": 4551996865,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 16,
+  "student_name": "MARIA EDUARDA DE OLIVEIRA DA SILVA",
+  "enrollment_student": 4550536151,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 17,
+  "student_name": "MELYSSA REITER DA LUZ ",
+  "enrollment_student": 4551908478,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 18,
+  "student_name": "MICKAELLY HILLARY GREVE",
+  "enrollment_student": 4552029818,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 19,
+  "student_name": "MIGUEL ALEXANDRE HONÓRIO POLEZA",
+  "enrollment_student": 4551908958,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 20,
+  "student_name": "MILENA VITORIA POSTAI",
+  "enrollment_student": 4552570454,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 21,
+  "student_name": "NOAH DA COSTA",
+  "enrollment_student": 4551984980,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 22,
+  "student_name": "PEDRO ANTONIO FOGLIATO",
+  "enrollment_student": 4552150765,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 23,
+  "student_name": "PIETRO HENRICOLOURENÇO RIBEIRO",
+  "enrollment_student": 4552544631,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 24,
+  "student_name": "SARA LÚCIA DA ROCHA",
+  "enrollment_student": 4551961743,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 25,
+  "student_name": "VANESSA DA SILVA RAMOS",
+  "enrollment_student": 4551985545,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 26,
+  "student_name": "VITÓRIA MANKE",
+  "enrollment_student": 4552031456,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 27,
+  "student_name": "YAGO DE JESUS PADILHA",
+  "enrollment_student": 4551988951,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 28,
+  "student_name": "YASMIM LONGEN",
+  "enrollment_student": 4551908303,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 29,
+  "student_name": "YURI SILVEIRA",
+  "enrollment_student": 4551985898,
+  "id_classroom": 37,
+  "stats_student": 1
+ },
+ {
+  "id": 30,
+  "student_name": "ANA DESIREE PORTUGAL DE SOUZA",
+  "enrollment_student": 4551353484,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 31,
+  "student_name": "ANGELO EMANOEL GOMES BELO ",
+  "enrollment_student": 4552668764,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 32,
+  "student_name": "ANNA JÚLIA SANTOS DE ARAÚJO",
+  "enrollment_student": 4551574332,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 33,
+  "student_name": "BRUNNA KARLA DA SILVA SANTOS",
+  "enrollment_student": 4551604010,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 34,
+  "student_name": "DAFNY DA SILVA DIAS",
+  "enrollment_student": 455059169,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 35,
+  "student_name": "EDUARDA VICENTE",
+  "enrollment_student": 4549201249,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 36,
+  "student_name": "EMANUELLY MORENO GHELER",
+  "enrollment_student": 4550623267,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 37,
+  "student_name": "ESTEVÃO MEDEIROS DE ARRUDA",
+  "enrollment_student": 4550911173,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 38,
+  "student_name": "FERNANDA LÚCIA FARIAS BRITO",
+  "enrollment_student": 4550627254,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 39,
+  "student_name": "GUILHERME SANTANA BRITO",
+  "enrollment_student": 4550623887,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 40,
+  "student_name": "GUSTAVO HENRIQUE CARDOSO ALVES",
+  "enrollment_student": 4550621582,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 41,
+  "student_name": "HENRIQUE PINHEIRO VIGARANI",
+  "enrollment_student": 4550567600,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 42,
+  "student_name": "HYTALLO MARCOS MARCELINO NASCIMENTO",
+  "enrollment_student": 4550055471,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 43,
+  "student_name": "ISADORA BRUNNA MOURA GOMES",
+  "enrollment_student": 4552716858,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 44,
+  "student_name": "ISIS SABATELLY MATOS COSTA",
+  "enrollment_student": 4550619693,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 45,
+  "student_name": "JOÃO GABRIEL STOLFI",
+  "enrollment_student": 4550566255,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 46,
+  "student_name": "JOÃO LUCCAS RODRIGUES",
+  "enrollment_student": 4551313628,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 47,
+  "student_name": "MARIA ÁGATHA MELO NASCIMENTO",
+  "enrollment_student": 4550637250,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 48,
+  "student_name": "MARIA CLARA DE JESUS PINTO SANTANA",
+  "enrollment_student": 4552746684,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 49,
+  "student_name": "PEDRO LUCAS CORRÊA SOARES",
+  "enrollment_student": 4550087292,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 50,
+  "student_name": "SOPHIA BATISTA FONSECA",
+  "enrollment_student": 4550586663,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 51,
+  "student_name": "VALTEMÁRIO ISAAC OLIVEIRA MARTINS",
+  "enrollment_student": 4550590431,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 52,
+  "student_name": "VINICIUS EDUARDO PEREIRA PANTOJA",
+  "enrollment_student": 4551586209,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 53,
+  "student_name": "VINÍCIUS SERRA DOS SANTOS",
+  "enrollment_student": 4550939809,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 54,
+  "student_name": "VITÓRIA CRISTINA DE SOUZA",
+  "enrollment_student": 4551803960,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 55,
+  "student_name": "YAGO DA COSTA VELHO",
+  "enrollment_student": 4550624964,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 56,
+  "student_name": "YASMIM MARGALHO VALONI",
+  "enrollment_student": 4550597983,
+  "id_classroom": 38,
+  "stats_student": 1
+ },
+ {
+  "id": 57,
+  "student_name": "AMANDA SCHNEIDER PEIXER",
+  "enrollment_student": 4549245513,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 58,
+  "student_name": "ANTHONY DOS SANTOS FERREIRA",
+  "enrollment_student": 4549202016,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 59,
+  "student_name": "ANTONIA PIZZATO",
+  "enrollment_student": 4549281900,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 60,
+  "student_name": "ARTHUR SOARES FRAGA",
+  "enrollment_student": 4549204051,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 61,
+  "student_name": "CAIO GABRIEL NUNC NFÕORO",
+  "enrollment_student": 4549244134,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 62,
+  "student_name": "CAIO SILVEIRA",
+  "enrollment_student": 4549305842,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 63,
+  "student_name": "CRISTYAN SAMUEL SILVA DA SILVA",
+  "enrollment_student": 4549735243,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 64,
+  "student_name": "DAVI REGIS",
+  "enrollment_student": 4549202610,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 65,
+  "student_name": "DAVI TITERICZ FEDATO GONÇALVES",
+  "enrollment_student": 4551165955,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 66,
+  "student_name": "ELIAS TELES DE LIMA COSTA",
+  "enrollment_student": 4549651759,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 67,
+  "student_name": "EMILLY CORSANI THEISGES",
+  "enrollment_student": 4550268572,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 68,
+  "student_name": "GUSTAVO ALBERTO DOS SANTOS",
+  "enrollment_student": 4549214910,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 69,
+  "student_name": "HENRIQUE FAUSTO LEAL PIETZ",
+  "enrollment_student": 4549216106,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 70,
+  "student_name": "ISABELLY Y APARECIDA DO AMARAL CAETANO",
+  "enrollment_student": 4546612779,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 71,
+  "student_name": "ISADORA SCHMITT",
+  "enrollment_student": 4549204531,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 72,
+  "student_name": "IZADORA CAMARGO",
+  "enrollment_student": 4549203586,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 73,
+  "student_name": "JUAREZ PERETTI NETO",
+  "enrollment_student": 4549215223,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 74,
+  "student_name": "JULIO MAIA PEREIRA",
+  "enrollment_student": 4547525748,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 75,
+  "student_name": "KATARINA CANGIRANA ROZIM",
+  "enrollment_student": 4549202954,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 76,
+  "student_name": "MARIA ALICE MARCELINO",
+  "enrollment_student": 4549202750,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 77,
+  "student_name": "MELRY EMANUELY ALEXANDRE DA SILVA",
+  "enrollment_student": 4546833872,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 78,
+  "student_name": "MIGUEL CERCAL REINHOLD",
+  "enrollment_student": 4549205333,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 79,
+  "student_name": "MIGUEL DOS SANTOS ELIZIO",
+  "enrollment_student": 4549203144,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 80,
+  "student_name": "MIGUEL ZIBELL",
+  "enrollment_student": 4549202377,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 81,
+  "student_name": "NEYDAN RUAN CUNHA COSTA",
+  "enrollment_student": 4550043384,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 82,
+  "student_name": "RAFAELA DIAS ADRIANO",
+  "enrollment_student": 4549201796,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 83,
+  "student_name": "RENATO FOGAÇA LOURENÇO",
+  "enrollment_student": 4549741308,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 84,
+  "student_name": "RUAN SOARES FRAGA",
+  "enrollment_student": 4549203756,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 85,
+  "student_name": "SAMUEL FELIPE DOMINGOS FERREIRA",
+  "enrollment_student": 4551551170,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 86,
+  "student_name": "YAGO SOARES FRAGA",
+  "enrollment_student": 4549204345,
+  "id_classroom": 39,
+  "stats_student": 1
+ },
+ {
+  "id": 1269,
+  "student_name": "JANÍNA TEREZA SARTI",
+  "enrollment_student": 4500844596,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 88,
+  "student_name": "ALAN RODRGUES DA SILVA VIERA",
+  "enrollment_student": 4551459886,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 89,
+  "student_name": "ALICE HAMMES",
+  "enrollment_student": 4548331092,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 90,
+  "student_name": "ANDRESSA SOUZA DE SOUZA",
+  "enrollment_student": 4548331467,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 91,
+  "student_name": "BRUNA BEATRIZ CARDOZO LUFT",
+  "enrollment_student": 4548499490,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 92,
+  "student_name": "CALIEL FUCK DA LUZ",
+  "enrollment_student": 45480003818,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 93,
+  "student_name": "DAVI SOUZA",
+  "enrollment_student": 4548332161,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 94,
+  "student_name": "DAVI JACOBS",
+  "enrollment_student": 4548694950,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 95,
+  "student_name": "ELISA CRISTINA MAÇANEIRO",
+  "enrollment_student": 4548342671,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 96,
+  "student_name": "ENZO MIKAEL NEVES CORDOVA",
+  "enrollment_student": 4548356796,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 97,
+  "student_name": "ÉVEN CAROLINY DOS SANTOS",
+  "enrollment_student": 4549735928,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 98,
+  "student_name": "GABRIELLE VICTORIA KRIEGER",
+  "enrollment_student": 4548356982,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 99,
+  "student_name": "GABRYEL DELGADO DA SILVA",
+  "enrollment_student": 4548342990,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 100,
+  "student_name": "GUSTAVO ANDRÉ CAPISTRANO",
+  "enrollment_student": 4547211530,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 101,
+  "student_name": "HEIMY ALEJANDRA DE CASTRO FERREIRA",
+  "enrollment_student": 4548343252,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 102,
+  "student_name": "HIGOR WALLER DE ALMEIDA MORENO",
+  "enrollment_student": 4550246110,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 103,
+  "student_name": "ISAQUE MANOEL FARIAS CARNEIRO",
+  "enrollment_student": 4550376367,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 104,
+  "student_name": "JOÃO MIGUEL MARAFIGO",
+  "enrollment_student": 4548978916,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 105,
+  "student_name": "JULLIA LOPES LARGURA",
+  "enrollment_student": 4548589901,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 106,
+  "student_name": "KAIO DE JESUS MACHADO",
+  "enrollment_student": 4548344291,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 107,
+  "student_name": "LETICIA GONÇAVEL COLSANI",
+  "enrollment_student": 4548344917,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 108,
+  "student_name": "LOHANY DA SILVA CAMARGO",
+  "enrollment_student": 4548358063,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 109,
+  "student_name": "MANUELA LUIZA DA SILVA",
+  "enrollment_student": 4546272552,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 110,
+  "student_name": "MATHEU ROCA OROS",
+  "enrollment_student": 4548347517,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 111,
+  "student_name": "MYRELLA NASCIMENTO DA SILVA",
+  "enrollment_student": 4548810608,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 112,
+  "student_name": "NAUANA GABRIELLE SOUZA SUZARTE",
+  "enrollment_student": 4548521860,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 113,
+  "student_name": "NICOLAS DAVI DE OLIVEIRA SILVA",
+  "enrollment_student": 4548353045,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 114,
+  "student_name": "NICOLI CRISTINI DE OLIVEIRA",
+  "enrollment_student": 4548353185,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 115,
+  "student_name": "SUSAN GABRIELLE STEILEN",
+  "enrollment_student": 4548353320,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 116,
+  "student_name": "VITOR HUGO FERNANDES GRASSI",
+  "enrollment_student": 4548354335,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 117,
+  "student_name": "YAGO HEITOR OURIQUES SOTELI",
+  "enrollment_student": 4552714464,
+  "id_classroom": 40,
+  "stats_student": 1
+ },
+ {
+  "id": 118,
+  "student_name": "ABNER RYAN PANTOJA DA SILVA",
+  "enrollment_student": 4547299322,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 119,
+  "student_name": "ÁDRIO VINICIOS SOUSA DA SILVA",
+  "enrollment_student": 4546449711,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 120,
+  "student_name": "ALEXANDRA VALENTINA DE FRANÇA",
+  "enrollment_student": 4546794028,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 121,
+  "student_name": "ALICE CAROLINE SANTIAGO",
+  "enrollment_student": 4549985037,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 122,
+  "student_name": "AMABILLY PROCOPIO ARANDA",
+  "enrollment_student": 4547357721,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 123,
+  "student_name": "AMANDA PEREIRA  FAUSTO",
+  "enrollment_student": 4546794796,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 124,
+  "student_name": "ANA FLAVIA SOUSA DA SILVA",
+  "enrollment_student": 4546449690,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 125,
+  "student_name": "BEATRIZ LOPES DE OLIVEIRA",
+  "enrollment_student": 4547660424,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 126,
+  "student_name": "BRENO HENRIQUE ALVES",
+  "enrollment_student": 454679561,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 127,
+  "student_name": "BRUNO FURTADO CARAVALHO",
+  "enrollment_student": 4548670202,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 128,
+  "student_name": "CARLOS ISAAC GUTIERREZ RODRIGUES",
+  "enrollment_student": 4548965776,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 129,
+  "student_name": "CAUÃ BERGMANN AMORIM",
+  "enrollment_student": 454557056,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 130,
+  "student_name": "EMANUELLE VALVERDE",
+  "enrollment_student": 4546681878,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 131,
+  "student_name": "EMILI MACIEL",
+  "enrollment_student": 4543945190,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 132,
+  "student_name": "JOÃO LUCAS DE PONTI DA SILVA",
+  "enrollment_student": 4547414156,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 133,
+  "student_name": "JOÃO VITOR DE OLIVEIRA",
+  "enrollment_student": 4546798449,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 134,
+  "student_name": "KAMILLY DA SILVA RIBEIRO",
+  "enrollment_student": 4546917847,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 135,
+  "student_name": "KAUNE IZABELE LEBRANOS CALIZARIO",
+  "enrollment_student": 454738446,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 136,
+  "student_name": "KAUANY PEREIRA",
+  "enrollment_student": 4546828470,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 137,
+  "student_name": "LAVINIA YASMIM DE SOUZA",
+  "enrollment_student": 4552765948,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 138,
+  "student_name": "LUCAS GABRIEL DA SILVA VIERA",
+  "enrollment_student": 4551460027,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 139,
+  "student_name": "MARIA ESTER SILVA DE LIMA",
+  "enrollment_student": 4548886930,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 140,
+  "student_name": "MARIA VITÓRIA CRUZ PALHETA",
+  "enrollment_student": 4546830180,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 141,
+  "student_name": "MATHIAS DA SILVA GOMES",
+  "enrollment_student": 4548517358,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 142,
+  "student_name": "NICOLLY WALTRICK CIPRIANI",
+  "enrollment_student": 4546881532,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 143,
+  "student_name": "SAMUEL FARIAS ",
+  "enrollment_student": 4548669263,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 144,
+  "student_name": "VITÓRIA PIZZATO",
+  "enrollment_student": 4549353197,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 145,
+  "student_name": "WENDELL CESAR RAMOS OLIVEIRA",
+  "enrollment_student": 4546892380,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 146,
+  "student_name": "YASMIM NOGUEIRA BATISTA",
+  "enrollment_student": 4551344612,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 147,
+  "student_name": "YASMIM VITÓRIA STEIN DA ROSA",
+  "enrollment_student": 4546791525,
+  "id_classroom": 41,
+  "stats_student": 1
+ },
+ {
+  "id": 152,
+  "student_name": "ANA BEATRIZ GOMES DE FRANÇA",
+  "enrollment_student": 4552139761,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 153,
+  "student_name": "CARLOS HENRIQUE DE SOUZA",
+  "enrollment_student": 4552384502,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 154,
+  "student_name": "DAVI LUCCAS DE AVILA CASTELLAIN",
+  "enrollment_student": 4552508678,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 155,
+  "student_name": "ELIZA DOS SANTOS MARCOS",
+  "enrollment_student": 4551907277,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 156,
+  "student_name": "ENZZO KAYKE DE OLIVEIRA ARAÚJO",
+  "enrollment_student": 4552383697,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 157,
+  "student_name": "FELIPE CORRÊA LEITE KINA",
+  "enrollment_student": 4552136142,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 158,
+  "student_name": "HENRIQUE DOS SANTOS",
+  "enrollment_student": 4551962405,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 159,
+  "student_name": "ISABELLE BATISTA TOMÉ",
+  "enrollment_student": 4552137300,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 160,
+  "student_name": "JOÃO FELIPE SIEBERT",
+  "enrollment_student": 4552138331,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 161,
+  "student_name": "JOÃO MIGUEL MARTINS",
+  "enrollment_student": 4552137580,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 162,
+  "student_name": "JOSÉ JOHN TEURY SOARES DA SILVA",
+  "enrollment_student": 4552130640,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 163,
+  "student_name": "KAUAN FREITA",
+  "enrollment_student": 4552384146,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 164,
+  "student_name": "LAURA SILVESTRE",
+  "enrollment_student": 4552138463,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 165,
+  "student_name": "LUAN RAMOS BRANCO",
+  "enrollment_student": 4552135669,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 166,
+  "student_name": "LUCAS GABRIEL BORDIGNON PINHEIRO",
+  "enrollment_student": 4552433112,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 167,
+  "student_name": "MARIA EDUARDO GERMANO TEIXEIRA",
+  "enrollment_student": 4550798873,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 168,
+  "student_name": "MIGUEL SOUTHIER",
+  "enrollment_student": 4551957819,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 169,
+  "student_name": "NICOLAS DAVI RODRIGUES",
+  "enrollment_student": 4551907048,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 170,
+  "student_name": "NICOLAS THALLES TOBIAS",
+  "enrollment_student": 4552135170,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 171,
+  "student_name": "NICOLLY VITORIA DO NASCIMENTO COSTA",
+  "enrollment_student": 4551907749,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 172,
+  "student_name": "NIKOLAS MAX MELO MORAIS",
+  "enrollment_student": 4552498753,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 173,
+  "student_name": "PEDRO GABRIEL MARTINS GREGÓRIO",
+  "enrollment_student": 4552137920,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 174,
+  "student_name": "RAFAELA APARECIDA DOS SANTOS",
+  "enrollment_student": 4552383913,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 175,
+  "student_name": "REBECA VIANA TAVARES",
+  "enrollment_student": 4550317646,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 176,
+  "student_name": "SAMUEL LUIZ BORMANIERI DE OLIVEIRA",
+  "enrollment_student": 4552135464,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 177,
+  "student_name": "SANTHIAGO GREGORY SOUZA SANTOS",
+  "enrollment_student": 4552134689,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 178,
+  "student_name": "VICENTE TEIXEIRA DA SILVA",
+  "enrollment_student": 4552654410,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 179,
+  "student_name": "YASMIM DA SILVA",
+  "enrollment_student": 4552384006,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 180,
+  "student_name": "YASMIM VITORIA LEITE DE MORAIS",
+  "enrollment_student": 4551393400,
+  "id_classroom": 42,
+  "stats_student": 1
+ },
+ {
+  "id": 181,
+  "student_name": "YURI BERTIK MABA",
+  "enrollment_student": 4551907447,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 182,
+  "student_name": "AGATHA SOFIA SOUSA FERREIRA",
+  "enrollment_student": 4550598866,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 183,
+  "student_name": "ANA CLARA JESUS FRAZÃO",
+  "enrollment_student": 4550565194,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 184,
+  "student_name": "ANNA JULIA BARNABÉ DA SILVA",
+  "enrollment_student": 459728042,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 185,
+  "student_name": "ANNA LUIZA MELO DOS SANTOS",
+  "enrollment_student": 4550615434,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 186,
+  "student_name": "BERNARDO FONSECA",
+  "enrollment_student": 4550611668,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 187,
+  "student_name": "BRYAN ANTONIO BERNARDO RIBEIRO DOS SANTOS",
+  "enrollment_student": 4550939396,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 188,
+  "student_name": "BRYAN DE OLIVEIRA DOS SANTOS",
+  "enrollment_student": 4550569360,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 189,
+  "student_name": "EDUARDA BERTOL LUCIETO",
+  "enrollment_student": 4550614691,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 190,
+  "student_name": "ELLEN SOPHIA SOARES DOS SANTOS",
+  "enrollment_student": 4550592574,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 191,
+  "student_name": "EMANUELLY SILVA DE ARAUJO",
+  "enrollment_student": 4550614438,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 192,
+  "student_name": "FERNANDO HENRIQUE DA SILVA",
+  "enrollment_student": 45515482593,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 193,
+  "student_name": "ISABELE ANHAIA DA ROSA",
+  "enrollment_student": 4550597762,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 194,
+  "student_name": "JASMIN MEDEIROS",
+  "enrollment_student": 4547911583,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 195,
+  "student_name": "JENNIFER KETILLY SOARES DA SILVA",
+  "enrollment_student": 4552130519,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 196,
+  "student_name": "JOÃO ISAAC DOS SANTOS SILVA",
+  "enrollment_student": 4551717460,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 197,
+  "student_name": "KALEBY COSTA ROCHA",
+  "enrollment_student": 4551392935,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 198,
+  "student_name": "LUCAS GABRIEL FERNANDES SILVA",
+  "enrollment_student": 4550591560,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 199,
+  "student_name": "LUIZA HELENA SILVA VIEIRA",
+  "enrollment_student": 4550588704,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 200,
+  "student_name": "LUIZA DA SILVA SANTOS",
+  "enrollment_student": 4550590261,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 201,
+  "student_name": "MARY SOPHIA DOS SANTOS NERES",
+  "enrollment_student": 4550616082,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 202,
+  "student_name": "MICKAELLY LORRANY DE FARIA ANJOS",
+  "enrollment_student": 4550589999,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 203,
+  "student_name": "MIGUEL OURIQUES LEMES",
+  "enrollment_student": 4551425620,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 204,
+  "student_name": "MILLENY SILVA DA MAIA",
+  "enrollment_student": 455059597398,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 205,
+  "student_name": "SAMUEL GRUNEICH",
+  "enrollment_student": 4548475469,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 206,
+  "student_name": "THAISY RUANA DOS SANTOS RUGISKI",
+  "enrollment_student": 4550614977,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 207,
+  "student_name": "THIAGO MAIA DE ALMEIDA",
+  "enrollment_student": 4550588801,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 208,
+  "student_name": "YAN CARDOSO DOS SANTOS",
+  "enrollment_student": 4550599242,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 209,
+  "student_name": "YASMIN QUADRA DE OLIVEIRA",
+  "enrollment_student": 4550568932,
+  "id_classroom": 43,
+  "stats_student": 1
+ },
+ {
+  "id": 210,
+  "student_name": "ASAFE FELIPHE SANTOS DE MACEDO",
+  "enrollment_student": 4549878796,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 211,
+  "student_name": "BRAYAN MARCELO INACIO DOS SANTOS",
+  "enrollment_student": 4550099169,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 212,
+  "student_name": "BRUNA BEATRIZ SOUZA COLMAN",
+  "enrollment_student": 4549529341,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 213,
+  "student_name": "CARLOS AUGUSTO PEREIRA",
+  "enrollment_student": 4549769962,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 214,
+  "student_name": "CARLOS LEANDRO DA COSTA",
+  "enrollment_student": 4547931258,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 215,
+  "student_name": "DANIEL ÂNGELO DA ROCHA DA CONCEIÇÃO",
+  "enrollment_student": 4552179798,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 216,
+  "student_name": "DAVI GUSTAVO ALMEIDA",
+  "enrollment_student": 4549728573,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 217,
+  "student_name": "DAVI YAN SOUSA",
+  "enrollment_student": 4549417675,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 218,
+  "student_name": "DAVID LUIZ RAMOS DOS SANTOS",
+  "enrollment_student": 4552501410,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 219,
+  "student_name": "EDUARDO NICOLAU ELLER",
+  "enrollment_student": 4549727801,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 220,
+  "student_name": "ELISSON JHAMYS DA VITÓRIA SANTOS",
+  "enrollment_student": 4552543228,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 221,
+  "student_name": "ÉRICO JOSÉ KRUTSCH DA SILVA",
+  "enrollment_student": 4549782608,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 222,
+  "student_name": "HELENA LOURENÇO DOS SANTOS",
+  "enrollment_student": 4549418337,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 223,
+  "student_name": "JOANA LUEDERS DE MEDEIROS",
+  "enrollment_student": 459810059,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 224,
+  "student_name": "JOÃO LUCAS DA SILVA CARDOSO",
+  "enrollment_student": 4549727356,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 225,
+  "student_name": "JULIA SOUZA DOS SANTOS",
+  "enrollment_student": 4551196923,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 226,
+  "student_name": "LIRIANE MIKAELA FARIA ANHAYS",
+  "enrollment_student": 4549734310,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 227,
+  "student_name": "NOCOLE HELOISA ALMEIDA",
+  "enrollment_student": 4549729871,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 228,
+  "student_name": "PEDRO HENRIQUE CAPITANI MORAIS",
+  "enrollment_student": 4549278225,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 229,
+  "student_name": "PEDRO OTAVIO MELO DOS SANTOS",
+  "enrollment_student": 4550281471,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 230,
+  "student_name": "ROBERTO SANTOS CORRÊA FIDELIS",
+  "enrollment_student": 4549731450,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 231,
+  "student_name": "SMARA THIS VILLANUEVA ABREU",
+  "enrollment_student": 4550937717,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 232,
+  "student_name": "THAYLLA NARCIZO MILOSKY",
+  "enrollment_student": 4551578109,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 233,
+  "student_name": "VINICIUS ANACLETO DA SILVEIRA",
+  "enrollment_student": 4549215738,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 234,
+  "student_name": "VITOR ANACLETO SILVEIRA",
+  "enrollment_student": 4549214235,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 235,
+  "student_name": "VIOTR HUGO GARCIA REZENDE",
+  "enrollment_student": 4549412967,
+  "id_classroom": 44,
+  "stats_student": 1
+ },
+ {
+  "id": 236,
+  "student_name": "ANABELLA SCHNEIDER SCHEEREN",
+  "enrollment_student": 4549544472,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 237,
+  "student_name": "ANDERSON GOMES DE SOUSA",
+  "enrollment_student": 4551447594,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 238,
+  "student_name": "ANNYED VITÓRIA DOS SANTOS",
+  "enrollment_student": 4548869697,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 239,
+  "student_name": "ANTONY VERISSIMO DOS SANTOS",
+  "enrollment_student": 4551798184,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 240,
+  "student_name": "DAVI ROCHA OLIVEIRA",
+  "enrollment_student": 4552479295,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 241,
+  "student_name": "DEBORAH VITÓRIA VIANA LIMA",
+  "enrollment_student": 4547678404,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 242,
+  "student_name": "FRANCISCA MARIA LUSINETE NETA",
+  "enrollment_student": 4549236468,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 243,
+  "student_name": "GUILHERME EDUADRDO PACHECO",
+  "enrollment_student": 4549307128,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 244,
+  "student_name": "HADASSA TEIXEIRA",
+  "enrollment_student": 4549215088,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 245,
+  "student_name": "HELENA BITTENCOURT",
+  "enrollment_student": 4549270364,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 246,
+  "student_name": "HELENA BITTENCOURT",
+  "enrollment_student": 4549270364,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 247,
+  "student_name": "HENZO DOS SANTOS FELIX",
+  "enrollment_student": 4551693340,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 248,
+  "student_name": "ISABELLA FERREIRA",
+  "enrollment_student": 4551863946,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 249,
+  "student_name": "ISABELLA RODRIGUES DA SILVA",
+  "enrollment_student": 4549214669,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 250,
+  "student_name": "JENNIFER GARCIA MELIM",
+  "enrollment_student": 4549303157,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 251,
+  "student_name": "JOANA RODRIGUES CHAVES",
+  "enrollment_student": 4549215355,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 252,
+  "student_name": "KAUANY VITÓRIA DE ALMEIDA MORENO",
+  "enrollment_student": 4550245874,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 253,
+  "student_name": "KEROLY ROBERTA LIMA DOS SANTOS",
+  "enrollment_student": 4552786678,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 254,
+  "student_name": "KEVELY BIANCA LIMA DOS SANTOS",
+  "enrollment_student": 4552786724,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 255,
+  "student_name": "LEANDRO DA SILVA DIAS ALVES",
+  "enrollment_student": 4551793778,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 256,
+  "student_name": "MARIA MAITÊ  MATIAS DA SILVA",
+  "enrollment_student": 4549242441,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 257,
+  "student_name": "MARLON CHRISTIAN DE SOUZA ANTUNES",
+  "enrollment_student": 4549439776,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 258,
+  "student_name": "MIGUEL MENDES CABRAL",
+  "enrollment_student": 4552787801,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 259,
+  "student_name": "MIGUEL MENDES CABRAL",
+  "enrollment_student": 4552787801,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 260,
+  "student_name": "RAYSSA ELOÁ DE OLVEIRA DOS SANTOS",
+  "enrollment_student": 4549759509,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 261,
+  "student_name": "RAYSSA ELOÁ DE OLIVEIRA DOS SANTOS",
+  "enrollment_student": 4549759509,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 262,
+  "student_name": "VINICIUS ALEXANDRE BONELLI",
+  "enrollment_student": 4549268670,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 263,
+  "student_name": "VITOR RODRIGUES CHAVES",
+  "enrollment_student": 4549215541,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 264,
+  "student_name": "YAN FELIPE PACHECO SCOTTINI",
+  "enrollment_student": 4550021100,
+  "id_classroom": 45,
+  "stats_student": 1
+ },
+ {
+  "id": 265,
+  "student_name": "ABNER SILVA DE OLIVEIRA ",
+  "enrollment_student": 4548356036,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 266,
+  "student_name": "ALINE TEODORA MONTEIRO DOS SANTOS",
+  "enrollment_student": 4550942630,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 267,
+  "student_name": "ALINNE VITÓRIA KESKE NIEHUES",
+  "enrollment_student": 4548240917,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 268,
+  "student_name": "ANA CAROLINA ESPINDOLA ",
+  "enrollment_student": 4548356141,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 269,
+  "student_name": "CAUA MATEUS OLIVEIRA DOS REIS",
+  "enrollment_student": 4552702865,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 270,
+  "student_name": "DAMARES YONÁ SOUSA",
+  "enrollment_student": 4548521053,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 271,
+  "student_name": "DANIEL BRYAN DE JESUS CONCEIÇÃO SOUSA",
+  "enrollment_student": 4549939809,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 272,
+  "student_name": "EMILIA OECHSLER KREUSH",
+  "enrollment_student": 4552784136,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 273,
+  "student_name": "EMILLY VITORIA AMORIM",
+  "enrollment_student": 4548356729,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 274,
+  "student_name": "EVELLYN VICTÓRIA DA SILVA BEZERRA",
+  "enrollment_student": 4548359787,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 275,
+  "student_name": "GABRIEL GRUNEICH",
+  "enrollment_student": 4545537005,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 276,
+  "student_name": "GEAN GABRIEL SANTOS DE JESUS ",
+  "enrollment_student": 4550342535,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 277,
+  "student_name": "HELIENAY VANDERLEI BRUM DA CRUZ",
+  "enrollment_student": 4548357296,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 278,
+  "student_name": "ISABELLA VICTÓRIA MENDES",
+  "enrollment_student": 4548519610,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 279,
+  "student_name": "ISABELLY VITÓRIA CRISTOVÃO ",
+  "enrollment_student": 4548637230,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 280,
+  "student_name": "JOÃO LUCAS DOS SANTOS CUNEGUNDES",
+  "enrollment_student": 4549376430,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 281,
+  "student_name": "JONATHAS GABRIEL AVELINO DA SILVA",
+  "enrollment_student": 4549375077,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 282,
+  "student_name": "KAIO VINÍCIU PEREIRA LIRA",
+  "enrollment_student": 4550167539,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 283,
+  "student_name": "LEONARDO DE ARAÚJO STEINHEUSER",
+  "enrollment_student": 4548357997,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 284,
+  "student_name": "LUANA RAFAELA PEREIRA",
+  "enrollment_student": 4548358225,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 285,
+  "student_name": "MANOELPAULO VENTURA NETO",
+  "enrollment_student": 4548361617,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 286,
+  "student_name": "MARCELO AUGUSTO DE BRITO SOUZA",
+  "enrollment_student": 4551793590,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 287,
+  "student_name": "MARCOS RYHELDER SILVA ALEIXO ",
+  "enrollment_student": 4547261490,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 288,
+  "student_name": "MIGUEL MAIA DE ALMEIDA",
+  "enrollment_student": 4548326293,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 289,
+  "student_name": "ROBERT GUILHERME BAIA DIAS",
+  "enrollment_student": 4551604673,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 290,
+  "student_name": "SAVIO MATHEUS SILVA MORAES",
+  "enrollment_student": 4551174377,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 291,
+  "student_name": "STHEFANY SOPHIA FARIAS LOBO",
+  "enrollment_student": 4551599750,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 292,
+  "student_name": "TAMILLY VICTORIA DO CARMO CAVALCANTE",
+  "enrollment_student": 4546924797,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 293,
+  "student_name": "VERÔNICA BITTENCOURT",
+  "enrollment_student": 4548828507,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 294,
+  "student_name": "VICTÓRIA GALEANO DE LIMA",
+  "enrollment_student": 4547994993,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 295,
+  "student_name": "VILIANNY ALESSANDRA ZANELA",
+  "enrollment_student": 4548353584,
+  "id_classroom": 46,
+  "stats_student": 1
+ },
+ {
+  "id": 297,
+  "student_name": "ADRIAN DE ARAÚJO WRUCK ZAMPIERI",
+  "enrollment_student": 4545201759,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 296,
+  "student_name": "ABIEL BENJAMIN ALFAIA DE FREITAS",
+  "enrollment_student": 4549901160,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 298,
+  "student_name": "ANDREISON HENRY SOARES DOS SANTOS",
+  "enrollment_student": 4546855043,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 299,
+  "student_name": "BEATRIZ PEREIRA RAMOS",
+  "enrollment_student": 4546856708,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 300,
+  "student_name": "CRISTHYAN RAPHAEL MELO DANTAS",
+  "enrollment_student": 4551512531,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 301,
+  "student_name": "DINEIRY MEDINA RODRIGUEZ",
+  "enrollment_student": 4552752544,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 302,
+  "student_name": "EMANUELLI BOEIRA LAMIM",
+  "enrollment_student": 4546863330,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 303,
+  "student_name": "ERIK MARTINS GREGORIO",
+  "enrollment_student": 4545086097,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 304,
+  "student_name": "FELIPE DA SILVA ZIMMERMANN",
+  "enrollment_student": 4547226660,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 305,
+  "student_name": "GABRIEL FELIPE GEWINSKI",
+  "enrollment_student": 4546865375,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 306,
+  "student_name": "ÍKARO JOSÉ DOS SANTOS MENESES",
+  "enrollment_student": 4545692892,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 307,
+  "student_name": "ISABELA FERNANDA SANTOS DE MACEDO",
+  "enrollment_student": 4549878761,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 308,
+  "student_name": "ISABELLY PIETRA PAES WALTRICK",
+  "enrollment_student": 4550934637,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 309,
+  "student_name": "JOSÉ MIGUEL DE SOUZA ",
+  "enrollment_student": 4546911261,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 310,
+  "student_name": "KAIO GABRIEL DE OLIVEIRA DOS SANTOS",
+  "enrollment_student": 4549871651,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 311,
+  "student_name": "KÉSIA SOUZA DOS SANTOS",
+  "enrollment_student": 4549346743,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 312,
+  "student_name": "LUIZ OTAVIO DA SILVA",
+  "enrollment_student": 4546925866,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 313,
+  "student_name": "MARIA EDUARDA DE SOUZA PASTANA ",
+  "enrollment_student": 4549369115,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 314,
+  "student_name": "MARIA EDUARDA DOS SANTOS MORAES",
+  "enrollment_student": 4545681696,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 315,
+  "student_name": "MARIA VITORIA NUNES DOS SANTOS",
+  "enrollment_student": 4551195838,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 316,
+  "student_name": "MATEUS ZIMMERMANN GONÇALVES",
+  "enrollment_student": 4546832930,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 317,
+  "student_name": "MIKAELY ASSIS FERREIRA",
+  "enrollment_student": 4546921470,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 318,
+  "student_name": "PAOLLA MIKAELA CAMARGO DA CRUZ",
+  "enrollment_student": 4545488063,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 319,
+  "student_name": "PEDRO JUAN DOS SANTOS AMARAL",
+  "enrollment_student": 4551784434,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 320,
+  "student_name": "PEDRO JUAN SANTOS DA SILVA",
+  "enrollment_student": 4546885660,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 321,
+  "student_name": "RIKELME FARIAS DE SOUZA",
+  "enrollment_student": 4547228360,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 322,
+  "student_name": "RIQUELMY GONÇALVES AMORIM",
+  "enrollment_student": 4543979400,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 323,
+  "student_name": "SOFIA PEREIRA DE MORAES",
+  "enrollment_student": 4552721002,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 324,
+  "student_name": "YURI BORMANIERI RAMPELOTI",
+  "enrollment_student": 4546905261,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 325,
+  "student_name": "YURI EDUARDO ROSA ",
+  "enrollment_student": 4546897625,
+  "id_classroom": 48,
+  "stats_student": 1
+ },
+ {
+  "id": 326,
+  "student_name": "ABIEZER PROCOPIO ARANDA",
+  "enrollment_student": 4545179141,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 327,
+  "student_name": "AGNES VICTORIA PADILHA AVILA",
+  "enrollment_student": 4547299101,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 328,
+  "student_name": "ALICE BEATRIZ LIMA SILVA",
+  "enrollment_student": 4547824222,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 329,
+  "student_name": "ALICE BEATRIZ SOARES DOS SANTOS",
+  "enrollment_student": 4545586383,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 330,
+  "student_name": "ALINE LUNARDI",
+  "enrollment_student": 4545586618,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 331,
+  "student_name": "AMANDA FLORENTINO MENEZES",
+  "enrollment_student": 4545586863,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 332,
+  "student_name": "ANA CLARA WOSNIAK",
+  "enrollment_student": 4550099576,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 333,
+  "student_name": "ANA PAULA ROCHA FERREIRA",
+  "enrollment_student": 4545684792,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 334,
+  "student_name": "ARTHUR FRANCISCO PERIN",
+  "enrollment_student": 4545675289,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 335,
+  "student_name": "ARTHUR MIGUEL NUNC NFOONRO",
+  "enrollment_student": 4545677060,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 336,
+  "student_name": "BRUNO RICARDO SAMPAIO PRATEZZI DE SOUZA",
+  "enrollment_student": 4551490457,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 337,
+  "student_name": "DANIELE HELLOISA RAHMAN",
+  "enrollment_student": 4544298643,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 338,
+  "student_name": "EDSON SAMUEL MATUSZEWSKI",
+  "enrollment_student": 454545575950,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 339,
+  "student_name": "EDUARDO HENRIQUE KLEINE",
+  "enrollment_student": 4545539717,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 340,
+  "student_name": "ERICK MATHEUS FERREIRA",
+  "enrollment_student": 4545677648,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 341,
+  "student_name": "ESTER DAIANE DOMINGOS FERREIRA",
+  "enrollment_student": 4545471969,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 342,
+  "student_name": "GABRIELLA ARIANNA SOARES CORDEIRO",
+  "enrollment_student": 4546009177,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 343,
+  "student_name": "GUSTAVO HENRIQUE DA SILVA",
+  "enrollment_student": 4545683850,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 344,
+  "student_name": "IASMIM VHITORIA ADONSKI",
+  "enrollment_student": 4549943415,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 345,
+  "student_name": "JOÃO VITOR MACIEL BARBOSA",
+  "enrollment_student": 4545760766,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 346,
+  "student_name": "JÚLIA CAMILY BOAVENTURA",
+  "enrollment_student": 4544704102,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 347,
+  "student_name": "LUIZA PEDROSO DOS SANTOS PACHECO",
+  "enrollment_student": 4545682994,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 348,
+  "student_name": "MARIA GABRIELA SANTOS FERREIRA",
+  "enrollment_student": 4545978214,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 349,
+  "student_name": "MIGUEL PAULO DOS SANTOS",
+  "enrollment_student": 4545685837,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 350,
+  "student_name": "NATAN HONÓRIO POLEZA",
+  "enrollment_student": 45454686302,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 351,
+  "student_name": "RAFAEL LOPES DOS ANJOS",
+  "enrollment_student": 4548709516,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 352,
+  "student_name": "RAFAELLA NIEHUES STAHNKE",
+  "enrollment_student": 4544322048,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 353,
+  "student_name": "RAIANA KATIUSKA CARDOSO",
+  "enrollment_student": 4545689670,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 354,
+  "student_name": "RYAN FELIPE VIRTUOSO DA SILVA",
+  "enrollment_student": 4545688550,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 355,
+  "student_name": "STEFANI FERNANDES DARGA ",
+  "enrollment_student": 4545689190,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 356,
+  "student_name": "VALTEMÁRIO ICARO DE OLIVEIRA MARTINS",
+  "enrollment_student": 4547632579,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 357,
+  "student_name": "VICTOR GABRIEL MARCELINO",
+  "enrollment_student": 4545759083,
+  "id_classroom": 49,
+  "stats_student": 1
+ },
+ {
+  "id": 358,
+  "student_name": "ALEXANDRE GOMES CEZILIO",
+  "enrollment_student": 4544331349,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 359,
+  "student_name": "ANA JULIA VIEIRA SANTOS",
+  "enrollment_student": 4545008355,
+  "id_classroom": 17,
+  "stats_student": 1
+ },
+ {
+  "id": 360,
+  "student_name": "ARIANE KIÉSKI KOHUT",
+  "enrollment_student": 4544318261,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 361,
+  "student_name": "BERNADO DE MIRANDA MONDINI",
+  "enrollment_student": 4544320495,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 362,
+  "student_name": "CALEBE RAMOS CORREIA DE ALMEIDA",
+  "enrollment_student": 4547821606,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 363,
+  "student_name": "CRISTALLY ALMEIDA DORNELES",
+  "enrollment_student": 4549718519,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 364,
+  "student_name": "DAPHINI DA SILVA OLIVEIRA",
+  "enrollment_student": 4546016114,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 365,
+  "student_name": "ELIAS ALFREDO MAÇANEIRO",
+  "enrollment_student": 4544318865,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 366,
+  "student_name": "EMILY DE JESUS MOREIRA",
+  "enrollment_student": 4548517250,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 367,
+  "student_name": "GUILHERME THIAGO KRUGER",
+  "enrollment_student": 4544296063,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 368,
+  "student_name": "GUSTAVO DIEKMANN DO NASCIMENTO",
+  "enrollment_student": 4549283040,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 369,
+  "student_name": "GUSTAVO FELLIPE BAADE NOVAIS DO PRADO",
+  "enrollment_student": 4548978886,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 370,
+  "student_name": "ISABELA MACHADO",
+  "enrollment_student": 4547652243,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 371,
+  "student_name": "JOÃO VITOR DIAS DE MOURA",
+  "enrollment_student": 4543653008,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 372,
+  "student_name": "KALLEBY MOISÉS DA CRUZ DA SILVA",
+  "enrollment_student": 4548701124,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 373,
+  "student_name": "LEONARDO DOS SANTOS LOPES ",
+  "enrollment_student": 4547718457,
+  "id_classroom": 17,
+  "stats_student": 1
+ },
+ {
+  "id": 374,
+  "student_name": "LUAN PEDROSO PACHECO",
+  "enrollment_student": 4543254928,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 375,
+  "student_name": "LUIS GUSTAVO FREIRE MENDES",
+  "enrollment_student": 4547320135,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 376,
+  "student_name": "MARCOS FERNANDO FARIA",
+  "enrollment_student": 4501518684,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 377,
+  "student_name": "MATHEUS GOEDERT FERNANDES",
+  "enrollment_student": 4544343649,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 378,
+  "student_name": "MIRELA TELES SANTANA",
+  "enrollment_student": 4544690365,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 379,
+  "student_name": "NATALIA DAVI",
+  "enrollment_student": 4544334496,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 380,
+  "student_name": "NATHAMY DA SILVA CAMARGO",
+  "enrollment_student": 4544331403,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 381,
+  "student_name": "PABLO DIMITRI SCHNEIDER DE OLIVEIRA",
+  "enrollment_student": 4546965892,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 382,
+  "student_name": "PEDRO HENRIQUE DO AMARAL",
+  "enrollment_student": 4544300656,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 383,
+  "student_name": "SARA HELOISA HAMMES",
+  "enrollment_student": 4544331896,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 384,
+  "student_name": "TAINÁ DE LIMA",
+  "enrollment_student": 4544325250,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 385,
+  "student_name": "THAMIRES DE SOUZA",
+  "enrollment_student": 4543255797,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 386,
+  "student_name": "TIAGO ENRIQUE FLOSS",
+  "enrollment_student": 4544330415,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 387,
+  "student_name": "VITOR HUGO GARCIA TRINDADE",
+  "enrollment_student": 4544353679,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 388,
+  "student_name": "VITÓRIA DE SOUZA",
+  "enrollment_student": 4543255487,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 389,
+  "student_name": "YASMIM NIEHUES",
+  "enrollment_student": 4544615070,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 390,
+  "student_name": "YURI CAMARGO DE SOUZA",
+  "enrollment_student": 4546100948,
+  "id_classroom": 50,
+  "stats_student": 1
+ },
+ {
+  "id": 391,
+  "student_name": "ABNER PROCOPIO ARANDA",
+  "enrollment_student": 455179346,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 392,
+  "student_name": "AMANDA MARTINS ALVES MACHADO",
+  "enrollment_student": 4547853877,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 393,
+  "student_name": "ARTHUR FURTADO CARVALHO",
+  "enrollment_student": 4548669859,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 394,
+  "student_name": "BEATRIZ VICTORIA VEIGA",
+  "enrollment_student": 4542222607,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 395,
+  "student_name": "BERNARDO ZIENER MORAES",
+  "enrollment_student": 4542222607,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 396,
+  "student_name": "BRAYAN MACHADO FERNANDES",
+  "enrollment_student": 453188550,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 397,
+  "student_name": "CASSIO FIGUEIRA DE OLIVEIRA",
+  "enrollment_student": 4542646580,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 398,
+  "student_name": "CHRISTIAN DANIEL SENKIU",
+  "enrollment_student": 4546096290,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 399,
+  "student_name": "DIEGO VALENTIN PEREZ BARRETO",
+  "enrollment_student": 4547201284,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 400,
+  "student_name": "ERIK CAMARGO",
+  "enrollment_student": 4540899375,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 401,
+  "student_name": "FELIPE DA SILVA SANTOS",
+  "enrollment_student": 4544809621,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 402,
+  "student_name": "FELIPE KRISANSKY",
+  "enrollment_student": 4542222720,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 403,
+  "student_name": "GRAZIELY LEANDRO LEMOS",
+  "enrollment_student": 4543383175,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 404,
+  "student_name": "GUSTAVO DA SILVA",
+  "enrollment_student": 4543253441,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 405,
+  "student_name": "HIAGO OLIANI GOMES",
+  "enrollment_student": 4542222836,
+  "id_classroom": 29,
+  "stats_student": 1
+ },
+ {
+  "id": 406,
+  "student_name": "ITALO CÉSAR RAMOS OLIVEIRA",
+  "enrollment_student": 4543450069,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 407,
+  "student_name": "LUAN HENRIQUE STEIN DA ROSA",
+  "enrollment_student": 4542228559,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 408,
+  "student_name": "MARCELO FAUSTO SILVEIRA",
+  "enrollment_student": 4542222887,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 409,
+  "student_name": "MATHEUS DA SILVA",
+  "enrollment_student": 4543255967,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 410,
+  "student_name": "MAYLLER FABIO SILVA",
+  "enrollment_student": 4546275942,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 411,
+  "student_name": "NATHALIE MARGALHO TUDELA",
+  "enrollment_student": 4543451618,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 412,
+  "student_name": "RONNY ALEXANDER JAIMES PERDOMO",
+  "enrollment_student": 4546738900,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 413,
+  "student_name": "SAMUEL RUAN SIQUEIRA PAIVA",
+  "enrollment_student": 4547098866,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 414,
+  "student_name": "SARA CRISTINA DOMINGOS FERREIRA",
+  "enrollment_student": 4543311980,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 415,
+  "student_name": "SARAH CRISTINE ALDERETE PEREIRA",
+  "enrollment_student": 4542228737,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 416,
+  "student_name": "VITÓRIA DAVYLA PEREIRA DO CARMO",
+  "enrollment_student": 4542800244,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 417,
+  "student_name": "WESLEY DA SILVA DO ROSARIO",
+  "enrollment_student": 4543192221,
+  "id_classroom": 14,
+  "stats_student": 1
+ },
+ {
+  "id": 418,
+  "student_name": "ANA JULIA LUIZ",
+  "enrollment_student": 4542222763,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 419,
+  "student_name": "ANDREW GRAHL",
+  "enrollment_student": 4542222542,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 420,
+  "student_name": "ANTONY LONGEN",
+  "enrollment_student": 4541836113,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 421,
+  "student_name": "BRUNO BRYAN ANDRZEJEWSKI",
+  "enrollment_student": 4542379743,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 422,
+  "student_name": "CAROLINE RABER DE OLIVEIRA",
+  "enrollment_student": 4542227986,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 423,
+  "student_name": "DAFNY GABRIELLY CRUZ ANDRADE",
+  "enrollment_student": 4549013663,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 424,
+  "student_name": "DAIANE NASCIMENTO DA SILVA",
+  "enrollment_student": 4545372391,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 425,
+  "student_name": "DANIEL KAUÂ DE OLIVEIRA SILVA",
+  "enrollment_student": 4500752853,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 426,
+  "student_name": "DIEGO PEDROSO DOS SANTOS",
+  "enrollment_student": 4542222623,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 427,
+  "student_name": "ERICK BERNARDO DA SILVA",
+  "enrollment_student": 4547234573,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 428,
+  "student_name": "GUILHERME JAIR ZIBELL",
+  "enrollment_student": 4540882375,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 429,
+  "student_name": "GUILHERME KAUE DE SOUZA WEBER",
+  "enrollment_student": 4541960710,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 430,
+  "student_name": "HYSLÂNIA NICOLE DE OLIVEIRA SILVA",
+  "enrollment_student": 45422228660,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 431,
+  "student_name": "ISABELLY CRISTINE DA SILVA KUNZ",
+  "enrollment_student": 4542228214,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 432,
+  "student_name": "ISABELY VITORIA DE MOIRAIS VIEIRA",
+  "enrollment_student": 4548996680,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 433,
+  "student_name": "JEAN CARLOS COSTA",
+  "enrollment_student": 4547237334,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 434,
+  "student_name": "JEAN GUILHERME FERNANDES DA SILVA",
+  "enrollment_student": 4540019286,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 435,
+  "student_name": "LARA JULIA HAMMES",
+  "enrollment_student": 452267384,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 436,
+  "student_name": "LUCAS OECKSLER",
+  "enrollment_student": 4542043389,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 437,
+  "student_name": "MARIA CRISTINA DE OLIVEIRA ALVES",
+  "enrollment_student": 4540124896,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 438,
+  "student_name": "MATHEUS EDUARDO BENTHAS",
+  "enrollment_student": 4543874632,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 439,
+  "student_name": "MAYRON FERNANDES MACHADO SANTOS",
+  "enrollment_student": 4546101430,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 440,
+  "student_name": "NAYLA VITÓRIA GOMES DA SILVA",
+  "enrollment_student": 4543711610,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 441,
+  "student_name": "NICOLLY AMANDA DOS SANTOS",
+  "enrollment_student": 4542222933,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 442,
+  "student_name": "PHILIPI JULIANO GRAF ",
+  "enrollment_student": 4541829427,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 443,
+  "student_name": "ROSANA RODRIGUES ",
+  "enrollment_student": 4542222968,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 444,
+  "student_name": "SAMILY ALEXANDRA SILVA DE OLIVEIRA ",
+  "enrollment_student": 4547652448,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 445,
+  "student_name": "SARAH DOS SANTOS CUIMAR",
+  "enrollment_student": 4543451162,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 446,
+  "student_name": "TIAGO DOS SANTOS VEPPO",
+  "enrollment_student": 4543923366,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 447,
+  "student_name": "VITOR AUGUSTO PAGLIARINI RONSANI",
+  "enrollment_student": 4544119323,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 448,
+  "student_name": "YASMIN DA SILVA CEZAR",
+  "enrollment_student": 4542228818,
+  "id_classroom": 11,
+  "stats_student": 1
+ },
+ {
+  "id": 449,
+  "student_name": "ALLAN VICTOR DO NASCIMENTO COSTA",
+  "enrollment_student": 4550737238,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 450,
+  "student_name": "ALLANA EDUARDA CARVALCANTE SILVA",
+  "enrollment_student": 4552698167,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 451,
+  "student_name": "AMANDA BEATRIZ MARIANO ",
+  "enrollment_student": 4545691306,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 452,
+  "student_name": "ANA CLARA CAMARGO",
+  "enrollment_student": 4546025504,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 453,
+  "student_name": "ANDRE GUSTAVO DA SILVA ",
+  "enrollment_student": 4550640080,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 454,
+  "student_name": "DANIELLA YOHANA SOUSA",
+  "enrollment_student": 4545691888,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 455,
+  "student_name": "DAVI LUIS ULBIRICH",
+  "enrollment_student": 4545966674,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 456,
+  "student_name": "ELOAH CARDOSO SANTOS ",
+  "enrollment_student": 4551783357,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 457,
+  "student_name": "ELOISE CARDOSO SANTOS ",
+  "enrollment_student": 4551783411,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 458,
+  "student_name": "EMANUELLA TEREZA BENEDITO DE OLIVEIRA",
+  "enrollment_student": 4544369796,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 459,
+  "student_name": "ERICK KAIO BERNARDO RIBEIRO DOS SANTOS",
+  "enrollment_student": 4545112497,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 460,
+  "student_name": "GIULIA MENEGHETTI HOSTIN ADÃO",
+  "enrollment_student": 4545755878,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 461,
+  "student_name": "GUSTAVO GABRIEL LOPES DE MEDEIROS ",
+  "enrollment_student": 4551838534,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 462,
+  "student_name": "HELENO GABRIEL DE OLIVEIRA PEREIRA",
+  "enrollment_student": 4549265476,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 463,
+  "student_name": "JAMILY VITÓRIA DA SILVA NAZARIO",
+  "enrollment_student": 4545760235,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 464,
+  "student_name": "JOÃO VITOR CAPITANI MORAIS ",
+  "enrollment_student": 4546294491,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 465,
+  "student_name": "JULIO SERGIO DOS SANTOS",
+  "enrollment_student": 4552180389,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 466,
+  "student_name": "LEONARDO CORRÊA LEITE KINA",
+  "enrollment_student": 4545766144,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 467,
+  "student_name": "LUCAS RAMOS BRANCO",
+  "enrollment_student": 4545539636,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 468,
+  "student_name": "LUIZ FRANCISCO PEIXER",
+  "enrollment_student": 4545767329,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 469,
+  "student_name": "LYANDRA SILVA ANJOS",
+  "enrollment_student": 4552782745,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 470,
+  "student_name": "MARCOS ANTONIO VIANA DOS SANTOS",
+  "enrollment_student": 4546202074,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 471,
+  "student_name": "MILENA CAMILY FERREIRA",
+  "enrollment_student": 4545605558,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 472,
+  "student_name": "NATHAN MARCOS",
+  "enrollment_student": 4545768791,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 473,
+  "student_name": "NICOLAS RODRIGO ADAMI",
+  "enrollment_student": 4545768635,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 474,
+  "student_name": "PEDRO EMANUEL DE LIMA NOGUEIRA",
+  "enrollment_student": 4551643423,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 475,
+  "student_name": "PEDRO EMANUEL DE LIMA NOGUEIRA",
+  "enrollment_student": 4551,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 476,
+  "student_name": "RAFAEL ROCHA TIEDT",
+  "enrollment_student": 4545678644,
+  "id_classroom": 29,
+  "stats_student": 1
+ },
+ {
+  "id": 477,
+  "student_name": "SOPHYA SANTOS DA SILVA",
+  "enrollment_student": 4546891090,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 478,
+  "student_name": "STHEFANI SANTOS CORRÊA FIDELIS",
+  "enrollment_student": 4547277639,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 479,
+  "student_name": "VINICIUS BILCK KRESSIN",
+  "enrollment_student": 4545112853,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 480,
+  "student_name": "YGOR RAVI DA SILVA",
+  "enrollment_student": 4550586280,
+  "id_classroom": 30,
+  "stats_student": 1
+ },
+ {
+  "id": 481,
+  "student_name": "AMABYLLI EDUARDA DA SILVA DE PONTI",
+  "enrollment_student": 4542222291,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 482,
+  "student_name": "ARIELE DE ALMEIDA MORENO",
+  "enrollment_student": 4550246277,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 483,
+  "student_name": "ARIELL ALVES RODRIGUES",
+  "enrollment_student": 4543763245,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 484,
+  "student_name": "BRENDA ISABELE MAFRA LEITE",
+  "enrollment_student": 4542106763,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 489,
+  "student_name": "CAUANE VITORIA OLIVEIRA DOS REIS",
+  "enrollment_student": 4552702962,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 490,
+  "student_name": "DAVI DE JESUS PINTO SANTANA",
+  "enrollment_student": 4552746854,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 491,
+  "student_name": "EDUARDO NASCIMENTO DA SILVA",
+  "enrollment_student": 4552735801,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 492,
+  "student_name": "EMANUEL LUIZ BRUM DA CRUZ",
+  "enrollment_student": 4544921669,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 493,
+  "student_name": "ESTEVAM HENRIQUE SOARES DA SILVA",
+  "enrollment_student": 4543592009,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 494,
+  "student_name": "ISAAC VITOR ANTUNES FERREIRA",
+  "enrollment_student": 4547293693,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 495,
+  "student_name": "ISABELY CAROLAYNE REINNERT GUERREIRO",
+  "enrollment_student": 4543946137,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 498,
+  "student_name": "JENNYFER KATIELLY DA SILVA FERREIRA",
+  "enrollment_student": 4544351412,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 499,
+  "student_name": "JOAO PEDRO GARCIA REZENDE",
+  "enrollment_student": 4549061587,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 500,
+  "student_name": "JOÃO PEDRO GARCIA REZENDE",
+  "enrollment_student": 4549061587,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 501,
+  "student_name": "JUAN FERNANDES SILVA DE LIMA",
+  "enrollment_student": 4544329522,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 502,
+  "student_name": "JULIANA SCHMITT",
+  "enrollment_student": 4544361248,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 503,
+  "student_name": "KAUA MENDES SILVA",
+  "enrollment_student": 4552787704,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 504,
+  "student_name": "LARISSA SILVA DE ANDRADE",
+  "enrollment_student": 4544328410,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 505,
+  "student_name": "LAUANY FERNANDA COSTA DA SILVA",
+  "enrollment_student": 4543190881,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 506,
+  "student_name": "LETHICIA DE SENA MARQUES",
+  "enrollment_student": 4542710768,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 507,
+  "student_name": "LUCAS MIGUEL DA SILVA",
+  "enrollment_student": 4544355930,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 508,
+  "student_name": "LUCAS RODRIGUES AGOSTINI",
+  "enrollment_student": 4544332973,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 509,
+  "student_name": "MARIA BEATRIZ MARQUEZ VENTURA",
+  "enrollment_student": 4544382938,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 510,
+  "student_name": "MARIA LUIZA DOS SANTOS",
+  "enrollment_student": 4544133121,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 511,
+  "student_name": "MIGUEL ALMEIDA",
+  "enrollment_student": 4544751186,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 514,
+  "student_name": "MIKAEL GRUNEICH",
+  "enrollment_student": 4542681555,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 515,
+  "student_name": "MAYARA DE ALMEIDA MORENO",
+  "enrollment_student": 4550062494,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 516,
+  "student_name": "SARAH SABRINA SILVA MORAES",
+  "enrollment_student": 4551174008,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 517,
+  "student_name": "TIAGO SOARES ARAÚJO",
+  "enrollment_student": 4544525968,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 518,
+  "student_name": "TIAGO SOARES ARAÚJO",
+  "enrollment_student": 4544525968,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 519,
+  "student_name": "VINICIUS GALEANO MOREIRA",
+  "enrollment_student": 4546256352,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 520,
+  "student_name": "VITOR ALMEIDA DE ALDERETE NUNES",
+  "enrollment_student": 4544620987,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 521,
+  "student_name": "VITOR HENRIQUE RAMOS SOBRINHO",
+  "enrollment_student": 4547249724,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 522,
+  "student_name": "VITOR HENRIQUE RAMOS SOBRINHO",
+  "enrollment_student": 4547249724,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 523,
+  "student_name": "VITOR HUGO CHAQUETE",
+  "enrollment_student": 4544163900,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 524,
+  "student_name": "YULENNY MEDINA RODRIGUEZ",
+  "enrollment_student": 4552752528,
+  "id_classroom": 18,
+  "stats_student": 1
+ },
+ {
+  "id": 525,
+  "student_name": "ALLAN HENRIQUE REIS",
+  "enrollment_student": 4545777898,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 526,
+  "student_name": "ANA CLARA DE SOUZA",
+  "enrollment_student": 4546120051,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 527,
+  "student_name": "ANA CLARA SANTOS DE MACEDO",
+  "enrollment_student": 4550226063,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 528,
+  "student_name": "ANA GABRIELLE DA ROCHA DA CONCEIÇÃO",
+  "enrollment_student": 4546457706,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 529,
+  "student_name": "ANA GABRIELLE DA ROCHA DA CONCEIÇÃO",
+  "enrollment_student": 4546457706,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 530,
+  "student_name": "ANTHONNY ALVES NÓBREGA",
+  "enrollment_student": 4552418482,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 531,
+  "student_name": "EMYLE BEATRIL SOUZA DE JESUS",
+  "enrollment_student": 4545116220,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 532,
+  "student_name": "EMYLE BEATRIZ SOUZA DE JESUS",
+  "enrollment_student": 4545116220,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 533,
+  "student_name": "EVELY VIORIA DA SILVA SOUSA",
+  "enrollment_student": 4548322468,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 534,
+  "student_name": "FABIOLA MARIA MILITÃO DA SILVA",
+  "enrollment_student": 4543785508,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 537,
+  "student_name": "GABRIEL DE ANDRADE",
+  "enrollment_student": 4552418679,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 538,
+  "student_name": "GABRIEL TEODORO ALVES",
+  "enrollment_student": 45434543441779,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 539,
+  "student_name": "ISAC NILTON SILVA ANJOS",
+  "enrollment_student": 4552776729,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 540,
+  "student_name": "IZABELLE VALERIO BILLAFON",
+  "enrollment_student": 4550007108,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 541,
+  "student_name": "JOÃO VITOR SIMAS",
+  "enrollment_student": 4542763969,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 542,
+  "student_name": "JOSÉ LUEDERS DE MEDEIROS",
+  "enrollment_student": 4549268319,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 543,
+  "student_name": "JULIS STEILLEIN EGERLAND",
+  "enrollment_student": 4549272952,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 544,
+  "student_name": "LARA EDUARDA DOS SANTOS FARIAS",
+  "enrollment_student": 4551333653,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 545,
+  "student_name": "MARYNA BEATRIZ DO PRADO DA SILVA",
+  "enrollment_student": 4543254650,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 546,
+  "student_name": "MATHEUS SCHNEIDER PEIXER",
+  "enrollment_student": 4549278888,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 547,
+  "student_name": "MURILO PHILIPE GONÇALVES",
+  "enrollment_student": 4552496785,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 548,
+  "student_name": "NATALY YOHANA ESSER",
+  "enrollment_student": 4544152088,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 549,
+  "student_name": "RAFAEL PEDRO BECKMAN CORREA",
+  "enrollment_student": 4548684297,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 550,
+  "student_name": "RAFAELA CAROLINE BACK",
+  "enrollment_student": 4552418776,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 551,
+  "student_name": "RAILANY TAMIRI VALENTIM SANTOS",
+  "enrollment_student": 4552410716,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 552,
+  "student_name": "RAILANY TAMIRI VALENTIM SANTOS",
+  "enrollment_student": 4552410716,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 553,
+  "student_name": "VICTOR GALEANO MOREIRA",
+  "enrollment_student": 4546256522,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 554,
+  "student_name": "WESLEY BALBIM DE SOUZA",
+  "enrollment_student": 4541631074,
+  "id_classroom": 15,
+  "stats_student": 1
+ },
+ {
+  "id": 555,
+  "student_name": "ANA BEATRIZ ALVES",
+  "enrollment_student": 4551627371,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 556,
+  "student_name": "ANA LETICIA TILLES DE ARAUJO",
+  "enrollment_student": 4541169974,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 557,
+  "student_name": "CALEBE LIMA DE ARAUJO SILVA",
+  "enrollment_student": 455165489,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 558,
+  "student_name": "CRISTHIAN ALEJANDRO DIAS SANCHEZ",
+  "enrollment_student": 4552103600,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 559,
+  "student_name": "DANIELLY CRISTINY SOARES CORDEIRO",
+  "enrollment_student": 4543015974,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 560,
+  "student_name": "EDUARDO FERNANDES DE OLIVEIRA",
+  "enrollment_student": 4501820712,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 561,
+  "student_name": "GUSTAVO BORBA",
+  "enrollment_student": 4541862203,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 562,
+  "student_name": "GUSTAVO HENRIQUE PEREIRA DOS SANTOS",
+  "enrollment_student": 4540898670,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 563,
+  "student_name": "IGOR VINICIOS  PEREIRA DA SILVA",
+  "enrollment_student": 4551631417,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 564,
+  "student_name": "JOÃO VICENTE BARTH",
+  "enrollment_student": 4550216220,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 565,
+  "student_name": "KENDHERSON LORHAN FERREIRA DE OLIVEIRA",
+  "enrollment_student": 4542769207,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 566,
+  "student_name": "LETICIA SCHAEFER",
+  "enrollment_student": 4540669973,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 567,
+  "student_name": "LUIS EDUARDO BATISTA FRANCO",
+  "enrollment_student": 4547648564,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 568,
+  "student_name": "MARCIO VIANA DOS SANTOS",
+  "enrollment_student": 4546202244,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 569,
+  "student_name": "MARIA BEATRIZ KAILACIRIACO SILVA",
+  "enrollment_student": 4552435310,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 570,
+  "student_name": "MARIA DE JESUS FERREIRA DE  MATOS",
+  "enrollment_student": 4549677510,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 571,
+  "student_name": "MARIA EDUARDA DE OLIVEIRA KRUTSCH",
+  "enrollment_student": 4540900721,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 572,
+  "student_name": "MARIA EDUARDA VITAL DE ALMEIDA",
+  "enrollment_student": 4552103821,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 573,
+  "student_name": "MATEUS ASAFE OLIVEIRA SOUZA",
+  "enrollment_student": 4545987205,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 574,
+  "student_name": "MATHEUS SANTOS CARDOSO",
+  "enrollment_student": 4541522550,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 575,
+  "student_name": "PAULO DA SILVA JUNIOR",
+  "enrollment_student": 4547133114,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 576,
+  "student_name": "TAINÁ GABRIELE DA SILVA BARNABE",
+  "enrollment_student": 454004291,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 577,
+  "student_name": "TAINARA FERNANDA AMARAL DE LIMA",
+  "enrollment_student": 4545279502,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 578,
+  "student_name": "VICTOR GABRIEL DE SOUZA DOS SANTOS",
+  "enrollment_student": 4552773894,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 579,
+  "student_name": "VICTOR HUGO ALMEIDA DO NASCIMENTO",
+  "enrollment_student": 4544061716,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 580,
+  "student_name": "VITÓRIA DE FREITAS GUIMARÃES",
+  "enrollment_student": 4541463252,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 581,
+  "student_name": "VITÓRIA  GOMES DE LIMA",
+  "enrollment_student": 4551003220,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 582,
+  "student_name": "WESLEY DE JESUS MACHADO",
+  "enrollment_student": 4541023600,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 583,
+  "student_name": "WILLIANY KATRINE ROSA BATISTA",
+  "enrollment_student": 4551171092,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 584,
+  "student_name": "YASMIM COSTA ROCHA",
+  "enrollment_student": 4551378002,
+  "id_classroom": 12,
+  "stats_student": 1
+ },
+ {
+  "id": 585,
+  "student_name": "ANA GABRIELLE DELFINO DA SILVA ",
+  "enrollment_student": 4542227587,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 586,
+  "student_name": "ANA MONIQUE ODERDENGE",
+  "enrollment_student": 4545883183,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 587,
+  "student_name": "ANDRIELLY DE BORBA",
+  "enrollment_student": 4545288404,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 588,
+  "student_name": "ARIEL GIOVANNY PACHECO SCOTTINI",
+  "enrollment_student": 4542825034,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 589,
+  "student_name": "BIANKA VITORIA UHLMANN",
+  "enrollment_student": 4501957327,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 590,
+  "student_name": "CRISTIANE MARIA SCHIEHL",
+  "enrollment_student": 4542227641,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 591,
+  "student_name": "DANDARA CAROLINE COTA",
+  "enrollment_student": 4541847786,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 592,
+  "student_name": "DIOGO SCHEUNEMANN ALVES RODRIGUES",
+  "enrollment_student": 4541047178,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 593,
+  "student_name": "FELIPE GOLF DOS SANTOS",
+  "enrollment_student": 4542227757,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 594,
+  "student_name": "GABRIELA MOURA JOSEFINO",
+  "enrollment_student": 4543631578,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 595,
+  "student_name": "GABRIELLY HELOÍSA DA CRUZ DE BARROS",
+  "enrollment_student": 4546043340,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 596,
+  "student_name": "IBSON BRUNO TAVARES XAVIER",
+  "enrollment_student": 4550315635,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 597,
+  "student_name": "ILANA VITORIA DE OUTEIRO TEIXEIRA",
+  "enrollment_student": 4543603507,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 598,
+  "student_name": "JEAN DE LIMA CORREIRA",
+  "enrollment_student": 4550164521,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 599,
+  "student_name": "GABRIELLY HELOISA DA CRUZ DE BARROS",
+  "enrollment_student": 4546043340,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 600,
+  "student_name": "IBSON BRUNO TAVARES XAVIER",
+  "enrollment_student": 4550315635,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 601,
+  "student_name": "ILANA VITORIA DE OUTEIRO TEIXEIRA",
+  "enrollment_student": 4543603507,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 602,
+  "student_name": "JEAN DE LIMA CORREIRA",
+  "enrollment_student": 4550164521,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 603,
+  "student_name": "JHENIFER MARIA COSTA LEMOS",
+  "enrollment_student": 4547217377,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 604,
+  "student_name": "JOAO GABRIEL ESSER KUCHLER ",
+  "enrollment_student": 4544152045,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 605,
+  "student_name": "JOÃO LUCAS CLAUSER",
+  "enrollment_student": 454182521,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 606,
+  "student_name": "JOÃO VITOR LAZZAROTTO DE SOUZA",
+  "enrollment_student": 4541044543,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 607,
+  "student_name": "JOSE ITALO SILVA CARDOSO",
+  "enrollment_student": 4552507558,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 608,
+  "student_name": "KAMILY VITÓRIA GOMES DOS SANTOS",
+  "enrollment_student": 4547196256,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 609,
+  "student_name": "LAURA JAIANE DA SILVA BORGES",
+  "enrollment_student": 4541240830,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 610,
+  "student_name": "LINDOALLYSON ALMEIDA MATIAS",
+  "enrollment_student": 4543721119,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 611,
+  "student_name": "MANUELA FERREIRA ANHAIA",
+  "enrollment_student": 4547267978,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 612,
+  "student_name": "MATHEUS CANCELIER",
+  "enrollment_student": 4550667795,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 613,
+  "student_name": "MIKAELA FREIBERG CARVALHO",
+  "enrollment_student": 4542222917,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 614,
+  "student_name": "PAULO RICARDO BASTOS NUNES",
+  "enrollment_student": 4551131880,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 615,
+  "student_name": "PEDRO REIS MORAIS",
+  "enrollment_student": 4546384261,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 616,
+  "student_name": "SAUL MARRATHYMA SOUSA DOS SANTOS PEREIRA SÁ",
+  "enrollment_student": 4551803927,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 617,
+  "student_name": "WUENNY SAMILY OLIVEIRA DOS SANTOS",
+  "enrollment_student": 4541499974,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 618,
+  "student_name": "YASMIM DA SILVA",
+  "enrollment_student": 4549181213,
+  "id_classroom": 51,
+  "stats_student": 1
+ },
+ {
+  "id": 619,
+  "student_name": "ALCEU JUNIOR DE FREITAS",
+  "enrollment_student": 4542765619,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 620,
+  "student_name": "ALEX DE LIMA CORREIA",
+  "enrollment_student": 4550170815,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 621,
+  "student_name": "ANA CLARA VICENTE DA SILVA",
+  "enrollment_student": 4543958240,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 622,
+  "student_name": "ANA ISABELLA ALFAIA DE FREITAS ",
+  "enrollment_student": 4549901194,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 623,
+  "student_name": "ANNA KAROLINY SANTOS ALENCAR",
+  "enrollment_student": 4551675996,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 624,
+  "student_name": "EVELIN THAIS PEREIRA DA SILVA",
+  "enrollment_student": 4551631476,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 625,
+  "student_name": "HELOANA CAROLINE BRUM DA SILVA",
+  "enrollment_student": 4544922592,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 626,
+  "student_name": "JOÃO VITOR OLIVEIRA DE MELO",
+  "enrollment_student": 4552412573,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 627,
+  "student_name": "JOSÉ LUCAS DE SOUZA FERRAZ",
+  "enrollment_student": 4547322139,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 628,
+  "student_name": "JOSE URY DA SILVA",
+  "enrollment_student": 4552410490,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 629,
+  "student_name": "JUAN PABLO CARDOSO SANTOS",
+  "enrollment_student": 4551783292,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 630,
+  "student_name": "KAICK DE JESUS MACHADO",
+  "enrollment_student": 4541024550,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 631,
+  "student_name": "KAUN BRICK",
+  "enrollment_student": 4543193481,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 632,
+  "student_name": "LAVINIA RAFFAELI ELEUTERIO",
+  "enrollment_student": 4543466690,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 633,
+  "student_name": "MISAEL BRAZ",
+  "enrollment_student": 4546240340,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 634,
+  "student_name": "NATHALYA EMANUELLE BORGES",
+  "enrollment_student": 4544706121,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 635,
+  "student_name": "PHILO ROSE CARLERMS",
+  "enrollment_student": 4552418881,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 636,
+  "student_name": "RAMON HENRIQUE ALEXANDRE",
+  "enrollment_student": 4550237944,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 637,
+  "student_name": "RENATO FERNANDO ANTUNES DOS SANTOS",
+  "enrollment_student": 4543253212,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 638,
+  "student_name": "RONNIEL ALEJANDRO JAIMES PERDOMO",
+  "enrollment_student": 4546738403,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 639,
+  "student_name": "RUAN FERREIRA RODRIGUES",
+  "enrollment_student": 4544792036,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 640,
+  "student_name": "SAMANTHA CRISTINA DE AZEVEDO",
+  "enrollment_student": 4544651114,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 641,
+  "student_name": "STÉFANI CUSMAN DOLBERTH",
+  "enrollment_student": 4544778300,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 642,
+  "student_name": "VINICIO MORAIS DA LUZ",
+  "enrollment_student": 4500644392,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 643,
+  "student_name": "VINICIOS MORAIS BOLEIRA LAMIM",
+  "enrollment_student": 4543192752,
+  "id_classroom": 21,
+  "stats_student": 1
+ },
+ {
+  "id": 644,
+  "student_name": "AMANDA BITENCOURT",
+  "enrollment_student": 450108755,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 645,
+  "student_name": "AMANDA CRISTINA BARBOSA CABRA",
+  "enrollment_student": 4540600981,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 646,
+  "student_name": "ANA JULIA MASSANEIRO",
+  "enrollment_student": 4542652539,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 647,
+  "student_name": "ANANDA STHEFANE LUIZ",
+  "enrollment_student": 4540672710,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 648,
+  "student_name": "ASHELEY DE JESUS SEVERINO",
+  "enrollment_student": 4549573944,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 649,
+  "student_name": "CARLOS DANIEL DO NASCIMENTO FERNANDES",
+  "enrollment_student": 4546501888,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 650,
+  "student_name": "CARLOS FERNANDO FARIA",
+  "enrollment_student": 4500664350,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 651,
+  "student_name": "CAUÂ HENRIQUE DA SILVA FONTES",
+  "enrollment_student": 4552145400,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 652,
+  "student_name": "CAYKE BYLAARDT CORREA",
+  "enrollment_student": 4540933832,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 653,
+  "student_name": "ENIO CARLOS DOS SANTOS JUNIOR ",
+  "enrollment_student": 4552145273,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 654,
+  "student_name": "GABRIEL MENSOR QUEIROZ",
+  "enrollment_student": 4548534007,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 655,
+  "student_name": "HEMANOEL DA SILVA MARÇAL",
+  "enrollment_student": 4546095588,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 656,
+  "student_name": "ISAAC MARCOS SCHENATZ",
+  "enrollment_student": 4550769709,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 657,
+  "student_name": "ISABEL SEEMANN",
+  "enrollment_student": 4540885056,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 658,
+  "student_name": "JOÃO VICTOR RAMOS",
+  "enrollment_student": 4552103791,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 659,
+  "student_name": "JOÃO VITOR DA SILVA SARDA",
+  "enrollment_student": 4541044314,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 660,
+  "student_name": "JONATHAN KOHUT WATRAZ",
+  "enrollment_student": 4540888705,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 661,
+  "student_name": "JOSE DIEGO ZEREDO",
+  "enrollment_student": 4541308591,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 662,
+  "student_name": "KAUÂ DOS SANTOS KADES",
+  "enrollment_student": 4542617644,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 663,
+  "student_name": "LUIZ DANIEL LANSER NUNES",
+  "enrollment_student": 4552102922,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 664,
+  "student_name": "LUIZ OTAVIO CORREA PERINI",
+  "enrollment_student": 4546106237,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 665,
+  "student_name": "MAIARA RIBEIRO BIELECKI",
+  "enrollment_student": 4552145796,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 666,
+  "student_name": "MATEUS LINDNER ZAMBIASI",
+  "enrollment_student": 4551940223,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 667,
+  "student_name": "MATHEUS OECHSLER",
+  "enrollment_student": 4552102817,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 668,
+  "student_name": "MICHELLE PASOLD DIECKMANN",
+  "enrollment_student": 4544658755,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 669,
+  "student_name": "NATHAN DA COSTA VELHO",
+  "enrollment_student": 4540273018,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 670,
+  "student_name": "NAYARA VITORIA DE LIMA SILVA",
+  "enrollment_student": 4540273018,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 671,
+  "student_name": "PAULO HENRIQUE MACHADO ONESKO",
+  "enrollment_student": 4552102868,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 672,
+  "student_name": "PEDRO HERIQUE SOBRINHO DE SOUZA",
+  "enrollment_student": 4541270993,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 673,
+  "student_name": "SAMARA PIRES DA SILVA",
+  "enrollment_student": 4540601961,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 674,
+  "student_name": "SHANAIA SELL",
+  "enrollment_student": 4551044678,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 675,
+  "student_name": "VANESSA FELIPPE RUDIGER",
+  "enrollment_student": 4540883169,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 676,
+  "student_name": "VINICIUS FELIPE LOES",
+  "enrollment_student": 4540569162,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 677,
+  "student_name": "VITOR STALOCH SCHUSSLER",
+  "enrollment_student": 4552692428,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 678,
+  "student_name": "YASMIN GABRIELLE DE SOUZA",
+  "enrollment_student": 4540892109,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 1270,
+  "student_name": "JENNIFER ALVES SANTIAGO",
+  "enrollment_student": 4500912630,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 680,
+  "student_name": "ALEXANDRE GABRIEL FERREIRA",
+  "enrollment_student": 4540885773,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 681,
+  "student_name": "ALYSON OTAVIO DE JESUS BAIA",
+  "enrollment_student": 4551945659,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 682,
+  "student_name": "AMANDA FERREIRA",
+  "enrollment_student": 4541163470,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 683,
+  "student_name": "ANA CAROLINA DE SOUZA LOPES",
+  "enrollment_student": 4551947678,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 684,
+  "student_name": "ANDRE LUIZ FAUSTO ARRUDA",
+  "enrollment_student": 4551190124,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 685,
+  "student_name": "ANDRIELY ELANA DA ROCHA",
+  "enrollment_student": 4542127027,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 686,
+  "student_name": "ANNA BEATRIZ VARELLA",
+  "enrollment_student": 4540895833,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 688,
+  "student_name": "DANIELA FLORENTINO",
+  "enrollment_student": 4540814701,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 693,
+  "student_name": "GABRIELLE GEHRKE MOTA",
+  "enrollment_student": 4551946213,
+  "id_classroom": 23,
+  "stats_student": 1
+ },
+ {
+  "id": 679,
+  "student_name": "ALANA PAOLA ROCHA",
+  "enrollment_student": 4551935459,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 687,
+  "student_name": "ANNY BEATRIZ FARIAS COELHO",
+  "enrollment_student": 4551272999,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 689,
+  "student_name": "DANIELE EWALD",
+  "enrollment_student": 4551910103,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 690,
+  "student_name": "DÉBORA YASMIN SCHUBERT",
+  "enrollment_student": 456403797,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 691,
+  "student_name": "EDUARDA WALDRICH",
+  "enrollment_student": 4540896384,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 692,
+  "student_name": "EDUARDO HENRIQUE HEMER",
+  "enrollment_student": 4540568441,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 694,
+  "student_name": "GUSTAVO JOSE TIMM",
+  "enrollment_student": 4540689613,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 695,
+  "student_name": "HELOÍZA CRISTIANE ANDRE",
+  "enrollment_student": 4551932921,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 696,
+  "student_name": "ISABELLE RAQUEL REGIS",
+  "enrollment_student": 4540890211,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 697,
+  "student_name": "ISADORA ZANDONAI DE MIRANDA",
+  "enrollment_student": 4546557530,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 698,
+  "student_name": "JOÃO SAMUEL LIMA DE SOUZA",
+  "enrollment_student": 4549984448,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 699,
+  "student_name": "KAUANNE NICOLLE AZEVEDO",
+  "enrollment_student": 4540709835,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 700,
+  "student_name": "LUANA DE SOUZA FERNANDES",
+  "enrollment_student": 4501691688,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 701,
+  "student_name": "LUCAS HENRIQUE OENNING",
+  "enrollment_student": 4552178902,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 702,
+  "student_name": "MARIA EDUARDA BERNARDO",
+  "enrollment_student": 4540901426,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 703,
+  "student_name": "MARIA VITORIA LOFFI",
+  "enrollment_student": 4541863196,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 704,
+  "student_name": "MARISSA GABRIELA OLIVEIRA DE SOUZA",
+  "enrollment_student": 4545987086,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 705,
+  "student_name": "MAYLONN MANOEL SILVA",
+  "enrollment_student": 4546277317,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 706,
+  "student_name": "SOPHIE FORLIN CUNHA",
+  "enrollment_student": 4541045663,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 707,
+  "student_name": "TAINA LARISSA DE SOUZA SANTOS",
+  "enrollment_student": 4546144880,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 708,
+  "student_name": "THAYS VARGAS",
+  "enrollment_student": 4540900470,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 709,
+  "student_name": "VICTOR FERNANDO ABREU",
+  "enrollment_student": 4541371625,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 710,
+  "student_name": "VÍCTOR HUGO DE SOUZA SCHAEFER",
+  "enrollment_student": 4501956894,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 711,
+  "student_name": "VÍTOR SALOMÃO DOMINGOS JORGE",
+  "enrollment_student": 4501455470,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 712,
+  "student_name": "VITÓRIA DE SOUZA MACHADO",
+  "enrollment_student": 4551947350,
+  "id_classroom": 52,
+  "stats_student": 1
+ },
+ {
+  "id": 713,
+  "student_name": "ALCIR DA VEIGA LUCIETTO",
+  "enrollment_student": 4545978885,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 714,
+  "student_name": "ALINE RAFAELA DOS SANTOS",
+  "enrollment_student": 4547320739,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 715,
+  "student_name": "BRUNO GABRIEL NUNES",
+  "enrollment_student": 4551948720,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 716,
+  "student_name": "CAMILA RUDGER",
+  "enrollment_student": 4541044080,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 717,
+  "student_name": "DANIEL MAURER DOS SANTOS",
+  "enrollment_student": 4501760914,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 718,
+  "student_name": "DENISE NASCIMENTO SILVA",
+  "enrollment_student": 4545372316,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 719,
+  "student_name": "EDUARDO SCHMAIDA PRIM",
+  "enrollment_student": 4540886400,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 720,
+  "student_name": "ENAILLY RAIELLE SOUSA DA LUZ",
+  "enrollment_student": 4546503503,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 721,
+  "student_name": "FERNANDA GABRIELLE DA ROSA SILVA",
+  "enrollment_student": 4546522699,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 722,
+  "student_name": "GABRIEL HENRIQUE CAVILHA",
+  "enrollment_student": 4543441116,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 723,
+  "student_name": "GABRIELY PAULA SCHMITT DE SOUZA",
+  "enrollment_student": 4541346086,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 724,
+  "student_name": "GUSTAVO TARCISIO JARENTCHUCK",
+  "enrollment_student": 4541353376,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 725,
+  "student_name": "HENRIQUE DA SILVA FREITAS ISENSEE",
+  "enrollment_student": 4500540783,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 726,
+  "student_name": "ISADORA LAMONATTO",
+  "enrollment_student": 4540592571,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 727,
+  "student_name": "IZABELLA KAROLINE COSTA LOBATO ",
+  "enrollment_student": 4551962294,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 728,
+  "student_name": "JERUSIA ALVES DE AZEVEDO SANTOS",
+  "enrollment_student": 4548527663,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 729,
+  "student_name": "JOÃO VICTOR PAULINO DA SILVA",
+  "enrollment_student": 4548067174,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 730,
+  "student_name": "JOÃO VINICIUS ANDRÉ QUADROS",
+  "enrollment_student": 4542632112,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 731,
+  "student_name": "JOSE ALEJANDRO SUTIL GARCIA",
+  "enrollment_student": 4552770186,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 732,
+  "student_name": "KAILAINE DE SOUZA DE MEDEIROS",
+  "enrollment_student": 4542648396,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 733,
+  "student_name": "KAUANY MARCELINO EMERECIANO",
+  "enrollment_student": 4544651734,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 734,
+  "student_name": "LETICIA ROSA BRICK",
+  "enrollment_student": 4540670505,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 735,
+  "student_name": "LUARA BEATRIZ PEIXER",
+  "enrollment_student": 4545950760,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 736,
+  "student_name": "MARCOS DANIEL SILVEIRA",
+  "enrollment_student": 4540887741,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 737,
+  "student_name": "NATHALIA VICENTE DOS SANTOS",
+  "enrollment_student": 4551909644,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 738,
+  "student_name": "NICOLE CORDEIRO",
+  "enrollment_student": 4540901345,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 739,
+  "student_name": "NICOLLY DE FREITAS DO AMARAL",
+  "enrollment_student": 4540591990,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 740,
+  "student_name": "PABLO RICARDO MEDEIROS",
+  "enrollment_student": 4551943508,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 741,
+  "student_name": "RAY VINÍCIUS NUNES SALDANHA",
+  "enrollment_student": 4541371307,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 742,
+  "student_name": "SARAH KRAETZER",
+  "enrollment_student": 4541039078,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 743,
+  "student_name": "VICTOR DA SILVA RAMOS",
+  "enrollment_student": 4540609296,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 744,
+  "student_name": "VÍCTOR HUGO GUARNIERI FRANCO",
+  "enrollment_student": 4546520767,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 745,
+  "student_name": "VITORIA APARECIDA DA SILVA",
+  "enrollment_student": 4550861087,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 746,
+  "student_name": "WILLIAN FERNANDO BACKES",
+  "enrollment_student": 4547620600,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 747,
+  "student_name": "YASMIN LIMA DA SILVA",
+  "enrollment_student": 4552747338,
+  "id_classroom": 27,
+  "stats_student": 1
+ },
+ {
+  "id": 748,
+  "student_name": "ADRIEL ALVINO DE SOUZA",
+  "enrollment_student": 4540429093,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 749,
+  "student_name": "AMANDA GABRIELE LEANDRO",
+  "enrollment_student": 4545881679,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 750,
+  "student_name": "ANDERSON DESCHAMPS",
+  "enrollment_student": 4500642233,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 751,
+  "student_name": "ANTONIO CARLOS MONTEIRO DOS SANTOS",
+  "enrollment_student": 4548982689,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 752,
+  "student_name": "BRUNA CAMILY MALLER DE SOUZA",
+  "enrollment_student": 4501768885,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 753,
+  "student_name": "BRYAN CAUÃ LUNGEN ",
+  "enrollment_student": 4501489161,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 754,
+  "student_name": "CAMILA BARBOSA DOS SANTOS",
+  "enrollment_student": 4550359829,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 757,
+  "student_name": "CAMILY EDUARDA RINCAWESKI",
+  "enrollment_student": 4540435514,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 758,
+  "student_name": "CARLOS DA SILVA SELL",
+  "enrollment_student": 4550751338,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 759,
+  "student_name": "CAROLINE FLOSS",
+  "enrollment_student": 4501956878,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 760,
+  "student_name": "CRISTYAN EMANUEL RUIZ MIRANDA",
+  "enrollment_student": 4546066480,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 761,
+  "student_name": "EDUARDA MEDEIROS BECHTOLD",
+  "enrollment_student": 4501765088,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 762,
+  "student_name": "EVELYAN PERSUHN",
+  "enrollment_student": 4541196491,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 763,
+  "student_name": "EVELYN SILVA NAU",
+  "enrollment_student": 4501766190,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 764,
+  "student_name": "FORATI FOGAÇA LOURENÇO",
+  "enrollment_student": 4501956959,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 765,
+  "student_name": "GABRIEL HERON DA CUNHA",
+  "enrollment_student": 4548911935,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 766,
+  "student_name": "GIOVANE BOLDORI PEREIRA",
+  "enrollment_student": 4551139881,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 767,
+  "student_name": "GUIBEA BESTCH CARMA ESTIMALE",
+  "enrollment_student": 4544972905,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 768,
+  "student_name": "JAQUELINE REANITA BIZARRI FERREIRA",
+  "enrollment_student": 4501778236,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 769,
+  "student_name": "KAELI MELO",
+  "enrollment_student": 45018,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 770,
+  "student_name": "KELYN DA SILVA SIQUEIRA",
+  "enrollment_student": 4501759550,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 771,
+  "student_name": "KIARA ANDRE ALVES DOS SANTOS",
+  "enrollment_student": 4501832826,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 772,
+  "student_name": "LAIS VITÓRIA DE SOUZA MATOS",
+  "enrollment_student": 4541802588,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 773,
+  "student_name": "LUCAS BORGES DE SOUZA",
+  "enrollment_student": 4501564520,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 774,
+  "student_name": "MARIA CLARA LOPES DA SILVA",
+  "enrollment_student": 4549871805,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 775,
+  "student_name": "MARIA EDUARDA FERREIRA DE LIMA",
+  "enrollment_student": 4542954020,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 776,
+  "student_name": "MARIA FERNANDA RIBEIRO BRITO",
+  "enrollment_student": 4552785191,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 777,
+  "student_name": "MAYLLA VITÓRIA SILVA",
+  "enrollment_student": 4546275810,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 778,
+  "student_name": "NATHAN LUNELLI",
+  "enrollment_student": 4545936325,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 779,
+  "student_name": "NICOLLY GARCIA",
+  "enrollment_student": 4501957564,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 780,
+  "student_name": "RAFAELA TALITA ROCHA",
+  "enrollment_student": 450176811,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 781,
+  "student_name": "SOFIA DOS SANTOS",
+  "enrollment_student": 4501512252,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 782,
+  "student_name": "VINICIOS PERSUHN",
+  "enrollment_student": 4541196408,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 783,
+  "student_name": "YASMIM DOS SANTOS FERREIRA",
+  "enrollment_student": 4549441592,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 784,
+  "student_name": "ADRIAN CAUÃ CAMPESTRINI",
+  "enrollment_student": 4501495056,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 785,
+  "student_name": "ALIANA EDINARA BIEGING",
+  "enrollment_student": 4550686064,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 786,
+  "student_name": "ANA VITÓRIA BATISTA DE SOUZA",
+  "enrollment_student": 4550693729,
+  "id_classroom": 3,
+  "stats_student": 1
+ },
+ {
+  "id": 787,
+  "student_name": "CAMILLY VITORIA MOURA HIOTTI DA CRUZ",
+  "enrollment_student": 4552716459,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 788,
+  "student_name": "EDUARDO SILVA BRITO",
+  "enrollment_student": 4550678533,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 789,
+  "student_name": "EVANDRO RODRIGUES DA ROSA",
+  "enrollment_student": 4550709463,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 790,
+  "student_name": "GABRIEL DA CUNHA HEIDEMAN",
+  "enrollment_student": 4501969821,
+  "id_classroom": 26,
+  "stats_student": 1
+ },
+ {
+  "id": 791,
+  "student_name": "GABRIEL HENRIQUE SUAVE",
+  "enrollment_student": 4550687168,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 792,
+  "student_name": "GABRIEL MANNCHEN",
+  "enrollment_student": 4550683316,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 793,
+  "student_name": "GABRIELA EDUARDA SILVEIRA",
+  "enrollment_student": 4550684274,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 794,
+  "student_name": "JENIFER AMANDA LOSS",
+  "enrollment_student": 4500483097,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 795,
+  "student_name": "JOÃO PAULO SIQUEIRA",
+  "enrollment_student": 4501633092,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 796,
+  "student_name": "JÚLIA FLORIANI DA SILVA",
+  "enrollment_student": 4500503373,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 797,
+  "student_name": "JÚLIA GONÇAVES DE OLIVEIRA",
+  "enrollment_student": 4501556810,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 798,
+  "student_name": "KAUAN KRAUSS",
+  "enrollment_student": 4550688636,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 799,
+  "student_name": "LÉO DAVID DA SILVA SANTOS",
+  "enrollment_student": 4550049242,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 800,
+  "student_name": "LETICIA BECHER",
+  "enrollment_student": 4550682697,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 803,
+  "student_name": "LUCAS DANIEL STEIN DA ROSA",
+  "enrollment_student": 4501770022,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 804,
+  "student_name": "LUCIANO DA SILVA ORTIZ",
+  "enrollment_student": 4543456075,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 805,
+  "student_name": "MARCELLI LUAN DE MELO",
+  "enrollment_student": 4549606818,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 806,
+  "student_name": "MATHEUS DE SOUZA",
+  "enrollment_student": 4501509251,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 807,
+  "student_name": "OTAVIO FELIPE DA SILVA BARNABE",
+  "enrollment_student": 4540117865,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 808,
+  "student_name": "PEDRO BRUNO PINHEIRO DOS SANTOS",
+  "enrollment_student": 4552421076,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 809,
+  "student_name": "ROBERT RAFAEL PHILIPS DOS SANTOS",
+  "enrollment_student": 4501508646,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 810,
+  "student_name": "ROSANA PADILHA",
+  "enrollment_student": 4550679955,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 811,
+  "student_name": "RUAN CARLOS DE SOUZA",
+  "enrollment_student": 4550691564,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 812,
+  "student_name": "RUBIA STUEHELER DO NASCIMENTO",
+  "enrollment_student": 4540145630,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 813,
+  "student_name": "SOFIA EMANUELI BRIDI",
+  "enrollment_student": 4550641893,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 814,
+  "student_name": "STEPHANY KRAUS CONRADO",
+  "enrollment_student": 4501799632,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 815,
+  "student_name": "THIAGO CANCELIER",
+  "enrollment_student": 4550695861,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 816,
+  "student_name": "THIAGO DE SOUZA",
+  "enrollment_student": 4501509081,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 817,
+  "student_name": "VINICIOS LEMOS",
+  "enrollment_student": 4501501986,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 818,
+  "student_name": "VITÓRIA BARROS MOURA",
+  "enrollment_student": 4550712626,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 819,
+  "student_name": "YASMIM OLIVIA DA SILVA",
+  "enrollment_student": 4501805640,
+  "id_classroom": 54,
+  "stats_student": 1
+ },
+ {
+  "id": 820,
+  "student_name": "ADRIELY SOUZA DE SOUZA ",
+  "enrollment_student": 4541178108,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 821,
+  "student_name": "CLARA MARIA DA SILVA",
+  "enrollment_student": 4500647170,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 822,
+  "student_name": "CLEBERSON TELES",
+  "enrollment_student": 4500574165,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 823,
+  "student_name": "DANUBIA APARECIDA LANSER DELFINO",
+  "enrollment_student": 4549295828,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 824,
+  "student_name": "EDER KLEINSCHMIDT LOPES",
+  "enrollment_student": 4542137316,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 825,
+  "student_name": "EDER NICOLAU ELLER",
+  "enrollment_student": 1100018775,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 826,
+  "student_name": "EDUARDA CORSANI RIBEIRO",
+  "enrollment_student": 4500713815,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 827,
+  "student_name": "EDUARDA DALFOVO",
+  "enrollment_student": 4549607067,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 828,
+  "student_name": "ERICK FERNANDO MORAES DOS SANTOS QUEIROZ",
+  "enrollment_student": 4551603650,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 829,
+  "student_name": "FELIPE SCHNEIDER PEIXER",
+  "enrollment_student": 4549564503,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 830,
+  "student_name": "FERNANDO BACHMANN",
+  "enrollment_student": 1001280110,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 831,
+  "student_name": "FERNANDO RICARDO ALMEIDA DA SILVA",
+  "enrollment_student": 4551785775,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 832,
+  "student_name": "GABRIELI FERNANDES HOREN ",
+  "enrollment_student": 4500752861,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 833,
+  "student_name": "GRAZIELI VALONI",
+  "enrollment_student": 4500646514,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 834,
+  "student_name": "GUILHERME REICHERT",
+  "enrollment_student": 4549385730,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 835,
+  "student_name": "HENRY GUILHERME FIEDLER",
+  "enrollment_student": 4500477313,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 836,
+  "student_name": "JENNIFER DE MACIEL",
+  "enrollment_student": 450065368585,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 837,
+  "student_name": "JOÃO VICTORB DE ABREU",
+  "enrollment_student": 4500574211,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 838,
+  "student_name": "JOÃO VITOR MACHADO",
+  "enrollment_student": 1001294804,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 839,
+  "student_name": "JULYANY VITÓRIA RIBEIRO",
+  "enrollment_student": 4551139830,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 840,
+  "student_name": "KAUE YAN AVILA NARDI",
+  "enrollment_student": 4543984128,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 841,
+  "student_name": "KENDNEI DE SOUZA GOMES",
+  "enrollment_student": 4549566549,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 842,
+  "student_name": "LAIZA FERNANDA GONÇALVES DE ARAUJO",
+  "enrollment_student": 45474678888,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 843,
+  "student_name": "LUCAS LOTERO",
+  "enrollment_student": 4547242193,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 844,
+  "student_name": "LUIZA DA SILVA PEREIRA",
+  "enrollment_student": 4540020438,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 845,
+  "student_name": "MARIA EDUARDA DELGADO DE LIMA SOUZA",
+  "enrollment_student": 4546605470,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 846,
+  "student_name": "OTÁVIO GEISLER",
+  "enrollment_student": 4549442580,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 847,
+  "student_name": "RYAN RICKSON MIRANDA",
+  "enrollment_student": 4549496630,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 848,
+  "student_name": "SARA GABRYELLA CRISOSTOMO DA SILVA",
+  "enrollment_student": 4552705490,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 849,
+  "student_name": "SUELEN SASSE WERMOELEN",
+  "enrollment_student": 4501257317,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 850,
+  "student_name": "THAIS APARECIDA DE SOUZA",
+  "enrollment_student": 4500649319,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 851,
+  "student_name": "THIAGO HENRIQUE ROSA BEZERRA",
+  "enrollment_student": 4549454660,
+  "id_classroom": 55,
+  "stats_student": 1
+ },
+ {
+  "id": 852,
+  "student_name": "ALESSANDRA GONÇALVES DE FREITAS",
+  "enrollment_student": 4500504337,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 853,
+  "student_name": "AMANDA PIVA SALM",
+  "enrollment_student": 45000515509,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 854,
+  "student_name": "ANDRESSA CAROLINE SIEBERT",
+  "enrollment_student": 4549457170,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 857,
+  "student_name": "ARIANE AMABILE MANTELLI DOS SANTOS",
+  "enrollment_student": 4500567010,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 858,
+  "student_name": "CHRISTIANE MANNRICH",
+  "enrollment_student": 4500482341,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 859,
+  "student_name": "FELIPE RICARDO RANDEL SOARES",
+  "enrollment_student": 4549378076,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 860,
+  "student_name": "GABRIELY DIEKMANN DO NASCIMENTO",
+  "enrollment_student": 4500482201,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 861,
+  "student_name": "GEANDRA TACIANE CABRAL SERRA",
+  "enrollment_student": 4545317226,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 864,
+  "student_name": "GUILHERME DE OLIVEIRA",
+  "enrollment_student": 1000043212,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 865,
+  "student_name": "GUSTAVO HENRIQUE DE OLIVEIRA",
+  "enrollment_student": 4549428570,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 866,
+  "student_name": "HELDER ANTUNES WEIDLICH",
+  "enrollment_student": 4548515053,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 867,
+  "student_name": "IAN RICARDO MARTINS LEITE BASTOS ",
+  "enrollment_student": 4500572146,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 868,
+  "student_name": "INDIANARA DESCHAMPS SEVERINO",
+  "enrollment_student": 1001307167,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 869,
+  "student_name": "JUAN BERTOLDI HUCHAK",
+  "enrollment_student": 1000307120,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 870,
+  "student_name": "KIAUN DAVID PETROSKI SEIBT",
+  "enrollment_student": 4500686990,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 871,
+  "student_name": "LIANDRA SESTREM ",
+  "enrollment_student": 4501255705,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 872,
+  "student_name": "MARIA EDUARDA NAHRING SPERBER",
+  "enrollment_student": 4549454945,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 873,
+  "student_name": "MARIA EDUARDA RESENDE GANANCIO",
+  "enrollment_student": 4544417081,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 874,
+  "student_name": "MARIA LUIZA GUAPIANO",
+  "enrollment_student": 4500701051,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 875,
+  "student_name": "MATHEUS REITER OTTO",
+  "enrollment_student": 4500469400,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 876,
+  "student_name": "MILENA TELES SANTANA",
+  "enrollment_student": 4544691140,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 877,
+  "student_name": "PAOLA COUTO CORBANI",
+  "enrollment_student": 4541338008,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 878,
+  "student_name": "RAISSAVIEIRA DE MOURA",
+  "enrollment_student": 4549621868,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 879,
+  "student_name": "TAINARA BATISTA",
+  "enrollment_student": 4544344424,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 880,
+  "student_name": "TAMIRES KAROLINE LAUFER TAVARES",
+  "enrollment_student": 4549454376,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 881,
+  "student_name": "TAYSSA MILENY DOS SANTOS",
+  "enrollment_student": 4549604769,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 882,
+  "student_name": "VALDIR MANOEL LOURENÇO",
+  "enrollment_student": 4500827055,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 883,
+  "student_name": "VICTOR  DUARTE DE OLIVEIRA",
+  "enrollment_student": 4551307555,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 884,
+  "student_name": "VICTORIA APARECIDA LOPES DOS SANTOS",
+  "enrollment_student": 4501212160,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 885,
+  "student_name": "VINICIUS RODRIGUES VARELA",
+  "enrollment_student": 4549464487,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 886,
+  "student_name": "WENELLY DA CONCEIÇÃO",
+  "enrollment_student": 4551439540,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 887,
+  "student_name": "WILLIAM JACKSOM  CARL",
+  "enrollment_student": 4500470106,
+  "id_classroom": 56,
+  "stats_student": 1
+ },
+ {
+  "id": 888,
+  "student_name": "ANA JULIA DA SILVA",
+  "enrollment_student": 4542780480,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 889,
+  "student_name": "ANDRÉ LUIZ DOS SANTOS PANTOJA",
+  "enrollment_student": 4551607010,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 890,
+  "student_name": "ANDREY LUIS FERREIRA RANGEL",
+  "enrollment_student": 4540128018,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 891,
+  "student_name": "ANTONY GUILHERME SANTOS SANTANA",
+  "enrollment_student": 4552444220,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 892,
+  "student_name": "BERNARDO FILLIPE DIAS FERNANDES DA ROSA",
+  "enrollment_student": 4551908800,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 893,
+  "student_name": "BETINA MARCIA SILVA",
+  "enrollment_student": 4552562230,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 894,
+  "student_name": "BRUNA LEE BORGES",
+  "enrollment_student": 4551952043,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 895,
+  "student_name": "CARLOS MOISES DA CRUZ BORGES",
+  "enrollment_student": 4551911231,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 896,
+  "student_name": "DEBORA MATOS AMORIM",
+  "enrollment_student": 4552622543,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 897,
+  "student_name": "EMANUELLY PAGOTO",
+  "enrollment_student": 4540724672,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 898,
+  "student_name": "FELYPE MORAIS FARIA",
+  "enrollment_student": 4552101136,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 899,
+  "student_name": "FERNANDO RODRIGO LAUFER TAVARES",
+  "enrollment_student": 4551970963,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 900,
+  "student_name": "GABRIEL NUNES MACARIE RIBEIRO",
+  "enrollment_student": 4551954399,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 901,
+  "student_name": "GUILHERME CAMARGO DE SOUZA",
+  "enrollment_student": 4542485128,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 902,
+  "student_name": "GUILHERME FACHINI DE OLIVEIRA GOMES",
+  "enrollment_student": 4551963185,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 903,
+  "student_name": "GUSTAVO DALA NORA",
+  "enrollment_student": 4501535244,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 904,
+  "student_name": "JACKSON VIEIRA PEIXER",
+  "enrollment_student": 4501802030,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 905,
+  "student_name": "JENNIFER VITORIA MILITAO DA SILVA",
+  "enrollment_student": 4542609161,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 906,
+  "student_name": "JOÃO PEDRO DE CASTRO RODRIGUES ",
+  "enrollment_student": 4551752370,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 907,
+  "student_name": "JOSE HENRIQUE BRESSANINI",
+  "enrollment_student": 4550159005,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 908,
+  "student_name": "JULIA PAMPLONA",
+  "enrollment_student": 4541396296,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 909,
+  "student_name": "KAROLAINE JUSTINO DOS SANTOS",
+  "enrollment_student": 4546309537,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 910,
+  "student_name": "LARYSSA KAUANE DIAS",
+  "enrollment_student": 4501503555,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 911,
+  "student_name": "LUIZ FERNANDO MELO DA SILVA",
+  "enrollment_student": 4550707860,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 912,
+  "student_name": "MARIA LAURA MASSANEIRO",
+  "enrollment_student": 4542652440,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 913,
+  "student_name": "MIGUEL LOURENÇO SOUSA",
+  "enrollment_student": 4551909261,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 914,
+  "student_name": "NICOLLY YASMIN OLIVEIRA DE MELO",
+  "enrollment_student": 4552101918,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 915,
+  "student_name": "ROBERTO CARLOS BONDAN JUNIOR",
+  "enrollment_student": 4552319190,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 916,
+  "student_name": "ROBSON PIMENTEL HENKE",
+  "enrollment_student": 4541044888,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 917,
+  "student_name": "THALITA PIMENTEL HENKE",
+  "enrollment_student": 4541044888,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 918,
+  "student_name": "THAILA GARCIA",
+  "enrollment_student": 4541357037,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 919,
+  "student_name": "THAYFANI SOARES DOS SANTOS",
+  "enrollment_student": 4548707610,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 920,
+  "student_name": "VICTORIA ELOAH SCHREINER DOS SANTOS",
+  "enrollment_student": 4541196840,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 921,
+  "student_name": "VITOR MARCELO DE LIMAS",
+  "enrollment_student": 4541711493,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 922,
+  "student_name": "VITORIA DYANDRADOS SANTOS ALVES",
+  "enrollment_student": 4552479589,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 923,
+  "student_name": "YÊDRO PENANTE NASCIMENTO FURTADO DE OLIVEIRA",
+  "enrollment_student": 4550119020,
+  "id_classroom": 24,
+  "stats_student": 1
+ },
+ {
+  "id": 924,
+  "student_name": "ALAN ELVIS DE ARAUJO GONÇALVES",
+  "enrollment_student": 4540873481,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 925,
+  "student_name": "ALINE LUCIANE BUBLITZ",
+  "enrollment_student": 4551909652,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 926,
+  "student_name": "ANDRES JESUS GARCIA HERNANDEZ",
+  "enrollment_student": 4552799265,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 927,
+  "student_name": "ARIANE DA SILVA SAMULESKI",
+  "enrollment_student": 4546479246,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 928,
+  "student_name": "ARTHUR BENJAMIM QUINTINO DOS SANTOS",
+  "enrollment_student": 4541910898,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 929,
+  "student_name": "BRATRIZ FERNANDES",
+  "enrollment_student": 4552102540,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 930,
+  "student_name": "BRUNO HENRIQUE DA SILVA HOESEL",
+  "enrollment_student": 4542898155,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 931,
+  "student_name": "CAIO HENRIQUE DE ALMEIDA DA SILVA",
+  "enrollment_student": 4541213540,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 932,
+  "student_name": "DEBORA ALEXANDRA MORAES DO NASCIMENTO",
+  "enrollment_student": 4548873804,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 933,
+  "student_name": "DJANEISON DOSSOUS",
+  "enrollment_student": 4547597994,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 934,
+  "student_name": "EMERSON JOSE PEREIRA AMARO",
+  "enrollment_student": 4552546987,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 935,
+  "student_name": "ENZO SILVESTRE",
+  "enrollment_student": 4540713247,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 936,
+  "student_name": "ERICK OECHSLER KREUSH ",
+  "enrollment_student": 4540829415,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 937,
+  "student_name": "GABRIEL KAUÊ PAMPLONA",
+  "enrollment_student": 4501489668,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 938,
+  "student_name": "GABRIELA CANDIDO",
+  "enrollment_student": 4540627413,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 939,
+  "student_name": "GUILHERME DA LUZ SILVEIRA",
+  "enrollment_student": 4501815310,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 940,
+  "student_name": "GUSTAVO CARMO DE FARIAS",
+  "enrollment_student": 4551962880,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 941,
+  "student_name": "IGOR NIVALDO SILVA DOS SANTOS",
+  "enrollment_student": 4547498996,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 942,
+  "student_name": "ISAQUE LUÍS CARVALHO",
+  "enrollment_student": 4552671994,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 943,
+  "student_name": "IVAN LUIZ SANTOS DE LIMA",
+  "enrollment_student": 4550915977,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 944,
+  "student_name": "IVAN LUIZ SANTOS DE LIMA",
+  "enrollment_student": 4550915977,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 945,
+  "student_name": "JOÃO MARCELO DA SILVA CAVALCANTI",
+  "enrollment_student": 4551909148,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 946,
+  "student_name": "JOSE JULIO DA SILVA SANTOS",
+  "enrollment_student": 4551968390,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 947,
+  "student_name": "JULIA CRISTINA CORREA",
+  "enrollment_student": 4547523249,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 948,
+  "student_name": "KAUA MARTINS",
+  "enrollment_student": 4551911118,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 949,
+  "student_name": "LARISSA GEHRKE",
+  "enrollment_student": 4540671820,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 950,
+  "student_name": "LUIZ ANTONIO DA SILVA BEZERRA ",
+  "enrollment_student": 4546231686,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 951,
+  "student_name": "MARIA BEATRIZ FREITAS FEITOSA",
+  "enrollment_student": 4501607580,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 952,
+  "student_name": "MATHEUS MANN DOS SANTOS",
+  "enrollment_student": 4551598657,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 953,
+  "student_name": "MILLENA IGLIKOVSKI",
+  "enrollment_student": 4551909725,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 954,
+  "student_name": "NICOLY RIBEIRO DIAS",
+  "enrollment_student": 4541244321,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 955,
+  "student_name": "PEDRO HENRIQUE PEIXER DA SILVA",
+  "enrollment_student": 4552102221,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 956,
+  "student_name": "RAIANDRA DA SILVA SOARES",
+  "enrollment_student": 4550297122,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 957,
+  "student_name": "SAMUEL NICOLAS COSTA VIEIRA",
+  "enrollment_student": 4552102361,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 958,
+  "student_name": "VINICIUS SCHLOEGL",
+  "enrollment_student": 4541526289,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 959,
+  "student_name": "WINSTON ALBERTO CORTEZ GUILARTE",
+  "enrollment_student": 4552145206,
+  "id_classroom": 28,
+  "stats_student": 1
+ },
+ {
+  "id": 960,
+  "student_name": "AISLAN DE OLIVEIRA COSTA",
+  "enrollment_student": 4500712800,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 961,
+  "student_name": "ANNY KAROLINY MACHADO DOS SANTOS",
+  "enrollment_student": 4543015729,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 962,
+  "student_name": "BRENDA FERNANDA SOUZA DE PAULA",
+  "enrollment_student": 4546283767,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 963,
+  "student_name": "DAVISON  DOS SANTOS",
+  "enrollment_student": 4549708882,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 964,
+  "student_name": "DHULLY CAUANNE COSTA DOS SANTOS",
+  "enrollment_student": 4552767940,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 965,
+  "student_name": "DIOGO MARIANO LASKOSKI",
+  "enrollment_student": 4550342110,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 966,
+  "student_name": "EMILLY JUSSARA CARDOSO",
+  "enrollment_student": 4550711492,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 967,
+  "student_name": "GABRIEL HENRIQUE DE MORAES ZIMMERMANN",
+  "enrollment_student": 4501778368,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 968,
+  "student_name": "GABRIELLE FROEHLICH",
+  "enrollment_student": 4542016322,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 969,
+  "student_name": "GIAN DA SILVA DE  OLIVEIRA",
+  "enrollment_student": 4501777434,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 970,
+  "student_name": "GIOVANI DA SILVA DE OLIVEIRA",
+  "enrollment_student": 4501777493,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 971,
+  "student_name": "GRAZIELI DA SILVA",
+  "enrollment_student": 4501256892,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 972,
+  "student_name": "GUSTAVO VANAT",
+  "enrollment_student": 4500540138,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 973,
+  "student_name": "JEFFERSON RODRIGO CHRZAN",
+  "enrollment_student": 4550694199,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 974,
+  "student_name": "JENNIFER AZEVEDO DA CRUZ HILLESHEIM",
+  "enrollment_student": 4545295893,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 975,
+  "student_name": "JHULLY GEOVANNA FERNANDES MARQUES",
+  "enrollment_student": 4541539160,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 976,
+  "student_name": "KAREN TAYNNÁ ALVES LOPES",
+  "enrollment_student": 4552670742,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 977,
+  "student_name": "KAUA VINICIOS PADILHA SANTOS",
+  "enrollment_student": 4546408225,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 978,
+  "student_name": "LEONARDO COELHO ALVES",
+  "enrollment_student": 4501503067,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 979,
+  "student_name": "LÍVIA ISOTTON GEYER",
+  "enrollment_student": 4547473080,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 980,
+  "student_name": "LUCAS HENRIQUE DUNCKE",
+  "enrollment_student": 4550682956,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 981,
+  "student_name": "LUÍS FELIPE PELLIS",
+  "enrollment_student": 4550712200,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 982,
+  "student_name": "LUIS MIGUEL MARTINS",
+  "enrollment_student": 4551138559,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 983,
+  "student_name": "MARIA CLARA SCHNNAIDER",
+  "enrollment_student": 4551032386,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 984,
+  "student_name": "MARIA EDUARDA BRUGNAGO LEONE",
+  "enrollment_student": 4501539290,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 985,
+  "student_name": "MATHEUS CARDOSO PINTO",
+  "enrollment_student": 4550690240,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 986,
+  "student_name": "NATHALIA MONTIBELLER",
+  "enrollment_student": 4550711220,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 987,
+  "student_name": "PEDRO GABRIEL PESSOA GOTHE",
+  "enrollment_student": 4500639895,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 988,
+  "student_name": "RAFAELA WELTER",
+  "enrollment_student": 4501490453,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 989,
+  "student_name": "YASMIN LEYENDECKER",
+  "enrollment_student": 4505706588,
+  "id_classroom": 1,
+  "stats_student": 1
+ },
+ {
+  "id": 990,
+  "student_name": "ADRYAN CÉSAR RAMOS OLIVEIRA",
+  "enrollment_student": 4542852082,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 991,
+  "student_name": "ALANIS ANAIZ DEL CARMEN GARCIA HERNANDES",
+  "enrollment_student": 4552799060,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 992,
+  "student_name": "ALESSANDRO EXPEDITO SILVA ANJOS",
+  "enrollment_student": 4552421726,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 993,
+  "student_name": "ALÍCIA ELEUTERIO DA SILVA SANTOS",
+  "enrollment_student": 4547301793,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 994,
+  "student_name": "ANA PAULA NIESPODZINSKI",
+  "enrollment_student": 4501505523,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 995,
+  "student_name": "ANNA PAULA COSTA GIESE",
+  "enrollment_student": 4501767064,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 996,
+  "student_name": "ANTÔNIO MANOEL DA SILVA MATOS",
+  "enrollment_student": 4552421262,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 997,
+  "student_name": "BRENDA LOHANE ANTUNES SANTOS ",
+  "enrollment_student": 4547284651,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 998,
+  "student_name": "EDUARDA BOEIRA LAMIM",
+  "enrollment_student": 4501778333,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 999,
+  "student_name": "EMILIE VITÓRIA PEREIRA",
+  "enrollment_student": 4550724888,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1000,
+  "student_name": "FABIO HENRIQUE COUTO ",
+  "enrollment_student": 4501492421,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1001,
+  "student_name": "FERNANDO REINERT",
+  "enrollment_student": 4500529682,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1002,
+  "student_name": "FRANCISCO DAVÍ NASCIMENTO DOS SANTOS ",
+  "enrollment_student": 4543463098,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1003,
+  "student_name": "GUILHERME STEILEIN EGERLAND",
+  "enrollment_student": 4549281978,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1004,
+  "student_name": "GUSTAVO GABRIEL BRAGA",
+  "enrollment_student": 4501778198,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1005,
+  "student_name": "HENRI GABRIEL PELTZ PEREZ DA SILVA",
+  "enrollment_student": 4550266359,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1006,
+  "student_name": "JANIERY NUNES DOS SANTOS ",
+  "enrollment_student": 4551271755,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1007,
+  "student_name": "JENIFFER LEANDRA REICHERT",
+  "enrollment_student": 4550708564,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1008,
+  "student_name": "KAMILA FAUSTO DA COSTA",
+  "enrollment_student": 4500574181,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1009,
+  "student_name": "LUIZ OTAVIO DOS SANTOS",
+  "enrollment_student": 4551139350,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1010,
+  "student_name": "LUIZA HELENA FABENI",
+  "enrollment_student": 4501505124,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1011,
+  "student_name": "MAICO FERNANDO BACHES DEBATIN",
+  "enrollment_student": 4542955833,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1012,
+  "student_name": "MATEUS PEIXER",
+  "enrollment_student": 4501493320,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1013,
+  "student_name": "MIKAELLI CRISTINA PEREIRA",
+  "enrollment_student": 4552423109,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1014,
+  "student_name": "NOEMI SALES PINTO",
+  "enrollment_student": 4552421505,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1015,
+  "student_name": "PAULO VÍTOR ALVES BEZERRA",
+  "enrollment_student": 4550238320,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1016,
+  "student_name": "RAFAEL VITOR RAIMUNDI DE ARAUJO",
+  "enrollment_student": 4550020381,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1017,
+  "student_name": "RYCHARD ODILON DE SOUZA FERREIRA",
+  "enrollment_student": 1001301428,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1018,
+  "student_name": "SEBASTIÃO JORGE DA SILVA FERREIRA",
+  "enrollment_student": 4540020195,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1019,
+  "student_name": "VITÓRIA ROANNY RAMOS MONTEIRO",
+  "enrollment_student": 4547249821,
+  "id_classroom": 4,
+  "stats_student": 1
+ },
+ {
+  "id": 1020,
+  "student_name": "ABIMAEL ALVES BEZERRA",
+  "enrollment_student": 4552626921,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1021,
+  "student_name": "ADRIAN VASCONCELOS DA VEIGA",
+  "enrollment_student": 4501327552,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1022,
+  "student_name": "ALICE AGUIAR",
+  "enrollment_student": 4552618910,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1023,
+  "student_name": "ALISSON PATRICK DE SOUZA KOCH",
+  "enrollment_student": 4540349901,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1024,
+  "student_name": "ANA BEATRIZ VIERA DOS SANTOS",
+  "enrollment_student": 4551504610,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1025,
+  "student_name": "BRIAN ANDREI DA SILVA",
+  "enrollment_student": 4551074020,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1026,
+  "student_name": "BRUNO GABRIEL MONTEIRO PANTOJA",
+  "enrollment_student": 4550942869,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1027,
+  "student_name": "CAMILA VITÓRIA PEREIRA DA SILVA",
+  "enrollment_student": 4549780931,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1028,
+  "student_name": "DANIEL RODRIGUES",
+  "enrollment_student": 4501256485,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1029,
+  "student_name": "DIOGO SCHNEIDER KORZ",
+  "enrollment_student": 4500850499,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1030,
+  "student_name": "EDUARDO MOIK",
+  "enrollment_student": 4501508190,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1031,
+  "student_name": "ELEAN GABRIEL ELES DESPESELL",
+  "enrollment_student": 4548754333,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1032,
+  "student_name": "EMILY GABRIELLY MARTINS",
+  "enrollment_student": 454492240,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1033,
+  "student_name": "ERICK FERNANDO WATRAZ",
+  "enrollment_student": 4550740522,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1034,
+  "student_name": "FERNANDA DE DEUS BUENO",
+  "enrollment_student": 4546385713,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1035,
+  "student_name": "GILBERTO LUIS SAIBEL JUNIOR",
+  "enrollment_student": 4500649050,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1036,
+  "student_name": "GIOVANNA SANTOS MARTEL",
+  "enrollment_student": 4552153900,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1037,
+  "student_name": "ITALO KAUA BISPO DA SILVA",
+  "enrollment_student": 4541535296,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1038,
+  "student_name": "JACSON JEAN SANTOS DOS PASSOS",
+  "enrollment_student": 4551109273,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1039,
+  "student_name": "JOAO AFONSO FLORENCIO FERREIRA",
+  "enrollment_student": 4551166757,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1040,
+  "student_name": "JOÃO VICTOR DA SILVA",
+  "enrollment_student": 4540585079,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1041,
+  "student_name": "JOÃO VITOR PAIVA",
+  "enrollment_student": 4501313136,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1042,
+  "student_name": "JOEL CARDOSO NETO",
+  "enrollment_student": 4501257104,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1043,
+  "student_name": "KAUA GABRIEL ILHA DA SILVA",
+  "enrollment_student": 4500644473,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1044,
+  "student_name": "KEVIN SOUSA COSTA",
+  "enrollment_student": 4542952419,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1045,
+  "student_name": "LUCAS VARGAS ROSA",
+  "enrollment_student": 4550767307,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1046,
+  "student_name": "LUIZ FELIPE WALDRICH",
+  "enrollment_student": 4551910405,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1047,
+  "student_name": "LUIZ KAUAN OLIVEIRA BATISTA",
+  "enrollment_student": 4547632668,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1048,
+  "student_name": "MARCIEL DA SILVA SANTOS",
+  "enrollment_student": 4552481615,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1049,
+  "student_name": "MARCOS PATRICK PEREIRA SANTOS",
+  "enrollment_student": 4547284490,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1050,
+  "student_name": "MATHEUS VANAT",
+  "enrollment_student": 4540684565,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1051,
+  "student_name": "PEDRO HENRIQUE SANTOS RIBEIRO",
+  "enrollment_student": 455217861,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1052,
+  "student_name": "SHEILA TODT DE SOUZA",
+  "enrollment_student": 4548934080,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1053,
+  "student_name": "TAINARA NUNES MALLMANN",
+  "enrollment_student": 4541419601,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1054,
+  "student_name": "WESLEN OLIVEIRA DOS SANTOS",
+  "enrollment_student": 4546427629,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1055,
+  "student_name": "YURI NATHAN DEMETRIO",
+  "enrollment_student": 4500849652,
+  "id_classroom": 57,
+  "stats_student": 1
+ },
+ {
+  "id": 1056,
+  "student_name": "ALANA CRISTINA FERREIRA",
+  "enrollment_student": 4551951390,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1057,
+  "student_name": "AMANDA ROCHA",
+  "enrollment_student": 4542505358,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1058,
+  "student_name": "ANA JULIA DE SOUZA BARBOSA",
+  "enrollment_student": 4501826699,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1059,
+  "student_name": "ANDERSON HERTEL",
+  "enrollment_student": 4550051867,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1060,
+  "student_name": "BRUNA BOEIRA FRANCISCA",
+  "enrollment_student": 4501503377,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1061,
+  "student_name": "CARLOS EDUARDO OECHSLER",
+  "enrollment_student": 4552151591,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1062,
+  "student_name": "DANIEL COSTA HINCKEL",
+  "enrollment_student": 4544127458,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1063,
+  "student_name": "DANILO FERREIRA DOS SANTOS",
+  "enrollment_student": 4550866224,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1064,
+  "student_name": "EDSON FERNANDES DE ALMEIDA FOGAÇA JUNIOR",
+  "enrollment_student": 4551618445,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1065,
+  "student_name": "EDUARDO DE BRITTO DA COSTA",
+  "enrollment_student": 4501644850,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1066,
+  "student_name": "ERICK VIANA DA SILVA",
+  "enrollment_student": 4501671385,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1067,
+  "student_name": "GABRIEL ALEXANDRE DA ROSA",
+  "enrollment_student": 4551695911,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1068,
+  "student_name": "GABRIEL ELIBIO DOS SANTOS",
+  "enrollment_student": 4545960269,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1069,
+  "student_name": "GABRIELA HONORATO BARBOSA",
+  "enrollment_student": 4501256833,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1070,
+  "student_name": "GABRIELI AZAMBUJA DE MATTOS",
+  "enrollment_student": 4552707441,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1071,
+  "student_name": "GUILHERME HENRIQUE LOPES",
+  "enrollment_student": 4544044706,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1072,
+  "student_name": "GUSTAVO INACIO MARTINS",
+  "enrollment_student": 4550866038,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1073,
+  "student_name": "HELEN CAROLINA MONTEIRO DOS SANTOS",
+  "enrollment_student": 4550120788,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1074,
+  "student_name": "JAIRO DOS SANTOS DOS PASSOS",
+  "enrollment_student": 4552178848,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1075,
+  "student_name": "JONATHAN CORREA ROSA",
+  "enrollment_student": 4552620834,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1076,
+  "student_name": "JOSIAS CORREA ROSA",
+  "enrollment_student": 4552620532,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1077,
+  "student_name": "KAUAN SCHUHARDT DA SILVA VEBER",
+  "enrollment_student": 4540703870,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1078,
+  "student_name": "KELRIA MARIA SOARES DE ANDRADE",
+  "enrollment_student": 4542811823,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1079,
+  "student_name": "LETICIA RAMOS BRANCO",
+  "enrollment_student": 4501708823,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1080,
+  "student_name": "LUIS FERNANDO MOREIRA DA SILVA",
+  "enrollment_student": 4500647618,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1081,
+  "student_name": "MAIARA PLOTEGHER DOS SANTOS",
+  "enrollment_student": 4551664420,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1082,
+  "student_name": "MARCOS MISAEL VARGAS",
+  "enrollment_student": 4540348794,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1083,
+  "student_name": "MICAELI AZAMBUJA DE MATTOS",
+  "enrollment_student": 4552707247,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1084,
+  "student_name": "MILENE GABRIELA MONTEIRO DE PÁDUA",
+  "enrollment_student": 4541525762,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1085,
+  "student_name": "NICOLE LEANDRA LOUREIRO DE ALMEIDA",
+  "enrollment_student": 4552614230,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1086,
+  "student_name": "PABLO WALTRICK DOS SANTOS",
+  "enrollment_student": 4540895256,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1087,
+  "student_name": "RAISSA CRISTIELI CONCEIÇÃO ILHA",
+  "enrollment_student": 4552178589,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1088,
+  "student_name": "RAQUEL PEREIRA DE PRUENCIA",
+  "enrollment_student": 4551082073,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1089,
+  "student_name": "TAINARA SERPA CHAGAS",
+  "enrollment_student": 4540798277,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1090,
+  "student_name": "THIAGO BUCHLING ",
+  "enrollment_student": 4552495754,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1091,
+  "student_name": "VITÓRIA ELOIZE OECHSLER",
+  "enrollment_student": 4552179054,
+  "id_classroom": 19,
+  "stats_student": 1
+ },
+ {
+  "id": 1093,
+  "student_name": "AMANDA FORTUNATO",
+  "enrollment_student": 4540328785,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1094,
+  "student_name": "AMANDA HANEMAN NUNES DA SILVA",
+  "enrollment_student": 4501686072,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1095,
+  "student_name": "AMANDA PIMENTA FERREIRA",
+  "enrollment_student": 4551119503,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1096,
+  "student_name": "AMANDA SILVA DE LIMA",
+  "enrollment_student": 4549444354,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1097,
+  "student_name": "ANA CAROLINE LAZZAROTTO DA ROCHA",
+  "enrollment_student": 4500981208,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1098,
+  "student_name": "EMILLY DIAS",
+  "enrollment_student": 4550740034,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1099,
+  "student_name": "GABRIEL PEDROZO DE SOUZA",
+  "enrollment_student": 4552612955,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1100,
+  "student_name": "GABRIELI CORREA",
+  "enrollment_student": 4500647561,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1101,
+  "student_name": "GABRIELI MARTINS",
+  "enrollment_student": 4548442846,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1102,
+  "student_name": "HENRIQUE DE OLIVEIRA MACIEL",
+  "enrollment_student": 1000071925,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1103,
+  "student_name": "HENRIQUE RANQUETAT MAZUI",
+  "enrollment_student": 4500539297,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1170,
+  "student_name": "GUILHERME ECCEL",
+  "enrollment_student": 4550943970,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1092,
+  "student_name": "ADRIELLY FERNANDA MAERZ BAULER",
+  "enrollment_student": 4549573480,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1104,
+  "student_name": "INGRYD THAINARA MATOS TEIXEIRA",
+  "enrollment_student": 4552783520,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1105,
+  "student_name": "JHONATAN DE SOUZA PEDROZO",
+  "enrollment_student": 4501825447,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1106,
+  "student_name": "LUCAS FELIPE RITZKE",
+  "enrollment_student": 4550643713,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1107,
+  "student_name": "MARLON GABRIEL PINHEIRO",
+  "enrollment_student": 4501504454,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1108,
+  "student_name": "MATEUS SCHENK",
+  "enrollment_student": 703131729,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1109,
+  "student_name": "NAIARA PORTELA PASSOS",
+  "enrollment_student": 4500982832,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1110,
+  "student_name": "RAISSA CAMILE DA SILVA",
+  "enrollment_student": 4548124178,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1111,
+  "student_name": "RENAN MARIANO",
+  "enrollment_student": 45005003713,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1112,
+  "student_name": "SAMARA CRISTINA PEREIRA",
+  "enrollment_student": 4542394440,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1113,
+  "student_name": "SIAN CAROLINE TIBURSKI",
+  "enrollment_student": 4550865970,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1114,
+  "student_name": "TAYSSA MARTHA LIMA TENORIO",
+  "enrollment_student": 45488888623,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1115,
+  "student_name": "THALIA APARECIDA FERNANDES",
+  "enrollment_student": 4501820640,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1116,
+  "student_name": "TIAGO KLETKE ZIMMERMANN",
+  "enrollment_student": 4549296690,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1117,
+  "student_name": "VINICIUS STAINBACH",
+  "enrollment_student": 4547995493,
+  "id_classroom": 7,
+  "stats_student": 1
+ },
+ {
+  "id": 1118,
+  "student_name": "ANA BEATRIZ ALVES",
+  "enrollment_student": 4501846479,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1119,
+  "student_name": "ANDREI BITENCOURT DE OLIVEIRA",
+  "enrollment_student": 801802369,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1120,
+  "student_name": "CINDY DE OLIVEIRA PEREIRA",
+  "enrollment_student": 4550756976,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1121,
+  "student_name": "DANIEL MELO CONCEIÇÃO",
+  "enrollment_student": 4547488265,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1122,
+  "student_name": "DAVI ALMEIDA CARDOSO",
+  "enrollment_student": 4500848680,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1123,
+  "student_name": "EDUARDO DIEGO DAUFENBACH",
+  "enrollment_student": 4500469574,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1124,
+  "student_name": "GABRIEL FERNANDES CORREIA ",
+  "enrollment_student": 4543673386,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1125,
+  "student_name": "GIOVANNA BIALAS",
+  "enrollment_student": 4550756585,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1126,
+  "student_name": "JEAN CARLOS GUTIERREZ RODRIGUEZ ",
+  "enrollment_student": 4548969232,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1127,
+  "student_name": "JOÃO VÍTOR CAMARGO ",
+  "enrollment_student": 4540280642,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1128,
+  "student_name": "KATHLEEN DO PRADO ",
+  "enrollment_student": 4550769075,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1129,
+  "student_name": "KAUÃ GUSTAVO LOPES",
+  "enrollment_student": 4542918601,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1130,
+  "student_name": "KAUAN VINÍCIUS OCHOZKI DA SILVA",
+  "enrollment_student": 4550770405,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1131,
+  "student_name": "KAUÊ CANGIRANA ROZIM",
+  "enrollment_student": 4552180648,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1132,
+  "student_name": "LEONARDO ANDRE MANNRICH",
+  "enrollment_student": 4551165831,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1133,
+  "student_name": "LUAN CARLOS FRANZ",
+  "enrollment_student": 4550727410,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1134,
+  "student_name": "MARIA EDUARDA DO AMARANTE ",
+  "enrollment_student": 4500651011,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1135,
+  "student_name": "NATHALY VITORIA MAIRING ",
+  "enrollment_student": 1001216668,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1136,
+  "student_name": "NAYARA HELOÍSA DAMACENA SCHAPPO",
+  "enrollment_student": 4550771061,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1137,
+  "student_name": "NICOLAS JOAQUIM CARVALHO GOMES",
+  "enrollment_student": 4550750951,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1138,
+  "student_name": "PABLO RAFAEL PADILHA MARTINS ",
+  "enrollment_student": 4543480057,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1139,
+  "student_name": "PAULO SÉRGIO TAVARES QUARESMA FILHO ",
+  "enrollment_student": 4550770570,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1140,
+  "student_name": "RICARDO XAVIER BUENO DE CAMARGO",
+  "enrollment_student": 4551139717,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1141,
+  "student_name": "SAMUEL HIRT DA CONCEIÇÃO ",
+  "enrollment_student": 4549295405,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1142,
+  "student_name": "SARA CORDEIRO MANNRICH",
+  "enrollment_student": 4500485782,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1143,
+  "student_name": "TERESITA YASMIM LOPES RAIOL",
+  "enrollment_student": 4549561636,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1144,
+  "student_name": "VITÓRIA DANIELLE BROCKVELD",
+  "enrollment_student": 4549576200,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1145,
+  "student_name": "WILLIAM SOLOCHINSKI DA SILVA",
+  "enrollment_student": 4501808046,
+  "id_classroom": 58,
+  "stats_student": 1
+ },
+ {
+  "id": 1146,
+  "student_name": "ADRIAN DE MIRANDA",
+  "enrollment_student": 4545761398,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1147,
+  "student_name": "BÁRBARA VITÓRIA VIEIRA DA CONCEIÇÃO",
+  "enrollment_student": 4551060436,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1148,
+  "student_name": "BRUNO ANDREI SCHAFER",
+  "enrollment_student": 4541410035,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1149,
+  "student_name": "CAROLINE CEZAR",
+  "enrollment_student": 4550764049,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1150,
+  "student_name": "CAUAN FELIPE BOETTGER",
+  "enrollment_student": 4551094128,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1151,
+  "student_name": "ESTÉFANI CRISTINA DE OLIVEIRA PEREIRA",
+  "enrollment_student": 4543152629,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1152,
+  "student_name": "FABIO SEBASTIAN SOLLER MARINO",
+  "enrollment_student": 4551254079,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1153,
+  "student_name": "FERNANDA ELISA VETTER",
+  "enrollment_student": 4551157677,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1154,
+  "student_name": "GABRIEL JOÃO LANTMAN",
+  "enrollment_student": 4541193638,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1155,
+  "student_name": "GABRIELLE SANTOS DE ARAÚJO",
+  "enrollment_student": 4549041012,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1156,
+  "student_name": "GUILHERME ECCEL",
+  "enrollment_student": 4550943970,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1157,
+  "student_name": "HIGOR PEREIRA VIANNA DA SILVA",
+  "enrollment_student": 4551267057,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1158,
+  "student_name": "JOSÉ CARLOS DOS SANTOS CORREIA",
+  "enrollment_student": 4500089917,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1159,
+  "student_name": "JUAN GABRIEL SOUZA LOPES",
+  "enrollment_student": 4550948778,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1160,
+  "student_name": "ADRIAN DE MIRANDA",
+  "enrollment_student": 4545761398,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1161,
+  "student_name": "BÁRBARA VITÓRIA VIEIRA DA CONCEIÇÃO",
+  "enrollment_student": 4551060436,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1162,
+  "student_name": "BRUNO ANDREI  SCHAFER",
+  "enrollment_student": 4541410035,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1163,
+  "student_name": " CAROLINE CEZAR",
+  "enrollment_student": 4550764049,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1164,
+  "student_name": "CAUAN FELIPE BOETTGER",
+  "enrollment_student": 45510944128,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1165,
+  "student_name": "ESTÉFANI CRISTINA DE OLIVEIRA PEREIRA",
+  "enrollment_student": 4543152629,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1166,
+  "student_name": "FABIO SEBASTIAN SOLLER MARINO",
+  "enrollment_student": 4551254079,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1167,
+  "student_name": "FERNANDA ELISA VETTER",
+  "enrollment_student": 455115677,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1168,
+  "student_name": "GABRIEL JOÃO LANTMAN",
+  "enrollment_student": 4541193638,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1169,
+  "student_name": "GABRIELE SANTOS DE ARAÚJO",
+  "enrollment_student": 4549041012,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1171,
+  "student_name": "HIGOR PEREIRA VIANNA DA SILVA",
+  "enrollment_student": 4551267057,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1172,
+  "student_name": "JOSÉ CARLOS DOS SANTOS CORREIA",
+  "enrollment_student": 4500089917,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1173,
+  "student_name": "JUAN GABRIEL SOUZA LOPES",
+  "enrollment_student": 4550948778,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1174,
+  "student_name": "JULIA MALISESKI VIEIRA",
+  "enrollment_student": 4550679297,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1175,
+  "student_name": "KARINA ALTHOF PADILHA",
+  "enrollment_student": 4551139237,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1176,
+  "student_name": "KAUA CORDEIRO DOS SANTOS",
+  "enrollment_student": 4551186316,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1177,
+  "student_name": "KEVIN ALLAN BACHMANN",
+  "enrollment_student": 4551138834,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1178,
+  "student_name": "KLENERSON GUEDES E SOUSA",
+  "enrollment_student": 4551117420,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1179,
+  "student_name": "LEANDRO SARTORI MORAES",
+  "enrollment_student": 4549399596,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1180,
+  "student_name": "LEONARDO VIEIRA DA CONCEIÇÃO",
+  "enrollment_student": 4551059608,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1181,
+  "student_name": "LETICIA PETRIS FARIAS ",
+  "enrollment_student": 4547198038,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1182,
+  "student_name": "MATHEUS GARCIA RODRIGUES",
+  "enrollment_student": 4551106940,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1183,
+  "student_name": "MIKAEL SANTOS DE ARAÚJO",
+  "enrollment_student": 4549041063,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1184,
+  "student_name": "RENAN DE JESUS COSTA RIBEIRO",
+  "enrollment_student": 4552486143,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1185,
+  "student_name": "RICARDO NATANAEL DA SILVA DULZ",
+  "enrollment_student": 4552548882,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1186,
+  "student_name": "RICHARD GABRIEL MAGELA PEREIRA",
+  "enrollment_student": 4551701377,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1187,
+  "student_name": "THAISE GABRIELE BATISTA DOS SANTOS",
+  "enrollment_student": 4549564929,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1188,
+  "student_name": "WANDERLEI LUAN MARQUES",
+  "enrollment_student": 4549459130,
+  "id_classroom": 59,
+  "stats_student": 1
+ },
+ {
+  "id": 1189,
+  "student_name": "AGATA LAIS DA COSTA SALES",
+  "enrollment_student": 4552510834,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1190,
+  "student_name": "ALESSANDRA LINDA CARDOSO",
+  "enrollment_student": 4500469302,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1191,
+  "student_name": "AMANDA CRISTINA DAMARATT",
+  "enrollment_student": 1001290175,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1192,
+  "student_name": "ANA BEATRIZ NASATTO",
+  "enrollment_student": 4542347230,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1193,
+  "student_name": "DANDARA KREFF",
+  "enrollment_student": 4549389418,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1194,
+  "student_name": "EDUARDO DE ARAUJO STEINHEUSER",
+  "enrollment_student": 4549594380,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1195,
+  "student_name": "ELIZANDRA SOPHIA KUJAT",
+  "enrollment_student": 4500504442,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1196,
+  "student_name": "EMILY MARY KUPERS",
+  "enrollment_student": 4500827942,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1197,
+  "student_name": "FERNANDA PATRICIA SOUZA LIMA",
+  "enrollment_student": 4543841890,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1198,
+  "student_name": "GABRIEL LOURENÇO SCHWARTZ",
+  "enrollment_student": 4501282710,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1199,
+  "student_name": "GABRIEL LUIZ PASOLD",
+  "enrollment_student": 4500515320,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1200,
+  "student_name": "GABRIEL ROGER DA CUNHA",
+  "enrollment_student": 1001307787,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1201,
+  "student_name": "GABRIELA PAULI BALBIN",
+  "enrollment_student": 4549699123,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1202,
+  "student_name": "GABRIELE HELOISA DOS SANTOS",
+  "enrollment_student": 4549702566,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1203,
+  "student_name": "GERSON DAVID AMARAL DE JESUS",
+  "enrollment_student": 4549458240,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1204,
+  "student_name": "ISADORA HELOISA SCHMITZ",
+  "enrollment_student": 4500646875,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1205,
+  "student_name": "JOÃO CARLOS MEUER",
+  "enrollment_student": 4549608357,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1206,
+  "student_name": "JOÃO GABRIEL BENTHAS RODE",
+  "enrollment_student": 4549604289,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1207,
+  "student_name": "JÚLIO CÉSAR DA SILVA",
+  "enrollment_student": 4549382871,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1208,
+  "student_name": "LEONARDO REGINATTO POSSER",
+  "enrollment_student": 4542414743,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1209,
+  "student_name": "LETICIA RAFAELA BERNADO FIGUEREDO",
+  "enrollment_student": 4500659055,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1210,
+  "student_name": "LORENA PEREIRA ARAUJO",
+  "enrollment_student": 4542350478,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1211,
+  "student_name": "MARIA LUIZA ORTIZ ",
+  "enrollment_student": 4500839576,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1212,
+  "student_name": "MATEUS HENRIQUE JUNGES",
+  "enrollment_student": 4549402260,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1213,
+  "student_name": "OLYVIER SOUSA COSTA",
+  "enrollment_student": 4542952427,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1214,
+  "student_name": "RAFAELA INGRID DA SILVA LIMA",
+  "enrollment_student": 4547704545,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1215,
+  "student_name": "RYAN TIETJEN DAMIN",
+  "enrollment_student": 4501257279,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1216,
+  "student_name": "SARA VITÓRIA LIMA SOUZA",
+  "enrollment_student": 4549965141,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1217,
+  "student_name": "SUZIELEM SOUZA TRINDADE",
+  "enrollment_student": 4550372507,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1218,
+  "student_name": "VILINEI ADRIAN ZANELLA",
+  "enrollment_student": 45012557490,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1219,
+  "student_name": "VINICIOS DE OLIVEIRA NASCIMENTO",
+  "enrollment_student": 4541179031,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1220,
+  "student_name": "VITÓRIA REGINA BULLÉ",
+  "enrollment_student": 4549648448,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1221,
+  "student_name": "YASMIM LETICIA BARTH",
+  "enrollment_student": 4549722648,
+  "id_classroom": 60,
+  "stats_student": 1
+ },
+ {
+  "id": 1222,
+  "student_name": "ALICYA ROCHA TIEDT",
+  "enrollment_student": 4500751768,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1223,
+  "student_name": "ANA JULIA MUELLER PERSUHN",
+  "enrollment_student": 4541624647,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1224,
+  "student_name": "ANDREI HENRIQUE FLOSS",
+  "enrollment_student": 4500646476,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1225,
+  "student_name": "BEATRIZ AGUIAR DE LIMA",
+  "enrollment_student": 1001397069,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1226,
+  "student_name": "EMILLY DE SOUZA DIAS",
+  "enrollment_student": 4501256671,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1227,
+  "student_name": "ERIK WERNER NEUGEBAUER",
+  "enrollment_student": 1000296145,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1228,
+  "student_name": "FELIPE GUSTAVO REGIS",
+  "enrollment_student": 4547397723,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1229,
+  "student_name": "FERNANDA CORREIA",
+  "enrollment_student": 4500647405,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1230,
+  "student_name": "FRANCIS RICARDO SANT´ANA",
+  "enrollment_student": 4500574203,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1231,
+  "student_name": "GLEUSON FERREIRA SILVA JUNIOR",
+  "enrollment_student": 4542347019,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1232,
+  "student_name": "GRAZIELE KOBS",
+  "enrollment_student": 4500648886,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1233,
+  "student_name": "IVAN PABLO ODERDENGE",
+  "enrollment_student": 4545884864,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1234,
+  "student_name": "JHULIE STEFANIE ALVES OLIVEIRA",
+  "enrollment_student": 4549526520,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1235,
+  "student_name": "JOÃO EMANUEL DA ROSA",
+  "enrollment_student": 4547287723,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1236,
+  "student_name": "JOÃO VICTOR MAY",
+  "enrollment_student": 4549302878,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1237,
+  "student_name": "JOHN WILLIAN BACHMANN",
+  "enrollment_student": 4549611854,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1238,
+  "student_name": "KAUE RAYLLAN SOUSA DA LUZ",
+  "enrollment_student": 4546503600,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1239,
+  "student_name": "MARCELO DEDIMAR MEURER",
+  "enrollment_student": 4549991860,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1240,
+  "student_name": "MARIA GABRIELA GOEDERT",
+  "enrollment_student": 4544351358,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1241,
+  "student_name": "MARIA LUIZA GONÇALVEIS DA LUZ",
+  "enrollment_student": 4540485341,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1242,
+  "student_name": "MATHEUS HENRIQUE GRAH",
+  "enrollment_student": 4548515177,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1243,
+  "student_name": "NATÁLIA DE SOUSA CASTRO",
+  "enrollment_student": 4550201001,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1244,
+  "student_name": "PAMELA DE JESUS MELO",
+  "enrollment_student": 4500647510,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1245,
+  "student_name": "SARAH CORREA MAULLI",
+  "enrollment_student": 4500539432,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1246,
+  "student_name": "SILAS DIOGO SANTOS CARDOSO",
+  "enrollment_student": 4500277810,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1247,
+  "student_name": "SOFIA BERTELLI",
+  "enrollment_student": 4500650759,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1248,
+  "student_name": "THALISSA SCHEIDEMANTEL BARNI",
+  "enrollment_student": 454938011,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1249,
+  "student_name": "WENDELL DOS SANTOS",
+  "enrollment_student": 1000872600,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1250,
+  "student_name": "WENDELL ROSA BATISTA",
+  "enrollment_student": 4549055056,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1251,
+  "student_name": "WESLEY DA ROSA LOPES",
+  "enrollment_student": 4542720879,
+  "id_classroom": 61,
+  "stats_student": 1
+ },
+ {
+  "id": 1252,
+  "student_name": "ADELSON DA SILVA SANTOS",
+  "enrollment_student": 4552707980,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1253,
+  "student_name": "ADRYAN FILIPE ZIMERMANN",
+  "enrollment_student": 1001465439,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1254,
+  "student_name": "ALAN RODRIGO BRICK",
+  "enrollment_student": 4500469841,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1255,
+  "student_name": "ANDREY EDUARDO NIEHUES",
+  "enrollment_student": 4500503837,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1256,
+  "student_name": "ANNAJULIA DOS SANTOS",
+  "enrollment_student": 4549297343,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1257,
+  "student_name": "BEATRIZ NEGRINI CONNINCK",
+  "enrollment_student": 45000513956,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1258,
+  "student_name": "BRUNO VINÍCIUS CIRIACO DA SILVA",
+  "enrollment_student": 4548835074,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1259,
+  "student_name": "EUADUARDO PIZZATO",
+  "enrollment_student": 4549538880,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 87,
+  "student_name": "ERICK PROVESI DE MORAES",
+  "enrollment_student": 4500647278,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1260,
+  "student_name": "ERIK DANIEL BEZERRA DOS SANTOS",
+  "enrollment_student": 4500516564,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1261,
+  "student_name": "ESTER VITORIA ARSENO MOURA",
+  "enrollment_student": 4548514944,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1262,
+  "student_name": "FÁTIMA GABRIELE WILL",
+  "enrollment_student": 1001294375,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1265,
+  "student_name": "FELYPE ECCEL",
+  "enrollment_student": 4549294689,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1266,
+  "student_name": "GABRIEL CASTELLANI",
+  "enrollment_student": 4549297777,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1267,
+  "student_name": "GABRIEL DE IMA FROTSCHER",
+  "enrollment_student": 4549303718,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1268,
+  "student_name": "GUILHERME AUGUSTO HERMES",
+  "enrollment_student": 4501256930,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1271,
+  "student_name": "KAMILA ALTHOF DE OLIVEIRA",
+  "enrollment_student": 4546260910,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1272,
+  "student_name": "KATLEN GEOVANA FERNANDE BENTO",
+  "enrollment_student": 4500892477,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1273,
+  "student_name": "KAUANI MARCELA MARCONDES RIBEIRO NETTO",
+  "enrollment_student": 4549479611,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1274,
+  "student_name": "LETÍCIA DE ANDRADE MACHADO",
+  "enrollment_student": 4549235607,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1275,
+  "student_name": "LÍVIA SOARES LEAL",
+  "enrollment_student": 4500515185,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1276,
+  "student_name": "LUAN SANTOS DE LIMA",
+  "enrollment_student": 4549398069,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1277,
+  "student_name": "LUCAS DE LIMA MEDEIROS",
+  "enrollment_student": 4500503179,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1278,
+  "student_name": "MATHEUS AVELINO HERCULANO ESTEVÃO",
+  "enrollment_student": 45499555677,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1279,
+  "student_name": "NOEMILY VELOSO TAVARES",
+  "enrollment_student": 4541490543,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1280,
+  "student_name": "SAN CLER DE CASTRO ALVES",
+  "enrollment_student": 4552708090,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1281,
+  "student_name": "SANTIAGO DA SILVA LOPES",
+  "enrollment_student": 4548532195,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1282,
+  "student_name": "SARA REGINA CUCO",
+  "enrollment_student": 4545957454,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1283,
+  "student_name": "SUYANE RODRIGUES DA SILVA",
+  "enrollment_student": 4541699639,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1284,
+  "student_name": "WILLYAM AUGUSTO WASMUTH",
+  "enrollment_student": 4549619014,
+  "id_classroom": 10,
+  "stats_student": 1
+ },
+ {
+  "id": 1285,
+  "student_name": "ANDRESSA APARECIDA BENATTI",
+  "enrollment_student": 4549386273,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1286,
+  "student_name": "ARIANI DOS SANTOS LEVANDOSKI",
+  "enrollment_student": 4546158598,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1287,
+  "student_name": "BRUNO SCHERER",
+  "enrollment_student": 4549609124,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1288,
+  "student_name": "BRYAN COSTA TEZZA",
+  "enrollment_student": 4500650830,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1289,
+  "student_name": "EDUARDO DA SILVA",
+  "enrollment_student": 4545248615,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1290,
+  "student_name": "EMANUEL SERGIO GIRARDI",
+  "enrollment_student": 4540090843,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1291,
+  "student_name": "EMILY VITÓRIA  MONTEIRO DOS SANTOS",
+  "enrollment_student": 4550120850,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1292,
+  "student_name": "FELIPE LUCAS",
+  "enrollment_student": 4550120850,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1293,
+  "student_name": "GABRIEL CORDEIRO DOS SANTOS",
+  "enrollment_student": 4546062086,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1294,
+  "student_name": "GABRIEL HENRIQUE CARVALHO",
+  "enrollment_student": 4549610327,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1295,
+  "student_name": "GABRIEL NASCIMENTO FERNANDES",
+  "enrollment_student": 4550310838,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1296,
+  "student_name": "GABRIELE KLEINSCHMIDT DA COSTA",
+  "enrollment_student": 4500541224,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1297,
+  "student_name": "JAYANNE EMILLI NUNES DA SILVA ",
+  "enrollment_student": 4549301014,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1298,
+  "student_name": "JHON  DOS SANTOS",
+  "enrollment_student": 4549865910,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1299,
+  "student_name": "JÚLIA FLORES",
+  "enrollment_student": 4543457934,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1300,
+  "student_name": "JULLIA LAURA MATUSZEWSKI",
+  "enrollment_student": 4549559267,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1301,
+  "student_name": "KAUÃ CÉSAR PAULO",
+  "enrollment_student": 4549497776,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1302,
+  "student_name": "KAUÃ KRAUSS",
+  "enrollment_student": 4542975737,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1303,
+  "student_name": "KAYLANE PASSOS BENKE",
+  "enrollment_student": 4500539645,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1304,
+  "student_name": "LUCAS BENJMIN SALES PINTO",
+  "enrollment_student": 4552500014,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1305,
+  "student_name": "MAIRONE DE SOUZA PEDROZO",
+  "enrollment_student": 1001297528,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1306,
+  "student_name": "MARIA EDUARDA CORREA MAULLI",
+  "enrollment_student": 1001301827,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1307,
+  "student_name": "MARIA EDUARDA HOFFMANN",
+  "enrollment_student": 1001549756,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1308,
+  "student_name": "MARIA FERNADA TAMAYO MOYETONES",
+  "enrollment_student": 4548609902,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1309,
+  "student_name": "MARIA HELOISA LIMA DE SENA",
+  "enrollment_student": 4551209537,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1310,
+  "student_name": "MIGUEL ENRIQUE GONZALES MOYETONES",
+  "enrollment_student": 4548609120,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1311,
+  "student_name": "RAISSA DOS SANTOS ",
+  "enrollment_student": 4549593988,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1312,
+  "student_name": "RAISSA MARCHEZZI",
+  "enrollment_student": 4500515088,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1313,
+  "student_name": "RANIERE JOÃO BECKMAN CORREA ",
+  "enrollment_student": 4548683835,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1314,
+  "student_name": "SAMUEL FELIPE DOS SANTOS",
+  "enrollment_student": 4500541852,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1315,
+  "student_name": "SYBELI ALANNA WEBER DE CAMPOS",
+  "enrollment_student": 4549330537,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1316,
+  "student_name": "TAINÂ DO NASCIMENTO LIMA",
+  "enrollment_student": 4549206771,
+  "id_classroom": 31,
+  "stats_student": 1
+ },
+ {
+  "id": 1317,
+  "student_name": "THIAGO FERREIRA BATISTA",
+  "enrollment_student": 4501257392,
+  "id_classroom": 31,
+  "stats_student": 1
+ }
+]
