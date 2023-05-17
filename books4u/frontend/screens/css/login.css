@@ -1,0 +1,44 @@
+html { 
+    background: url('/books4u/frontend/assets/img/bg_login.jpeg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ }
+#corpo{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    opacity: 95%;
+    border: 2px solid rgb(22, 102, 22);
+    border-radius: 5%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.tlog{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    position: relative;
+    top: 10%;
+    left: 10%;
+}
+.mb-3{
+    width: 400px;
+    height: 80px;
+    position: relative;
+    top: 20%;
+    left: 15%;
+}
+#c2{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50%,-10%);
+}
+label{
+    font-size: 20px;
+    color: aliceblue;
+}

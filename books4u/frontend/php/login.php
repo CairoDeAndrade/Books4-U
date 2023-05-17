@@ -1,41 +1,52 @@
 <?php
-
 include_once('config.php');
-include_once('login.html');
+include_once('../screens/html/login2.html');
 
-if(isset($_POST['btnLogin'])){
-        $emailUser = $_POST['emailUser'];
-        $passwordUser = $_POST['passwordUser'];
+if(isset($_SESSION['userEmail'])){
+        
+}else{
+        if(isset($_POST['btnLogin'])){
+                $userEmail = $_POST['email'];
+                $userPassword = $_POST['password'];
 
-        $data  = array(
-                'email' => $emailUser,
-                'password' => $passwordUser,
-        );
-        $json = json_encode($data);
-        $options = array(
-                CURLOPT_URL => 'http://0.0.0:8080/users/login/'. $email_user,
-                CURLOPT_POST => true,
-                CURLOPT_POSTFIELDS => $json,
-                CURLOPT_HTTPHEADER => array(
-                    'Content-Type: application/json',
-                    'Content-Length: ' . strlen($json)
-                )
-        );
-        $curl = curl_init();
-        curl_setopt_array($curl, $options);
+                $data = array(
+                        'userEmail' => $userEmail,
+                        'userPassword' => $userPassword,
+                );
+                $json = json_encode($data);
+                $options = array(
+                        CURLOPT_URL => 'http://10.10.28.140:8080/users/login/',
+                        CURLOPT_POST => true,
+                        CURLOPT_POSTFIELDS => $json,
+                        CURLOPT_HTTPHEADER => array(
+                        'Content-Type: application/json',
+                        'Content-Length: ' . strlen($json)
+                        ),
+                        CURLOPT_RETURNTRANSFER => true 
+                );
+                $curl = curl_init();
+                curl_setopt_array($curl, $options);
 
-        // Executa a requisição
-        $response = curl_exec($curl);
+                // Executa a requisição
+                $response = curl_exec($curl);
 
-        // Finaliza o curl
+                if(curl_errno($curl)){
+                        $error = curl_error($curl);
+                        echo "Erro na requisição cURL: " . $error;
+                } else {
+                        // Finaliza o curl
+                        curl_close($curl);
 
-        // Verifica o resultado
-        if ($response === false) {
-                echo 'Não Logado ';
-        } else {
-                session_start();
-                $_SESSION['emailUser'] = $emailUser;
-                header('Location: index.php');
+                        // Verifica o resultado
+                        $json = json_decode($response, true);
+
+                        // Verifica se a resposta é true ou false
+                        if(isset($json['logged']) && $json['logged'] === true){
+                                $_SESSION['userEmail'] = $userEmail;
+                        } else {
+                        
+                        }
+                }
         }
 }
 ?>
