@@ -1,7 +1,9 @@
 package books4u.com.br.entities;
 
 import java.io.Serializable;
+import java.util.Objects;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -16,8 +18,10 @@ public class Student implements Serializable{
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Long id;
+	private Long idStudent;
 	private String studentName;
+	
+	@Column(unique = true)
 	private Long studentEnrollment;
 	private Long idClassroom;
 	private boolean status;
@@ -26,7 +30,7 @@ public class Student implements Serializable{
 	}
 
 	public Student(Long id, String studentName, Long studentEnrollment, Long idClassroom, boolean status) {
-		this.id = id;
+		this.idStudent = id;
 		this.studentName = studentName;
 		this.studentEnrollment = studentEnrollment;
 		this.idClassroom = idClassroom;
@@ -34,11 +38,11 @@ public class Student implements Serializable{
 	}
 
 	public Long getId() {
-		return id;
+		return idStudent;
 	}
 
 	public void setId(Long id) {
-		this.id = id;
+		this.idStudent = id;
 	}
 
 	public String getStudentName() {
@@ -71,5 +75,22 @@ public class Student implements Serializable{
 
 	public void setStatus(boolean status) {
 		this.status = status;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(idStudent);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Student other = (Student) obj;
+		return Objects.equals(idStudent, other.idStudent);
 	}
 }
