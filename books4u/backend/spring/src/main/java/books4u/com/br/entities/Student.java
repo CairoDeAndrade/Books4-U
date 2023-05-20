@@ -1,6 +1,8 @@
 package books4u.com.br.entities;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 import javax.persistence.Column;
@@ -8,6 +10,9 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @Entity
@@ -20,29 +25,36 @@ public class Student implements Serializable{
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long idStudent;
 	private String studentName;
+
 	
 	@Column(unique = true)
 	private Long studentEnrollment;
-	private Long idClassroom;
-	private boolean status;
+	private Boolean status;
+		
+	@ManyToOne
+	@JoinColumn(name = "tb_classroom_idtb_classroom")
+	private Classroom classroom;
+	
+	@OneToMany(mappedBy = "student")
+	private List<Loan> loan = new ArrayList<>();
 	
 	public Student() {
 	}
 
-	public Student(Long id, String studentName, Long studentEnrollment, Long idClassroom, boolean status) {
-		this.idStudent = id;
+	public Student(Long idStudent, String studentName, Long studentEnrollment, Boolean status) {
+		super();
+		this.idStudent = idStudent;
 		this.studentName = studentName;
 		this.studentEnrollment = studentEnrollment;
-		this.idClassroom = idClassroom;
 		this.status = status;
 	}
 
-	public Long getId() {
+	public Long getIdStudent() {
 		return idStudent;
 	}
 
-	public void setId(Long id) {
-		this.idStudent = id;
+	public void setIdStudent(Long idStudent) {
+		this.idStudent = idStudent;
 	}
 
 	public String getStudentName() {
@@ -61,20 +73,24 @@ public class Student implements Serializable{
 		this.studentEnrollment = studentEnrollment;
 	}
 
-	public Long getIdClassroom() {
-		return idClassroom;
-	}
-
-	public void setIdClassroom(Long idClassroom) {
-		this.idClassroom = idClassroom;
-	}
-
-	public boolean isStatus() {
+	public Boolean getStatus() {
 		return status;
 	}
 
-	public void setStatus(boolean status) {
+	public void setStatus(Boolean status) {
 		this.status = status;
+	}
+
+	public Classroom getClassroom() {
+		return classroom;
+	}
+
+	public void setClassroom(Classroom classroom) {
+		this.classroom = classroom;
+	}
+
+	public List<Loan> getLoan() {
+		return loan;
 	}
 
 	@Override

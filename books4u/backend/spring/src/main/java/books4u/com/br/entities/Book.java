@@ -42,6 +42,9 @@ public class Book implements Serializable{
 	@JoinColumn(name = "tb_books_localization_id_books_localization")
 	private BooksLocalization booksLocalization;
 	
+	@OneToOne(mappedBy = "book")
+	private Loan loan;
+	
 	public Book() {
 	}
 
@@ -124,6 +127,14 @@ public class Book implements Serializable{
 
 	public void setBooksLocalization(BooksLocalization booksLocalization) {
 		this.booksLocalization = booksLocalization;
+	}
+
+	public Loan getLoan() {
+		return loan;
+	}
+
+	public void setLoan(Loan loan) {
+		this.loan = loan;
 	}
 
 	@Override

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import books4u.com.br.dto.classroom.ClassroomDto;
+import books4u.com.br.dto.classroom.ClassroomInsertDto;
 import books4u.com.br.services.ClassroomService;
 
 @RestController
@@ -19,7 +19,7 @@ public class ClassroomController {
 	private ClassroomService service;
 	
 	@PostMapping
-	public ResponseEntity<ClassroomDto> insert(@RequestBody ClassroomDto dto){
+	public ResponseEntity<ClassroomInsertDto> insert(@RequestBody ClassroomInsertDto dto){
 		dto = service.insert(dto);
 		return ResponseEntity.status(HttpStatus.CREATED).body(dto);
 	}

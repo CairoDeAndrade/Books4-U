@@ -14,10 +14,4 @@ public class StudentConroller {
 	
 	@Autowired
 	private StudentService service;
-	
-	@GetMapping("/save")
-	public ResponseEntity<Boolean> save() {
-		boolean javaMelhorQuePhp = service.save();
-		return ResponseEntity.ok().body(javaMelhorQuePhp);
-	}
 }

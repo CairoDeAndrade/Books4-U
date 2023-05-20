@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 import books4u.com.br.entities.Classroom;
 
-public class ClassroomDto implements Serializable{
+public class ClassroomInsertDto implements Serializable{
 
 	private static final long serialVersionUID = 1L;
 	
@@ -12,17 +12,17 @@ public class ClassroomDto implements Serializable{
 	private Character classroomShift;
 	private Boolean classroomStatus;
 	
-	public ClassroomDto() {
+	public ClassroomInsertDto() {
 	}
 
-	public ClassroomDto(Integer classroomYear, Character classroomShift, Boolean classroomStatus) {
+	public ClassroomInsertDto(Integer classroomYear, Character classroomShift, Boolean classroomStatus) {
 		super();
 		this.classroomYear = classroomYear;
 		this.classroomShift = classroomShift;
 		this.classroomStatus = classroomStatus;
 	}
 	
-	public ClassroomDto(Classroom entity) {
+	public ClassroomInsertDto(Classroom entity) {
 		classroomYear = entity.getClassroomYear();
 		classroomShift = entity.getClassroomShift();
 		classroomStatus = entity.getClassroomStatus();

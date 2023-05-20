@@ -11,11 +11,5 @@ public class StudentService {
 	
 	@Autowired
 	private StudentRepository repository;
-	
-	public Boolean save() {
-		Student student = new Student(null, "Sabugo", 123999673L, 1L, true);
-		repository.save(student);
-		return true;
-	}
 
 }
