@@ -15,7 +15,7 @@ if(isset($_SESSION['userEmail'])){
                 );
                 $json = json_encode($data);
                 $options = array(
-                        CURLOPT_URL => 'http://10.10.28.214:8080/users/login/',
+                        CURLOPT_URL => 'http://26.2.87.114:8080/users/login/',
                         CURLOPT_POST => true,
                         CURLOPT_POSTFIELDS => $json,
                         CURLOPT_HTTPHEADER => array(
@@ -44,7 +44,7 @@ if(isset($_SESSION['userEmail'])){
                         if(isset($json['logged']) && $json['logged'] === true){
                                 
                                 $_SESSION['userEmail'] = $userEmail;
-                                header('Location: /books4u/frontend/php/registers/classroom');
+                                header('Location: /books4u/frontend/php/registers/books');
                         } else {
                                 echo "Não!";
                         }
