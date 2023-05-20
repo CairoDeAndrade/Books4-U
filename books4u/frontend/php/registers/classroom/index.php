@@ -16,7 +16,7 @@ session_start();
         );
         $json = json_encode($data);
         $options = array(
-            CURLOPT_URL => 'http://10.10.28.214:8080/classrooms/',
+            CURLOPT_URL => 'http://10.10.28.155:8080/classrooms/',
             CURLOPT_POST => true,
             CURLOPT_POSTFIELDS => $json,
             CURLOPT_HTTPHEADER => array(
