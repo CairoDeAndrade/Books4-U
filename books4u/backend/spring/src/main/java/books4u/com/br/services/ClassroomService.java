@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import books4u.com.br.dto.ClassroomDto;
+import books4u.com.br.dto.classroom.ClassroomDto;
 import books4u.com.br.entities.Classroom;
 import books4u.com.br.repositories.ClassroomRepository;
 

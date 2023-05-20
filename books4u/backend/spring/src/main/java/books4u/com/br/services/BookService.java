@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import books4u.com.br.dto.BookIsbnDto;
-import books4u.com.br.dto.ExistsIsbnDto;
+import books4u.com.br.dto.book.BookIsbnDto;
+import books4u.com.br.dto.book.ExistsIsbnDto;
 import books4u.com.br.repositories.BookRepository;
 
 @Service

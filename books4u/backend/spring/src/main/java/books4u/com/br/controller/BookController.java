@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import books4u.com.br.dto.BookIsbnDto;
-import books4u.com.br.dto.ExistsIsbnDto;
+import books4u.com.br.dto.book.BookIsbnDto;
+import books4u.com.br.dto.book.ExistsIsbnDto;
 import books4u.com.br.services.BookService;
 
 @RestController

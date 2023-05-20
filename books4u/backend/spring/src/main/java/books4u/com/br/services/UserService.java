@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import books4u.com.br.dto.LoggedDto;
-import books4u.com.br.dto.UserLoginDto;
+import books4u.com.br.dto.user.LoggedDto;
+import books4u.com.br.dto.user.UserLoginDto;
 import books4u.com.br.entities.User;
 import books4u.com.br.repositories.UserRepository;
 

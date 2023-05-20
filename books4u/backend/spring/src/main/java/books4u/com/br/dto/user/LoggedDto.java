@@ -1,4 +1,4 @@
-package books4u.com.br.dto;
+package books4u.com.br.dto.user;
 
 import java.io.Serializable;
 

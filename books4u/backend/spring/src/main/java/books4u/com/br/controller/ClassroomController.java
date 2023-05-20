@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import books4u.com.br.dto.ClassroomDto;
+import books4u.com.br.dto.classroom.ClassroomDto;
 import books4u.com.br.services.ClassroomService;
 
 @RestController
