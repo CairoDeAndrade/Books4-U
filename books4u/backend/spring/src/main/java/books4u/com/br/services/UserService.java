@@ -15,7 +15,7 @@ public class UserService {
 	@Autowired
 	private UserRepository repository;
 	
-	@Transactional
+	@Transactional(readOnly = true)
 	public LoggedDto login(UserLoginDto loginDto) {
 		LoggedDto logged = new LoggedDto(false);
 		User user = repository.findUserLogged(loginDto.getUserEmail(),
@@ -23,9 +23,6 @@ public class UserService {
 		
 		if (user != null) {
 			logged.setLogged(true);
-		}
-		else {
-			logged.setLogged(false);
 		}
 		
 		return logged;
