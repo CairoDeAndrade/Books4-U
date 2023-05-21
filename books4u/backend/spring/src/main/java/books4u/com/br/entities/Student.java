@@ -32,7 +32,7 @@ public class Student implements Serializable{
 	private Boolean status;
 		
 	@ManyToOne
-	@JoinColumn(name = "tb_classroom_idtb_classroom")
+	@JoinColumn(name = "classroom_id")
 	private Classroom classroom;
 	
 	@OneToMany(mappedBy = "student")

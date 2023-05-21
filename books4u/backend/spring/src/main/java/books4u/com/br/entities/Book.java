@@ -21,25 +21,25 @@ public class Book implements Serializable{
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long idBook;
-	private Integer copyBook;
-	private Long isbnBook;
-	private String nameBook;
-	private Boolean statusBook;
+	private Integer bookCopy;
+	private Long bookIsbn;
+	private String bookName;
+	private Boolean bookStatus;
 	
 	@ManyToOne
-	@JoinColumn(name = "tb_genre_idtb_genre")
+	@JoinColumn(name = "genre_id")
 	private Genre genre;
 	
 	@OneToOne
-	@JoinColumn(name = "tb_publishing_company_id_publishing_company")
+	@JoinColumn(name = "publishing_company_id")
 	private PublishingCompany publishingCompany;
 	
 	@ManyToOne
-	@JoinColumn(name = "tb_authors_id_authors")
+	@JoinColumn(name = "author_id")
 	private Author author;
 	
 	@ManyToOne
-	@JoinColumn(name = "tb_books_localization_id_books_localization")
+	@JoinColumn(name = "books_localization_id")
 	private BooksLocalization booksLocalization;
 	
 	@OneToOne(mappedBy = "book")
@@ -51,10 +51,10 @@ public class Book implements Serializable{
 	public Book(Long idBook, Integer copyBook, Long isbnBook, String nameBook, Boolean statusBook) {
 		super();
 		this.idBook = idBook;
-		this.copyBook = copyBook;
-		this.isbnBook = isbnBook;
-		this.nameBook = nameBook;
-		this.statusBook = statusBook;
+		this.bookCopy = copyBook;
+		this.bookIsbn = isbnBook;
+		this.bookName = nameBook;
+		this.bookStatus = statusBook;
 	}
 
 	public Long getIdBook() {
@@ -66,35 +66,35 @@ public class Book implements Serializable{
 	}
 
 	public Integer getCopyBook() {
-		return copyBook;
+		return bookCopy;
 	}
 
 	public void setCopyBook(Integer copyBook) {
-		this.copyBook = copyBook;
+		this.bookCopy = copyBook;
 	}
 
 	public Long getIsbnBook() {
-		return isbnBook;
+		return bookIsbn;
 	}
 
 	public void setIsbnBook(Long isbnBook) {
-		this.isbnBook = isbnBook;
+		this.bookIsbn = isbnBook;
 	}
 
 	public String getNameBook() {
-		return nameBook;
+		return bookName;
 	}
 
 	public void setNameBook(String nameBook) {
-		this.nameBook = nameBook;
+		this.bookName = nameBook;
 	}
 
 	public Boolean getStatusBook() {
-		return statusBook;
+		return bookStatus;
 	}
 
 	public void setStatusBook(Boolean statusBook) {
-		this.statusBook = statusBook;
+		this.bookStatus = statusBook;
 	}
 
 	public Genre getGenre() {
