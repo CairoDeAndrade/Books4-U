@@ -65,36 +65,36 @@ public class Book implements Serializable{
 		this.idBook = idBook;
 	}
 
-	public Integer getCopyBook() {
+	public Integer getBookCopy() {
 		return bookCopy;
 	}
 
-	public void setCopyBook(Integer copyBook) {
-		this.bookCopy = copyBook;
+	public void setBookCopy(Integer bookCopy) {
+		this.bookCopy = bookCopy;
 	}
 
-	public Long getIsbnBook() {
+	public Long getBookIsbn() {
 		return bookIsbn;
 	}
 
-	public void setIsbnBook(Long isbnBook) {
-		this.bookIsbn = isbnBook;
+	public void setBookIsbn(Long bookIsbn) {
+		this.bookIsbn = bookIsbn;
 	}
 
-	public String getNameBook() {
+	public String getBookName() {
 		return bookName;
 	}
 
-	public void setNameBook(String nameBook) {
-		this.bookName = nameBook;
+	public void setBookName(String bookName) {
+		this.bookName = bookName;
 	}
 
-	public Boolean getStatusBook() {
+	public Boolean getBookStatus() {
 		return bookStatus;
 	}
 
-	public void setStatusBook(Boolean statusBook) {
-		this.bookStatus = statusBook;
+	public void setBookStatus(Boolean bookStatus) {
+		this.bookStatus = bookStatus;
 	}
 
 	public Genre getGenre() {

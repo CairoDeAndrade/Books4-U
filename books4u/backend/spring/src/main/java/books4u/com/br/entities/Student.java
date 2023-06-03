@@ -24,12 +24,12 @@ public class Student implements Serializable{
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long idStudent;
-	private String studentName;
+	private String studentFullname;
 
 	
 	@Column(unique = true)
 	private Long studentEnrollment;
-	private Boolean status;
+	private Boolean studentStatus;
 		
 	@ManyToOne
 	@JoinColumn(name = "classroom_id")
@@ -44,9 +44,9 @@ public class Student implements Serializable{
 	public Student(Long idStudent, String studentName, Long studentEnrollment, Boolean status) {
 		super();
 		this.idStudent = idStudent;
-		this.studentName = studentName;
+		this.studentFullname = studentName;
 		this.studentEnrollment = studentEnrollment;
-		this.status = status;
+		this.studentStatus = status;
 	}
 
 	public Long getIdStudent() {
@@ -57,12 +57,12 @@ public class Student implements Serializable{
 		this.idStudent = idStudent;
 	}
 
-	public String getStudentName() {
-		return studentName;
+	public String getStudentFullname() {
+		return studentFullname;
 	}
 
-	public void setStudentName(String studentName) {
-		this.studentName = studentName;
+	public void setStudentFullname(String studentFullname) {
+		this.studentFullname = studentFullname;
 	}
 
 	public Long getStudentEnrollment() {
@@ -73,12 +73,12 @@ public class Student implements Serializable{
 		this.studentEnrollment = studentEnrollment;
 	}
 
-	public Boolean getStatus() {
-		return status;
+	public Boolean getStudentStatus() {
+		return studentStatus;
 	}
 
-	public void setStatus(Boolean status) {
-		this.status = status;
+	public void setStudentStatus(Boolean studentStatus) {
+		this.studentStatus = studentStatus;
 	}
 
 	public Classroom getClassroom() {

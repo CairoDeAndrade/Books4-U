@@ -18,7 +18,7 @@ public class UserService {
 	@Transactional(readOnly = true)
 	public LoggedDto login(UserLoginDto loginDto) {
 		LoggedDto logged = new LoggedDto(false);
-		User user = repository.findUserLogged(loginDto.getUserEmail(),
+		User user = repository.checkUserAuthentication(loginDto.getUserEmail(),
 				loginDto.getUserPassword());
 		
 		if (user != null) {

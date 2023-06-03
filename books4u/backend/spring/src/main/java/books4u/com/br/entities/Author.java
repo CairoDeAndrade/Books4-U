@@ -17,7 +17,7 @@ public class Author implements Serializable{
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Long idAuthors;
+	private Long idAuthor;
 	private String authorName;
 	private Boolean authorStatus;
 	
@@ -26,17 +26,17 @@ public class Author implements Serializable{
 	
 	public Author(Long idAuthors, String authorName, Boolean authorStatus) {
 		super();
-		this.idAuthors = idAuthors;
+		this.idAuthor = idAuthors;
 		this.authorName = authorName;
 		this.authorStatus = authorStatus;
 	}
 
-	public Long getIdAuthors() {
-		return idAuthors;
+	public Long getIdAuthor() {
+		return idAuthor;
 	}
 
-	public void setIdAuthors(Long idAuthors) {
-		this.idAuthors = idAuthors;
+	public void setIdAuthor(Long idAuthor) {
+		this.idAuthor = idAuthor;
 	}
 
 	public String getAuthorName() {
@@ -57,7 +57,7 @@ public class Author implements Serializable{
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(idAuthors);
+		return Objects.hash(idAuthor);
 	}
 
 	@Override
@@ -69,6 +69,6 @@ public class Author implements Serializable{
 		if (getClass() != obj.getClass())
 			return false;
 		Author other = (Author) obj;
-		return Objects.equals(idAuthors, other.idAuthors);
+		return Objects.equals(idAuthor, other.idAuthor);
 	}
 }

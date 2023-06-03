@@ -4,14 +4,14 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import books4u.com.br.entities.Book;
+import books4u.com.br.entities.Author;
 
 @Repository
-public interface BookRepository extends JpaRepository<Book, Long>{
+public interface AuthorRepository extends JpaRepository<Author, Long>{
 	
 	@Query(nativeQuery = true, value =
-			"SELECT * FROM book_hml.tb_books "
-			+ "WHERE book_isbn = :bookIsbn "
-			+ "ORDER BY book_copy DESC LIMIT 1")
-	Book findOneBookByIsbn(Long bookIsbn);
+			"SELECT * FROM book_hml.tb_authors "
+			+ "WHERE author_name = :name "
+			+ "LIMIT 1")
+	Author findOneAuthorByName(String name);
 }
