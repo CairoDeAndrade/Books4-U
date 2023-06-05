@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-image: url(Fundo.jpg);
+    background-size: 100%;
+}
+#quadrado{
+    width: 560px;
+    height: 420px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%
+}
+.inputUser{
+    margin-top: 10%;
+    position: absolute;
+    outline: none;
+    color: black;
+    font-size: 15px;
+    width: 94%;
+    height: 10%;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 2px 3px 7px black;
+}
+.btn{
+    margin-left: 18%;
+    padding: 10px;
+	width: 60%;
+	border-radius: 50px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	background: #007146;
+	cursor: pointer;
+    opacity: 0.5;
+    margin-top: 20%;
+    height: 50px;
+}
+.btn:hover{
+    opacity: 1;
+}
+.legenda{
+    font-size: 35px;
+    text-align: center;
+    color: #049760;
+    font-weight: bold;
+    text-shadow: 2px 1px 1px black;
+}
+input::placeholder{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+input{
+    background-color: #d3f1e6;
+}
