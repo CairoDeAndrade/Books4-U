@@ -1,12 +1,15 @@
 package books4u.com.br.services;
 
 import java.sql.SQLException;
+import java.util.List;
+import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import books4u.com.br.dto.book.BookCreatedDto;
+import books4u.com.br.dto.book.BookDto;
 import books4u.com.br.dto.book.BookInsertDto;
 import books4u.com.br.entities.Author;
 import books4u.com.br.entities.Book;
@@ -76,6 +79,11 @@ public class BookService {
 			created.setCreated(true);
 		}
 		return created;
+	}
+	
+	public List<BookDto> findTwentyBytwenty(Integer amount) {
+		List<Book> list = bookRepository.findTwentyBytwenty(amount);
+		return list.stream().map(x -> new BookDto(x)).collect(Collectors.toList());
 	}
 	
 	public static Book copyDtoToEntity(BookInsertDto dto, Book entity) {

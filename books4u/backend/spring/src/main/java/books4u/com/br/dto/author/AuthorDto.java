@@ -1,6 +1,7 @@
 package books4u.com.br.dto.author;
 
 import java.io.Serializable;
+import java.util.Objects;
 
 import books4u.com.br.entities.Author;
 
@@ -50,5 +51,22 @@ public class AuthorDto implements Serializable{
 
 	public void setStatus(Boolean status) {
 		this.status = status;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(id);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		AuthorDto other = (AuthorDto) obj;
+		return Objects.equals(id, other.id);
 	}
 }
