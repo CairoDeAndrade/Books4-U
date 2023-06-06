@@ -1,9 +1,8 @@
 package books4u.com.br.services;
 
-import java.util.List;
-import java.util.stream.Collectors;
-
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -25,10 +24,10 @@ public class GenreService {
 		entity = repository.save(entity);
 		return new GenreMinDto(entity);
 	}
-	
+
 	@Transactional(readOnly = true)
-	public List<GenreDto> findAll() {
-		List<Genre> entities = repository.findAll();
-		return entities.stream().map(x -> new GenreDto(x)).collect(Collectors.toList());
+	public Page<GenreDto> findAllPaged(Pageable pageable) {
+		Page<Genre> list = repository.findAll(pageable);
+		return list.map(user -> new GenreDto(user));
 	}
 }

@@ -1,6 +1,7 @@
 package books4u.com.br.dto.genre;
 
 import java.io.Serializable;
+import java.util.Objects;
 
 import books4u.com.br.entities.Genre;
 
@@ -39,5 +40,22 @@ public class GenreDto implements Serializable{
 
 	public void setName(String name) {
 		this.name = name;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(id);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		GenreDto other = (GenreDto) obj;
+		return Objects.equals(id, other.id);
 	}
 }
