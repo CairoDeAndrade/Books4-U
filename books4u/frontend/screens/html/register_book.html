@@ -8,18 +8,19 @@
     <title>Cadastrar Livro</title>
 </head>
 <body>
+    <br><br><br><br>
     <div id="quadrado">
         <form method="POST">
             <br>
             <legend class="legenda">Cadastrar Livro</legend>
                 <br>
-                <input type="text" name="isbn" id="isbn" class="inputUser" placeholder="ISBN:" required>
+                <input type="number" name="isbn" id="isbn" class="inputUser" placeholder="ISBN:" required>
                 <br><br>
                 <br><br>
                 <input type="text" name="titulo" id="titulo" class="inputUser" placeholder="Titulo:" >
                 <br><br>
                 <br><br>
-                <input type="text" name="genero" id="genero" class="inputUser"  placeholder="Gênero:" >
+                <select id="estante" class="js-select2" style='width: 200px;' ><option value='0'></option></select>
                 <br><br>
                 <br><br>
                 <input type="text" name="editora" id="editora" class="inputUser" placeholder="Editora:" >
@@ -28,7 +29,7 @@
                 <input type="text" name="autor" id="autor" class="inputUser" placeholder="Autor:" >
                 <br><br>
                 <br><br>
-                <input type="text" name="localizacao" id="localizacao" class="inputUser" placeholder="Localização:">
+                <!-- <select id="estante" class="js-select2" style='width: 200px;' ><option value='0'></option></select -->
                 <br><br>
                 <br><br>
                 <br>
