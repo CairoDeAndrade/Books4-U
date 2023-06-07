@@ -20,5 +20,5 @@ public interface BookRepository extends JpaRepository<Book, Long>{
 	@Query(nativeQuery = true, value =
 			"SELECT * FROM book_hml.tb_books "
 			+ "ORDER BY book_name ASC LIMIT :amount")
-	List<Book> findTwentyBytwenty(Integer amount);
+	List<Book> findAllDynamic(Integer amount);
 }

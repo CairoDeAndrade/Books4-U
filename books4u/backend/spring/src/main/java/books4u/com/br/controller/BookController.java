@@ -31,8 +31,8 @@ public class BookController {
 	}
 	
 	@GetMapping("/{amount}")
-	public ResponseEntity<List<BookDto>> findTwentyBytwenty(@PathVariable Integer amount){
-		List<BookDto> list = service.findTwentyBytwenty(amount);
+	public ResponseEntity<List<BookDto>> findAllDynamic(@PathVariable Integer amount){
+		List<BookDto> list = service.findAllDynamic(amount);
 		return ResponseEntity.ok().body(list);
 	}
 }

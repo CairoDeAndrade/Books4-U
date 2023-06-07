@@ -81,9 +81,12 @@ public class BookService {
 		return created;
 	}
 	
-	public List<BookDto> findTwentyBytwenty(Integer amount) {
-		List<Book> list = bookRepository.findTwentyBytwenty(amount);
-		return list.stream().map(x -> new BookDto(x)).collect(Collectors.toList());
+	public List<BookDto> findAllDynamic(Integer amount) {
+		List<Book> list = bookRepository.findAllDynamic(amount);
+		return list.stream().map(x -> new BookDto(
+				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
+				x.getBooksLocalization()))
+				.collect(Collectors.toList());
 	}
 	
 	public static Book copyDtoToEntity(BookInsertDto dto, Book entity) {
