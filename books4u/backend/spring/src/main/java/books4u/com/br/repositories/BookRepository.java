@@ -21,4 +21,6 @@ public interface BookRepository extends JpaRepository<Book, Long>{
 			"SELECT * FROM book_hml.tb_books "
 			+ "ORDER BY book_name ASC LIMIT :amount")
 	List<Book> findAllDynamic(Integer amount);
+	
+	List<Book> findByBookIsbn(Long bookIsbn);
 }

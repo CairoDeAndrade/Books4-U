@@ -38,6 +38,23 @@ public class BookService {
 	@Autowired
 	private BooksLocalizationRepository blRepository;
 	
+	
+	public List<BookDto> findAllDynamic(Integer amount) {
+		List<Book> list = bookRepository.findAllDynamic(amount);
+		return list.stream().map(x -> new BookDto(
+				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
+				x.getBooksLocalization()))
+				.collect(Collectors.toList());
+	}
+	
+	public List<BookDto> findByIsbn(Long isbn){
+		List<Book> list = bookRepository.findByBookIsbn(isbn);
+		return list.stream().map(x -> new BookDto(
+				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
+				x.getBooksLocalization()))
+				.collect(Collectors.toList()); 
+	}
+	
 	@Transactional
 	public BookCreatedDto insert(BookInsertDto dto) throws SQLException {
 		BookCreatedDto created = new BookCreatedDto(false);
@@ -79,14 +96,6 @@ public class BookService {
 			created.setCreated(true);
 		}
 		return created;
-	}
-	
-	public List<BookDto> findAllDynamic(Integer amount) {
-		List<Book> list = bookRepository.findAllDynamic(amount);
-		return list.stream().map(x -> new BookDto(
-				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
-				x.getBooksLocalization()))
-				.collect(Collectors.toList());
 	}
 	
 	public static Book copyDtoToEntity(BookInsertDto dto, Book entity) {

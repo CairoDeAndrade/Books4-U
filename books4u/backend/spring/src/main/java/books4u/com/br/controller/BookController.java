@@ -35,4 +35,10 @@ public class BookController {
 		List<BookDto> list = service.findAllDynamic(amount);
 		return ResponseEntity.ok().body(list);
 	}
+	
+	@GetMapping("/isbn/{isbn}")
+	public ResponseEntity<List<BookDto>> findByIsbn(@PathVariable Long isbn){
+		List<BookDto> list = service.findByIsbn(isbn);
+		return ResponseEntity.ok().body(list);
+	}
 }
