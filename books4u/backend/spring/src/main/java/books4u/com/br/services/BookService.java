@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+import javax.persistence.EntityNotFoundException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -13,6 +15,8 @@ import books4u.com.br.dto.book.BookDto;
 import books4u.com.br.dto.book.BookInsertDto;
 import books4u.com.br.entities.Author;
 import books4u.com.br.entities.Book;
+import books4u.com.br.entities.BooksLocalization;
+import books4u.com.br.entities.Genre;
 import books4u.com.br.entities.PublishingCompany;
 import books4u.com.br.repositories.AuthorRepository;
 import books4u.com.br.repositories.BookRepository;
@@ -39,7 +43,7 @@ public class BookService {
 	@Autowired
 	private BooksLocalizationRepository blRepository;
 	
-	
+	@Transactional(readOnly = true)
 	public List<BookDto> findAllDynamic(Integer amount) {
 		List<Book> list = bookRepository.findAllDynamic(amount);
 		return list.stream().map(x -> new BookDto(
@@ -48,6 +52,7 @@ public class BookService {
 				.collect(Collectors.toList());
 	}
 	
+	@Transactional(readOnly = true)
 	public BookDto findById(Long id) {
 		Optional<Book> obj = bookRepository.findById(id);
 		Book entity = obj.orElseThrow(() -> new ResourceNotFoundException("Entity not found"));
@@ -55,6 +60,7 @@ public class BookService {
 				entity.getAuthor(), entity.getBooksLocalization());
 	}
 	
+	@Transactional(readOnly = true)
 	public List<BookDto> findByIsbn(Long isbn){
 		List<Book> list = bookRepository.findByBookIsbn(isbn);
 		return list.stream().map(x -> new BookDto(
@@ -63,12 +69,28 @@ public class BookService {
 				.collect(Collectors.toList()); 
 	}
 	
+	@Transactional(readOnly = true)
 	public List<BookDto> findByName(String name){
 		List<Book> list = bookRepository.findByBookName(name);
 		return list.stream().map(x -> new BookDto(
 				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
 				x.getBooksLocalization()))
 				.collect(Collectors.toList()); 
+	}
+	
+	@Transactional
+	public BookDto update(Long id, BookDto dto) {
+		try {
+			Book entity = bookRepository.getReferenceById(id);
+			copyDtoToEntity(dto, entity);
+			genreRepository.save(entity.getGenre());
+			entity = bookRepository.save(entity);
+			return new BookDto(entity, entity.getGenre(), entity.getPublishingCompany(),
+					entity.getAuthor(), entity.getBooksLocalization());
+		}
+		catch (EntityNotFoundException e) {
+			throw new ResourceNotFoundException("Id not found: " + id);
+		}
 	}
 	
 	@Transactional
@@ -84,7 +106,7 @@ public class BookService {
 		}
 		else {	
 			Book newBook = new Book();
-			newBook = copyDtoToEntity(dto, newBook);
+			newBook = copyInsertDtoToEntity(dto, newBook);
 			
 			// drop down menu
 			newBook.setGenre(genreRepository.findOneGenreByName((dto.getGenreName())));
@@ -114,12 +136,28 @@ public class BookService {
 		return created;
 	}
 	
-	public static Book copyDtoToEntity(BookInsertDto dto, Book entity) {
+	public static Book copyInsertDtoToEntity(BookInsertDto dto, Book entity) {
 		entity.setBookCopy(dto.getBookCopy());
 		entity.setBookIsbn(dto.getBookIsbn());
 		entity.setBookName(dto.getBookName());
 		entity.setBookStatus(dto.getBookStatus());
 		return entity;
+	}
+	
+	public static void copyDtoToEntity(BookDto dto, Book entity) {
+		entity.setBookCopy(dto.getCopy());
+		entity.setBookIsbn(dto.getIsbn());
+		entity.setBookName(dto.getName());
+		entity.setBookStatus(dto.getStatus());
+		
+		entity.setGenre(new Genre(dto.getGenre().getId(), dto.getGenre().getName()));
+		entity.setPublishingCompany(new PublishingCompany(
+				dto.getPublishingComp().getId(), dto.getPublishingComp().getName()));
+		entity.setAuthor(new Author(dto.getAuthor().getId(), dto.getAuthor().getName(),
+				dto.getAuthor().getStatus()));
+		entity.setBooksLocalization(new BooksLocalization(
+				dto.getLocalization().getId(), dto.getLocalization().getBookcaseNumber(),
+				dto.getLocalization().getShelf()));
 	}
 	
 	public static Book copyBookToNewOne(Book book, Book newBook) {

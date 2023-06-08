@@ -55,9 +55,9 @@ public class BookController {
 		return ResponseEntity.ok().body(dto);
 	}
 	
-//	@PutMapping("/update/{id}")
-//	public ResponseEntity<BookDto> update(@PathVariable Long id, @RequestBody BookInsertDto dto){
-//		BookDto book = service.update(id, dto);
-//		return ResponseEntity.ok().body(book);
-//	}
+	@PutMapping("/update/{id}")
+	public ResponseEntity<BookDto> update(@PathVariable Long id, @RequestBody BookDto dto){
+		BookDto book = service.update(id, dto);
+		return ResponseEntity.ok().body(book);
+	}
 }
