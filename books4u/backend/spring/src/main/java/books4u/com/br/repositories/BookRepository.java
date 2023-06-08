@@ -23,4 +23,6 @@ public interface BookRepository extends JpaRepository<Book, Long>{
 	List<Book> findAllDynamic(Integer amount);
 	
 	List<Book> findByBookIsbn(Long bookIsbn);
+
+	List<Book> findByBookName(String name);
 }

@@ -1,7 +1,7 @@
 package books4u.com.br.services;
 
-import java.sql.SQLException;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,6 +19,7 @@ import books4u.com.br.repositories.BookRepository;
 import books4u.com.br.repositories.BooksLocalizationRepository;
 import books4u.com.br.repositories.GenreRepository;
 import books4u.com.br.repositories.PublishingCompanyRepository;
+import books4u.com.br.services.exceptions.ResourceNotFoundException;
 
 @Service
 public class BookService {
@@ -47,6 +48,13 @@ public class BookService {
 				.collect(Collectors.toList());
 	}
 	
+	public BookDto findById(Long id) {
+		Optional<Book> obj = bookRepository.findById(id);
+		Book entity = obj.orElseThrow(() -> new ResourceNotFoundException("Entity not found"));
+		return new BookDto(entity, entity.getGenre(), entity.getPublishingCompany(),
+				entity.getAuthor(), entity.getBooksLocalization());
+	}
+	
 	public List<BookDto> findByIsbn(Long isbn){
 		List<Book> list = bookRepository.findByBookIsbn(isbn);
 		return list.stream().map(x -> new BookDto(
@@ -55,8 +63,16 @@ public class BookService {
 				.collect(Collectors.toList()); 
 	}
 	
+	public List<BookDto> findByName(String name){
+		List<Book> list = bookRepository.findByBookName(name);
+		return list.stream().map(x -> new BookDto(
+				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
+				x.getBooksLocalization()))
+				.collect(Collectors.toList()); 
+	}
+	
 	@Transactional
-	public BookCreatedDto insert(BookInsertDto dto) throws SQLException {
+	public BookCreatedDto insert(BookInsertDto dto) {
 		BookCreatedDto created = new BookCreatedDto(false);
 		Book book = bookRepository.findOneBookByIsbn(dto.getBookIsbn());
 				
