@@ -7,6 +7,8 @@ import java.util.stream.Collectors;
 import javax.persistence.EntityNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -23,6 +25,7 @@ import books4u.com.br.repositories.BookRepository;
 import books4u.com.br.repositories.BooksLocalizationRepository;
 import books4u.com.br.repositories.GenreRepository;
 import books4u.com.br.repositories.PublishingCompanyRepository;
+import books4u.com.br.services.exceptions.DatabaseException;
 import books4u.com.br.services.exceptions.ResourceNotFoundException;
 
 @Service
@@ -135,6 +138,19 @@ public class BookService {
 			created.setCreated(true);
 		}
 		return created;
+	}
+
+	public Boolean delete(Long id) {
+		try {
+			bookRepository.deleteById(id);
+			return true;
+		}
+		catch (EmptyResultDataAccessException e) {
+			throw new ResourceNotFoundException("Id not found " + id);
+		}
+		catch (DataIntegrityViolationException e) {
+			throw new DatabaseException("Integrity violation");
+		}
 	}
 	
 	public static Book copyInsertDtoToEntity(BookInsertDto dto, Book entity) {
