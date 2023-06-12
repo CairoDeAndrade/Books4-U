@@ -83,7 +83,8 @@ public class BookService {
 		try {
 			Book entity = bookRepository.getReferenceById(id);
 			copyDtoToEntity(dto, entity);
-			genreRepository.save(entity.getGenre());
+			entity.setGenre(genreRepository.save(entity.getGenre()));
+			entity.setBooksLocalization(blRepository.save(entity.getBooksLocalization()));
 			entity = bookRepository.save(entity);
 			return new BookDto(entity, entity.getGenre(), entity.getPublishingCompany(),
 					entity.getAuthor(), entity.getBooksLocalization());
