@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 import books4u.com.br.dto.CreatedDto;
 import books4u.com.br.dto.student.StudentInsertDto;
+import books4u.com.br.dto.student.StudentSearchDto;
 import books4u.com.br.entities.Classroom;
 import books4u.com.br.entities.Student;
 import books4u.com.br.repositories.ClassRepository;
@@ -19,6 +20,16 @@ public class StudentService {
 	
 	@Autowired
 	private ClassRepository classRepository;
+
+	public StudentSearchDto findByEnrollment(Long enrollment) {
+		Student entity = repository.findByStudentEnrollment(enrollment);
+		return new StudentSearchDto(entity, entity.getClassroom());
+	}
+
+	public StudentSearchDto findByName(String name) {
+		Student entity = repository.findByStudentFullname(name);
+		return new StudentSearchDto(entity, entity.getClassroom());
+	}
 
 	public CreatedDto insert(StudentInsertDto dto) {
 		CreatedDto created = new CreatedDto(false);

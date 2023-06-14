@@ -4,12 +4,10 @@ import java.io.Serializable;
 import java.util.Objects;
 
 import books4u.com.br.dto.classroom.ClassroomDto;
-import books4u.com.br.dto.loan.LoanDto;
 import books4u.com.br.entities.Classroom;
-import books4u.com.br.entities.Loan;
 import books4u.com.br.entities.Student;
 
-public class StudentDto implements Serializable{
+public class StudentSearchDto implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
 	
@@ -19,12 +17,11 @@ public class StudentDto implements Serializable{
 	private Boolean status;
 	
 	private ClassroomDto classroom;
-	private LoanDto loan;
 	
-	public StudentDto() {
+	public StudentSearchDto() {
 	}
 
-	public StudentDto(Long id, String fullname, Long enrollment, Boolean status) {
+	public StudentSearchDto(Long id, String fullname, Long enrollment, Boolean status) {
 		super();
 		this.id = id;
 		this.fullname = fullname;
@@ -32,22 +29,16 @@ public class StudentDto implements Serializable{
 		this.status = status;
 	}
 	
-	public StudentDto(Student entity) {
+	public StudentSearchDto(Student entity) {
 		id = entity.getIdStudent();
 		fullname = entity.getStudentFullname();
 		enrollment = entity.getStudentEnrollment();
 		status = entity.getStudentStatus();
 	}
 	
-	public StudentDto(Student entity, Classroom classroom) {
+	public StudentSearchDto(Student entity, Classroom classroom) {
 		this(entity);
 		this.classroom = new ClassroomDto(classroom);
-	}
-	
-	public StudentDto(Student entity, Classroom classroom, Loan loan) {
-		this(entity);
-		this.classroom = new ClassroomDto(classroom);
-		this.loan = new LoanDto(loan);
 	}
 
 	public Long getId() {
@@ -90,14 +81,6 @@ public class StudentDto implements Serializable{
 		this.classroom = classroom;
 	}
 
-	public LoanDto getLoan() {
-		return loan;
-	}
-
-	public void setLoan(LoanDto loan) {
-		this.loan = loan;
-	}
-
 	@Override
 	public int hashCode() {
 		return Objects.hash(id);
@@ -111,7 +94,7 @@ public class StudentDto implements Serializable{
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		StudentDto other = (StudentDto) obj;
+		StudentSearchDto other = (StudentSearchDto) obj;
 		return Objects.equals(id, other.id);
 	}
 }

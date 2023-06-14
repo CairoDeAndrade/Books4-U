@@ -32,19 +32,19 @@ public class BookController {
 		return ResponseEntity.ok().body(list);
 	}
 	
-	@GetMapping("/search/id/{id}")
+	@GetMapping("/id={id}")
 	public ResponseEntity<BookDto> findById(@PathVariable Long id){
 		BookDto dto = service.findById(id);
 		return ResponseEntity.ok().body(dto);
 	}
 	
-	@GetMapping("/search/isbn/{isbn}")
+	@GetMapping("/isbn={isbn}")
 	public ResponseEntity<List<BookDto>> findByIsbn(@PathVariable Long isbn){
 		List<BookDto> list = service.findByIsbn(isbn);
 		return ResponseEntity.ok().body(list);
 	}
 	
-	@GetMapping("/search/name/{name}")
+	@GetMapping("/name={name}")
 	public ResponseEntity<List<BookDto>> findByName(@PathVariable String name){
 		List<BookDto> list = service.findByName(name);
 		return ResponseEntity.ok().body(list);
