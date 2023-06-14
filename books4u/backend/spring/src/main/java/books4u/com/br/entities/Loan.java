@@ -1,7 +1,6 @@
 package books4u.com.br.entities;
 
 import java.io.Serializable;
-import java.util.Date;
 import java.util.Objects;
 
 import javax.persistence.Entity;
@@ -22,8 +21,8 @@ public class Loan implements Serializable{
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long idLoan;
-	private Date loanStartDate;
-	private Date loanEndDate;
+	private Integer loanStartDate;
+	private Integer loanEndDate;
 	private Double loanPrice;
 	
 	@OneToOne
@@ -37,7 +36,7 @@ public class Loan implements Serializable{
 	public Loan() {
 	}
 
-	public Loan(Long idLoan, Date loanStartDate, Date loanEndDate, Double loanPrice) {
+	public Loan(Long idLoan, Integer loanStartDate, Integer loanEndDate, Double loanPrice) {
 		super();
 		this.idLoan = idLoan;
 		this.loanStartDate = loanStartDate;
@@ -53,19 +52,19 @@ public class Loan implements Serializable{
 		this.idLoan = idLoan;
 	}
 
-	public Date getLoanStartDate() {
+	public Integer getLoanStartDate() {
 		return loanStartDate;
 	}
 
-	public void setLoanStartDate(Date loanStartDate) {
+	public void setLoanStartDate(Integer loanStartDate) {
 		this.loanStartDate = loanStartDate;
 	}
 
-	public Date getLoanEndDate() {
+	public Integer getLoanEndDate() {
 		return loanEndDate;
 	}
 
-	public void setLoanEndDate(Date loanEndDate) {
+	public void setLoanEndDate(Integer loanEndDate) {
 		this.loanEndDate = loanEndDate;
 	}
 

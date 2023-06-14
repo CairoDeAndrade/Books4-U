@@ -21,7 +21,7 @@ public class BookDto {
 	private Boolean status;
 	
 	private GenreDto genre;
-	private PublishingCompanyDto publishingComp;
+	private PublishingCompanyDto publishingCompany;
 	private AuthorDto author;
 	private BooksLocalizationDto localization;
 	
@@ -49,7 +49,7 @@ public class BookDto {
 			Author author, BooksLocalization localization) {
 		this(entity);
 		this.genre = new GenreDto(genre);
-		this.publishingComp = new PublishingCompanyDto(publishingComp);
+		this.publishingCompany = new PublishingCompanyDto(publishingComp);
 		this.author = new AuthorDto(author);
 		this.localization = new BooksLocalizationDto(localization);
 	}
@@ -102,12 +102,12 @@ public class BookDto {
 		this.genre = genre;
 	}
 
-	public PublishingCompanyDto getPublishingComp() {
-		return publishingComp;
+	public PublishingCompanyDto getPublishingCompany() {
+		return publishingCompany;
 	}
 
-	public void setPublishingComp(PublishingCompanyDto publishingComp) {
-		this.publishingComp = publishingComp;
+	public void setPublishingCompany(PublishingCompanyDto publishingComp) {
+		this.publishingCompany = publishingComp;
 	}
 
 	public AuthorDto getAuthor() {

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import books4u.com.br.dto.book.BookCreatedDto;
+import books4u.com.br.dto.CreatedDto;
 import books4u.com.br.dto.book.BookDeletedDto;
 import books4u.com.br.dto.book.BookDto;
 import books4u.com.br.dto.book.BookInsertDto;
@@ -52,8 +52,8 @@ public class BookController {
 	
 	
 	@PostMapping("/insert")
-	public ResponseEntity<BookCreatedDto> insert(@RequestBody BookInsertDto bookDto){
-		BookCreatedDto dto = service.insert(bookDto);
+	public ResponseEntity<CreatedDto> insert(@RequestBody BookInsertDto bookDto){
+		CreatedDto dto = service.insert(bookDto);
 		return ResponseEntity.ok().body(dto);
 	}
 	
@@ -63,7 +63,7 @@ public class BookController {
 		return ResponseEntity.ok().body(book);
 	}
 	
-	@DeleteMapping("delete/{id}")
+	@DeleteMapping("/delete/{id}")
 	public ResponseEntity<BookDeletedDto> delete(@PathVariable Long id){
 		BookDeletedDto deleted = new BookDeletedDto(service.delete(id));
 		return ResponseEntity.ok().body(deleted);

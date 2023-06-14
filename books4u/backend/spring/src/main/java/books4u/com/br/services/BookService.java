@@ -12,7 +12,7 @@ import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import books4u.com.br.dto.book.BookCreatedDto;
+import books4u.com.br.dto.CreatedDto;
 import books4u.com.br.dto.book.BookDto;
 import books4u.com.br.dto.book.BookInsertDto;
 import books4u.com.br.entities.Author;
@@ -82,24 +82,8 @@ public class BookService {
 	}
 	
 	@Transactional
-	public BookDto update(Long id, BookDto dto) {
-		try {
-			Book entity = bookRepository.getReferenceById(id);
-			copyDtoToEntity(dto, entity);
-			entity.setGenre(genreRepository.save(entity.getGenre()));
-			entity.setBooksLocalization(blRepository.save(entity.getBooksLocalization()));
-			entity = bookRepository.save(entity);
-			return new BookDto(entity, entity.getGenre(), entity.getPublishingCompany(),
-					entity.getAuthor(), entity.getBooksLocalization());
-		}
-		catch (EntityNotFoundException e) {
-			throw new ResourceNotFoundException("Id not found: " + id);
-		}
-	}
-	
-	@Transactional
-	public BookCreatedDto insert(BookInsertDto dto) {
-		BookCreatedDto created = new BookCreatedDto(false);
+	public CreatedDto insert(BookInsertDto dto) {
+		CreatedDto created = new CreatedDto(false);
 		Book book = bookRepository.findOneBookByIsbn(dto.getBookIsbn());
 				
 		if (book != null) {
@@ -139,6 +123,22 @@ public class BookService {
 		}
 		return created;
 	}
+	
+	@Transactional
+	public BookDto update(Long id, BookDto dto) {
+		try {
+			Book entity = bookRepository.getReferenceById(id);
+			copyDtoToEntity(dto, entity);
+			entity.setGenre(genreRepository.save(entity.getGenre()));
+			entity.setBooksLocalization(blRepository.save(entity.getBooksLocalization()));
+			entity = bookRepository.save(entity);
+			return new BookDto(entity, entity.getGenre(), entity.getPublishingCompany(),
+					entity.getAuthor(), entity.getBooksLocalization());
+		}
+		catch (EntityNotFoundException e) {
+			throw new ResourceNotFoundException("Id not found: " + id);
+		}
+	}
 
 	public Boolean delete(Long id) {
 		try {
@@ -169,7 +169,7 @@ public class BookService {
 		
 		entity.setGenre(new Genre(dto.getGenre().getId(), dto.getGenre().getName()));
 		entity.setPublishingCompany(new PublishingCompany(
-				dto.getPublishingComp().getId(), dto.getPublishingComp().getName()));
+				dto.getPublishingCompany().getId(), dto.getPublishingCompany().getName()));
 		entity.setAuthor(new Author(dto.getAuthor().getId(), dto.getAuthor().getName(),
 				dto.getAuthor().getStatus()));
 		entity.setBooksLocalization(new BooksLocalization(

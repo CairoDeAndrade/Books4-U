@@ -6,13 +6,13 @@ import org.springframework.transaction.annotation.Transactional;
 
 import books4u.com.br.dto.classroom.ClassroomInsertDto;
 import books4u.com.br.entities.Classroom;
-import books4u.com.br.repositories.ClassroomRepository;
+import books4u.com.br.repositories.ClassRepository;
 
 @Service
 public class ClassroomService {
 	
 	@Autowired
-	private ClassroomRepository repository;
+	private ClassRepository repository;
 	
 	@Transactional
 	public ClassroomInsertDto insert(ClassroomInsertDto dto) {
