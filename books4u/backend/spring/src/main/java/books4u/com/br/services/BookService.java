@@ -13,6 +13,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import books4u.com.br.dto.CreatedDto;
+import books4u.com.br.dto.UpdatedDto;
 import books4u.com.br.dto.book.BookDto;
 import books4u.com.br.dto.book.BookInsertDto;
 import books4u.com.br.entities.Author;
@@ -125,15 +126,14 @@ public class BookService {
 	}
 	
 	@Transactional
-	public BookDto update(Long id, BookDto dto) {
+	public UpdatedDto update(Long id, BookDto dto) {
 		try {
 			Book entity = bookRepository.getReferenceById(id);
 			copyDtoToEntity(dto, entity);
 			entity.setGenre(genreRepository.save(entity.getGenre()));
 			entity.setBooksLocalization(blRepository.save(entity.getBooksLocalization()));
 			entity = bookRepository.save(entity);
-			return new BookDto(entity, entity.getGenre(), entity.getPublishingCompany(),
-					entity.getAuthor(), entity.getBooksLocalization());
+			return new UpdatedDto(true);
 		}
 		catch (EntityNotFoundException e) {
 			throw new ResourceNotFoundException("Id not found: " + id);
