@@ -1,13 +1,13 @@
-package books4u.com.br.dto.book;
+package books4u.com.br.dto;
 
-public class BookDeletedDto {
+public class DeletedDto {
 	
 	private Boolean deleted;
 	
-	public BookDeletedDto() {
+	public DeletedDto() {
 	}
 
-	public BookDeletedDto(Boolean deleted) {
+	public DeletedDto(Boolean deleted) {
 		super();
 		this.deleted = deleted;
 	}

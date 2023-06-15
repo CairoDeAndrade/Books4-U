@@ -1,10 +1,10 @@
 package books4u.com.br.dto.student;
 
 import java.io.Serializable;
+import java.util.List;
 import java.util.Objects;
 
 import books4u.com.br.dto.classroom.ClassroomDto;
-import books4u.com.br.dto.loan.LoanDto;
 import books4u.com.br.entities.Classroom;
 import books4u.com.br.entities.Loan;
 import books4u.com.br.entities.Student;
@@ -19,7 +19,6 @@ public class StudentDto implements Serializable{
 	private Boolean status;
 	
 	private ClassroomDto classroom;
-	private LoanDto loan;
 	
 	public StudentDto() {
 	}
@@ -44,10 +43,9 @@ public class StudentDto implements Serializable{
 		this.classroom = new ClassroomDto(classroom);
 	}
 	
-	public StudentDto(Student entity, Classroom classroom, Loan loan) {
+	public StudentDto(Student entity, Classroom classroom, List<Loan> loans) {
 		this(entity);
 		this.classroom = new ClassroomDto(classroom);
-		this.loan = new LoanDto(loan);
 	}
 
 	public Long getId() {
@@ -88,14 +86,6 @@ public class StudentDto implements Serializable{
 
 	public void setClassroom(ClassroomDto classroom) {
 		this.classroom = classroom;
-	}
-
-	public LoanDto getLoan() {
-		return loan;
-	}
-
-	public void setLoan(LoanDto loan) {
-		this.loan = loan;
 	}
 
 	@Override

@@ -7,7 +7,7 @@ import books4u.com.br.dto.classroom.ClassroomDto;
 import books4u.com.br.entities.Classroom;
 import books4u.com.br.entities.Student;
 
-public class StudentSearchDto implements Serializable{
+public class StudentWithClassDto implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
 	
@@ -18,10 +18,10 @@ public class StudentSearchDto implements Serializable{
 	
 	private ClassroomDto classroom;
 	
-	public StudentSearchDto() {
+	public StudentWithClassDto() {
 	}
 
-	public StudentSearchDto(Long id, String fullname, Long enrollment, Boolean status) {
+	public StudentWithClassDto(Long id, String fullname, Long enrollment, Boolean status) {
 		super();
 		this.id = id;
 		this.fullname = fullname;
@@ -29,14 +29,14 @@ public class StudentSearchDto implements Serializable{
 		this.status = status;
 	}
 	
-	public StudentSearchDto(Student entity) {
+	public StudentWithClassDto(Student entity) {
 		id = entity.getIdStudent();
 		fullname = entity.getStudentFullname();
 		enrollment = entity.getStudentEnrollment();
 		status = entity.getStudentStatus();
 	}
 	
-	public StudentSearchDto(Student entity, Classroom classroom) {
+	public StudentWithClassDto(Student entity, Classroom classroom) {
 		this(entity);
 		this.classroom = new ClassroomDto(classroom);
 	}
@@ -94,7 +94,7 @@ public class StudentSearchDto implements Serializable{
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		StudentSearchDto other = (StudentSearchDto) obj;
+		StudentWithClassDto other = (StudentWithClassDto) obj;
 		return Objects.equals(id, other.id);
 	}
 }

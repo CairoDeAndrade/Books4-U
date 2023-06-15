@@ -1,11 +1,15 @@
 package books4u.com.br.services;
 
+import javax.persistence.EntityNotFoundException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import books4u.com.br.dto.CreatedDto;
+import books4u.com.br.dto.UpdatedDto;
+import books4u.com.br.dto.student.StudentDto;
 import books4u.com.br.dto.student.StudentInsertDto;
-import books4u.com.br.dto.student.StudentSearchDto;
+import books4u.com.br.dto.student.StudentWithClassDto;
 import books4u.com.br.entities.Classroom;
 import books4u.com.br.entities.Student;
 import books4u.com.br.repositories.ClassRepository;
@@ -21,14 +25,14 @@ public class StudentService {
 	@Autowired
 	private ClassRepository classRepository;
 
-	public StudentSearchDto findByEnrollment(Long enrollment) {
+	public StudentWithClassDto findByEnrollment(Long enrollment) {
 		Student entity = repository.findByStudentEnrollment(enrollment);
-		return new StudentSearchDto(entity, entity.getClassroom());
+		return new StudentWithClassDto(entity, entity.getClassroom());
 	}
 
-	public StudentSearchDto findByName(String name) {
+	public StudentWithClassDto findByName(String name) {
 		Student entity = repository.findByStudentFullname(name);
-		return new StudentSearchDto(entity, entity.getClassroom());
+		return new StudentWithClassDto(entity, entity.getClassroom());
 	}
 
 	public CreatedDto insert(StudentInsertDto dto) {
@@ -36,7 +40,7 @@ public class StudentService {
 		Classroom classroom = classRepository.findByClassroomYear(dto.getClassroomNumber());
 		if (classroom != null) {
 			Student entity = new Student();
-			copyDtoToEntity(dto, entity);
+			copyInsertDtoToEntity(dto, entity);
 			entity.setClassroom(classroom);
 			entity = repository.save(entity);
 			created.setCreated(true);
@@ -47,10 +51,32 @@ public class StudentService {
 		return created;
 	}
 	
-	public static void copyDtoToEntity(StudentInsertDto dto, Student entity) {
+	public UpdatedDto update(Long id, StudentDto dto) {
+		try {
+			Student entity = new Student();
+			copyDtoToEntity(dto, entity);
+			entity.setClassroom(classRepository.save(entity.getClassroom()));
+			entity = repository.save(entity);
+			return new UpdatedDto(true);
+		}
+		catch (EntityNotFoundException e) {
+			throw new ResourceNotFoundException("Id not found: " + id);
+		}
+	}
+	
+	public static void copyInsertDtoToEntity(StudentInsertDto dto, Student entity) {
 		entity.setIdStudent(dto.getId());
 		entity.setStudentFullname(dto.getFullname());
 		entity.setStudentEnrollment(dto.getEnrollment());
 		entity.setStudentStatus(dto.getStatus());
+	}
+	
+	public static void copyDtoToEntity(StudentDto dto, Student entity) {
+		entity.setIdStudent(dto.getId());
+		entity.setStudentFullname(dto.getFullname());
+		entity.setStudentEnrollment(dto.getEnrollment());
+		entity.setStudentStatus(dto.getStatus());
+		entity.setClassroom(new Classroom(dto.getClassroom().getId(), dto.getClassroom().getYear(),
+				dto.getClassroom().getShift(), dto.getClassroom().getStatus()));
 	}
 }
