@@ -3,6 +3,8 @@ package books4u.com.br.services;
 import javax.persistence.EntityNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
 
 import books4u.com.br.dto.CreatedDto;
@@ -14,6 +16,7 @@ import books4u.com.br.entities.Classroom;
 import books4u.com.br.entities.Student;
 import books4u.com.br.repositories.ClassRepository;
 import books4u.com.br.repositories.StudentRepository;
+import books4u.com.br.services.exceptions.DatabaseException;
 import books4u.com.br.services.exceptions.ResourceNotFoundException;
 
 @Service
@@ -61,6 +64,19 @@ public class StudentService {
 		}
 		catch (EntityNotFoundException e) {
 			throw new ResourceNotFoundException("Id not found: " + id);
+		}
+	}
+	
+	public Boolean delete(Long id) {
+		try {
+			repository.deleteById(id);
+			return true;
+		}
+		catch (EmptyResultDataAccessException e) {
+			throw new ResourceNotFoundException("Id not found " + id);
+		}
+		catch (DataIntegrityViolationException e) {
+			throw new DatabaseException("Integrity violation");
 		}
 	}
 	

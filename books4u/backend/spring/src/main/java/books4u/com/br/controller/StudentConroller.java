@@ -2,6 +2,7 @@ package books4u.com.br.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -11,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import books4u.com.br.dto.CreatedDto;
+import books4u.com.br.dto.DeletedDto;
 import books4u.com.br.dto.UpdatedDto;
 import books4u.com.br.dto.student.StudentDto;
 import books4u.com.br.dto.student.StudentInsertDto;
@@ -46,5 +48,11 @@ public class StudentConroller {
 	public ResponseEntity<UpdatedDto> update(@PathVariable Long id, @RequestBody StudentDto dto){
 		UpdatedDto updated = service.update(id, dto);
 		return ResponseEntity.ok().body(updated);
+	}
+	
+	@DeleteMapping("/delete/{id}")
+	public ResponseEntity<DeletedDto> delete(@PathVariable Long id){
+		DeletedDto deleted = new DeletedDto(service.delete(id));
+		return ResponseEntity.ok().body(deleted);
 	}
 }
