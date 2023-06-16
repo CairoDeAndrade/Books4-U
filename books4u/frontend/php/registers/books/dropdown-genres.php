@@ -13,7 +13,7 @@
 		$data = array();
 		while ($row = mysqli_fetch_assoc($sql)) {
 			$data[] = array(
-				'genreId' => $row['id_genre'],
+				'genreId' => $row['genre_name'],
 				'genreName' => $row['genre_name']
 			);
 		}

@@ -10,17 +10,17 @@
 <body>
     <br><br><br><br>
     <div id="quadrado">
-        <form method="POST">
+        <form method="POST" action="http://localhost:80/books4u/frontend/php/registers/books/register-meeting.php">
             <br>
             <legend class="legenda">Cadastrar Livro</legend>
                 <br>
-                <input type="number" name="isbn" id="isbn" class="inputUser" placeholder="ISBN:" required>
+                <input type="text" name="isbn" id="isbn" class="inputUser" placeholder="ISBN:" required maxlength="13">
                 <br><br>
                 <br><br>
                 <input type="text" name="titulo" id="titulo" class="inputUser" placeholder="Titulo:" >
                 <br><br>
                 <br><br>
-                <select id="estante" class="js-select2" style='width: 200px;' ><option value='0'></option></select>
+                <select id="estante" class="genero" style='width: 200px;' name="genero"><option value='0'></option></select>
                 <br><br>
                 <br><br>
                 <input type="text" name="editora" id="editora" class="inputUser" placeholder="Editora:" >
@@ -29,10 +29,11 @@
                 <input type="text" name="autor" id="autor" class="inputUser" placeholder="Autor:" >
                 <br><br>
                 <br><br>
-                <!-- <select id="estante" class="js-select2" style='width: 200px;' ><option value='0'></option></select -->
+                <input id="estante" class="inputUser" name="estante" placeholder="Estante:">
                 <br><br>
                 <br><br>
-                <br>
+                <input type="text" class="inputUser" id="prateleira" name="prateleira" placeholder="Prateleira:">
+                <br><br><br>
                 <input type="submit" class="btn" name="submit" id="submit" value="Cadastrar">
         </form>
     </div>
