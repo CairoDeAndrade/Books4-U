@@ -115,9 +115,13 @@ public class BookService {
 				newBook.setPublishingCompany(pc);
 			}
 			
-			// drop down menu
 			newBook.setBooksLocalization(blRepository.findLocalization(
 					dto.getBookcaseNumber(), dto.getShelf()));
+			if (newBook.getBooksLocalization() == null) {
+				BooksLocalization bl = new BooksLocalization(null, dto.getBookcaseNumber(), dto.getShelf());
+				bl = blRepository.save(bl);
+				newBook.setBooksLocalization(bl);
+			}
 			
 			newBook = bookRepository.save(newBook);
 			created.setCreated(true);
