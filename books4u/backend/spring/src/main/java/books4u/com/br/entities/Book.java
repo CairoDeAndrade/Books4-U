@@ -25,6 +25,7 @@ public class Book implements Serializable{
 	private Long bookIsbn;
 	private String bookName;
 	private Boolean bookStatus;
+	private Boolean bookBorrowed;
 	
 	@ManyToOne
 	@JoinColumn(name = "genre_id")
@@ -48,13 +49,14 @@ public class Book implements Serializable{
 	public Book() {
 	}
 
-	public Book(Long idBook, Integer copyBook, Long isbnBook, String nameBook, Boolean statusBook) {
+	public Book(Long idBook, Integer copyBook, Long isbnBook, String nameBook, Boolean statusBook, Boolean bookBorrowed) {
 		super();
 		this.idBook = idBook;
 		this.bookCopy = copyBook;
 		this.bookIsbn = isbnBook;
 		this.bookName = nameBook;
 		this.bookStatus = statusBook;
+		this.bookBorrowed = bookBorrowed;
 	}
 
 	public Long getIdBook() {
@@ -95,6 +97,14 @@ public class Book implements Serializable{
 
 	public void setBookStatus(Boolean bookStatus) {
 		this.bookStatus = bookStatus;
+	}
+
+	public Boolean getBookBorrowed() {
+		return bookBorrowed;
+	}
+
+	public void setBookBorrowed(Boolean bookBorrowed) {
+		this.bookBorrowed = bookBorrowed;
 	}
 
 	public Genre getGenre() {

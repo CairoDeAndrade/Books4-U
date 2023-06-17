@@ -162,6 +162,7 @@ public class BookService {
 		entity.setBookIsbn(dto.getBookIsbn());
 		entity.setBookName(dto.getBookName());
 		entity.setBookStatus(dto.getBookStatus());
+		entity.setBookBorrowed(false);
 		return entity;
 	}
 	
@@ -170,6 +171,7 @@ public class BookService {
 		entity.setBookIsbn(dto.getIsbn());
 		entity.setBookName(dto.getName());
 		entity.setBookStatus(dto.getStatus());
+		entity.setBookBorrowed(dto.getBorrowed());
 		
 		entity.setGenre(new Genre(dto.getGenre().getId(), dto.getGenre().getName()));
 		entity.setPublishingCompany(new PublishingCompany(
@@ -186,6 +188,7 @@ public class BookService {
 		newBook.setBookIsbn(book.getBookIsbn());
 		newBook.setBookName(book.getBookName());
 		newBook.setBookStatus(book.getBookStatus());
+		newBook.setBookBorrowed(book.getBookBorrowed());
 		
 		newBook.setGenre(book.getGenre());
 		newBook.setPublishingCompany(book.getPublishingCompany());

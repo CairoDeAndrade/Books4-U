@@ -1,5 +1,6 @@
 package books4u.com.br.dto.book;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 import books4u.com.br.dto.author.AuthorDto;
@@ -12,13 +13,16 @@ import books4u.com.br.entities.BooksLocalization;
 import books4u.com.br.entities.Genre;
 import books4u.com.br.entities.PublishingCompany;
 
-public class BookDto {
+public class BookDto implements Serializable{
+
+	private static final long serialVersionUID = 1L;
 	
 	private Long id;
 	private Integer copy;
 	private Long isbn;
 	private String name;
 	private Boolean status;
+	private Boolean borrowed;
 	
 	private GenreDto genre;
 	private PublishingCompanyDto publishingCompany;
@@ -28,13 +32,14 @@ public class BookDto {
 	public BookDto() {
 	}
 
-	public BookDto(Long id, Integer copy, Long isbn, String name, Boolean status) {
+	public BookDto(Long id, Integer copy, Long isbn, String name, Boolean status, Boolean borrowed) {
 		super();
 		this.id = id;
 		this.copy = copy;
 		this.isbn = isbn;
 		this.name = name;
 		this.status = status;
+		this.borrowed = borrowed;
 	}
 	
 	public BookDto(Book entity) {
@@ -43,6 +48,7 @@ public class BookDto {
 		isbn = entity.getBookIsbn();
 		name = entity.getBookName();
 		status = entity.getBookStatus();
+		borrowed = entity.getBookBorrowed();
 	}
 	
 	public BookDto(Book entity, Genre genre, PublishingCompany publishingComp, 
@@ -92,6 +98,14 @@ public class BookDto {
 
 	public void setStatus(Boolean status) {
 		this.status = status;
+	}
+
+	public Boolean getBorrowed() {
+		return borrowed;
+	}
+
+	public void setBorrowed(Boolean borrowed) {
+		this.borrowed = borrowed;
 	}
 
 	public GenreDto getGenre() {
