@@ -11,10 +11,11 @@
     <title>Livros</title>
 </head>
 <style>
+    
     body {
-    background-color: #f1f1f1;
-    font-family: Arial, sans-serif;
-  }
+        font-family: Arial, sans-serif;
+        background-image: url('http://26.155.119.91/books4u/frontend/designs/Fundo%20Sistema.jpg');
+    }
   
   h1 {
     text-align: center;
@@ -24,19 +25,24 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 150px;
+    max-width: 70%;
+    margin-left: 15%;
+    background-color: white;
   }
   
   .book {
-    margin: 10px;
+    margin-top: 5%;
     width: 200px;
     text-align: center;
-    background-color: #049760;
+    color: #049760;
+    cursor: pointer;
   }
   
   .book svg {
-    width: 150px;
-    height: 200px;
+    width: 125px;
+    height: 175px;
+    color: black;
   }
   
   .book span {
@@ -44,12 +50,32 @@
     margin-top: 10px;
     font-size: 14px;
     font-weight: bold;
+    color: black;
+  }
+
+  .search{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+    margin-top: 1%;
   }
 </style>
 <body>
     <div class="book-container">
+    <div class="search">
+        <div class="input-group mb-3">
+            <form method="POST">
+                <input type="text" class="form-control" name="valueBook" placeholder="Digite o Livro ou ISBN..." aria-label="Recipient's username" aria-describedby="basic-addon2">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" name="btnSearch" type="submit"  style="background-color: #049760; color: white;">Buscar</button>
+                    </div>
+            </form>
+        </div>
+    </div>
         <?php 
-            session_start();
+            include_once('C:/xampp/htdocs/books4u/frontend/screens/html/navbar.html');
+            
             if(isset($_SESSION['deleted']) && $_SESSION['deleted'] === true){
                 ?>
                         <script>
@@ -82,35 +108,109 @@
                 <?php 
                 unset($_SESSION['updated']);  
             }
-            $url = file_get_contents('http://26.2.87.114:8080/books/20');
-            $json = json_decode($url);
+            if(isset($_POST['btnSearch'])){
+                if(is_numeric($_POST['valueBook'])){
+                    $isbn = $_POST['valueBook'];
+                    $url = file_get_contents('http://26.2.87.114:8080/books/isbn='.$isbn);
+                    $json = json_decode($url);
+        
+                    
+                    foreach($json as $key => $data){
+                            $array = array(
+                                'id' => $data->id,
+                                'copy' =>$data->copy,
+                                'isbn' =>$data->isbn,
+                                'bookName' => $data->name,
+                                'bookStatus' =>$data->status,
+                                'genreId' =>$data->genre->id,
+                                'genreName' =>$data->genre->name,
+                                'publishingCompanyId' =>$data->publishingCompany->id,
+                                'publishingCompany' => $data->publishingCompany->name,
+                                'authorId' =>$data->author->id,
+                                'authorName' =>$data->author->name,
+                                'localizationId' =>$data->localization->id,
+                                'bookCase' => $data->localization->bookcaseNumber,
+                                'shelf' => $data->localization->shelf
+                            );
+                            $json = json_encode($array);
+                        ?>
+                        <div class="book" value=" <?php echo $data->id ?>" onclick='openModal(<?php echo $json ?>)'>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                                <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+                            </svg>
+                            <span><?php echo $data->name ?></span>
+                        </div>
+                        <?php
+                    }
+                
+                }else{
+                    $bookNamePost = $_POST['valueBook'];
+                    $bookName = str_replace(" ", "%20", $bookNamePost);
+                    $url = file_get_contents('http://26.2.87.114:8080/books/name='.$bookName);
+                    $json = json_decode($url);
+        
+                    
+                    foreach($json as $key => $data){
+                            $array = array(
+                                'id' => $data->id,
+                                'copy' =>$data->copy,
+                                'isbn' =>$data->isbn,
+                                'bookName' => $data->name,
+                                'bookStatus' =>$data->status,
+                                'genreId' =>$data->genre->id,
+                                'genreName' =>$data->genre->name,
+                                'publishingCompanyId' =>$data->publishingCompany->id,
+                                'publishingCompany' => $data->publishingCompany->name,
+                                'authorId' =>$data->author->id,
+                                'authorName' =>$data->author->name,
+                                'localizationId' =>$data->localization->id,
+                                'bookCase' => $data->localization->bookcaseNumber,
+                                'shelf' => $data->localization->shelf
+                            );
+                            $json = json_encode($array);
+                        ?>
+                        <div class="book" value=" <?php echo $data->id ?>" onclick='openModal(<?php echo $json ?>)'>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                                <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+                            </svg>
+                            <span><?php echo $data->name ?></span>
+                        </div>
+                        <?php
+                    }
+                }
+            
+            }else{
+                $url = file_get_contents('http://26.2.87.114:8080/books/20');
+                $json = json_decode($url);
 
-            foreach($json as $key=> $data){
-                    $array = array(
-                        'id' => $data->id,
-                        'copy' =>$data->copy,
-                        'isbn' =>$data->isbn,
-                        'bookName' => $data->name,
-                        'bookStatus' =>$data->status,
-                        'genreId' =>$data->genre->id,
-                        'genreName' =>$data->genre->name,
-                        'publishingCompanyId' =>$data->publishingCompany->id,
-                        'publishingCompany' => $data->publishingCompany->name,
-                        'authorId' =>$data->author->id,
-                        'authorName' =>$data->author->name,
-                        'localizationId' =>$data->localization->id,
-                        'bookCase' => $data->localization->bookcaseNumber,
-                        'shelf' => $data->localization->shelf
-                    );
-                    $json = json_encode($array);
-                ?>
-                <div class="book" value=" <?php echo $data->id ?>" onclick='openModal(<?php echo $json ?>)'>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
-                        <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
-                    </svg>
-                    <span><?php echo $data->name ?></span>
-                </div>
-                <?php
+                
+                foreach($json as $key=> $data){
+                        $array = array(
+                            'id' => $data->id,
+                            'copy' =>$data->copy,
+                            'isbn' =>$data->isbn,
+                            'bookName' => $data->name,
+                            'bookStatus' =>$data->status,
+                            'genreId' =>$data->genre->id,
+                            'genreName' =>$data->genre->name,
+                            'publishingCompanyId' =>$data->publishingCompany->id,
+                            'publishingCompany' => $data->publishingCompany->name,
+                            'authorId' =>$data->author->id,
+                            'authorName' =>$data->author->name,
+                            'localizationId' =>$data->localization->id,
+                            'bookCase' => $data->localization->bookcaseNumber,
+                            'shelf' => $data->localization->shelf
+                        );
+                        $json = json_encode($array);
+                    ?>
+                    <div class="book" value=" <?php echo $data->id ?>" onclick='openModal(<?php echo $json ?>)'>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                            <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+                        </svg>
+                        <span><?php echo $data->name ?></span>
+                    </div>
+                    <?php
+                }
             }
         ?>
       </div> 
@@ -267,6 +367,5 @@
         }
 </script>
 <?php
-
-
+        
 ?>
