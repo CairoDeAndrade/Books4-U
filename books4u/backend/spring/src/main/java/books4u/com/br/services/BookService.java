@@ -12,7 +12,6 @@ import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import books4u.com.br.dto.CreatedDto;
 import books4u.com.br.dto.UpdatedDto;
 import books4u.com.br.dto.book.BookDto;
 import books4u.com.br.dto.book.BookInsertDto;
@@ -75,32 +74,37 @@ public class BookService {
 	
 	@Transactional(readOnly = true)
 	public List<BookDto> findByName(String name){
-		List<Book> list = bookRepository.findByBookName(name);
-		return list.stream().map(x -> new BookDto(
-				x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
-				x.getBooksLocalization()))
-				.collect(Collectors.toList()); 
+		try {
+			List<Book> list = bookRepository.findByBookName(name);
+			return list.stream().map(x -> new BookDto(
+					x, x.getGenre(), x.getPublishingCompany(), x.getAuthor(),
+					x.getBooksLocalization()))
+					.collect(Collectors.toList());
+		}
+		catch (IllegalArgumentException e) {
+			throw new IllegalArgumentException("Illegal argument in search field");
+		}
+		 
 	}
 	
 	@Transactional
-	public CreatedDto insert(BookInsertDto dto) {
-		CreatedDto created = new CreatedDto(false);
+	public Boolean insert(BookInsertDto dto) {
 		Book book = bookRepository.findOneBookByIsbn(dto.getBookIsbn());
 				
 		if (book != null) {
 			Book newBook = new Book();
 			newBook = copyBookToNewOne(book, newBook);	
 			bookRepository.save(newBook);
-			created.setCreated(true);
+			return true;
 		}
-		else {	
+		try {	
 			Book newBook = new Book();
 			newBook = copyInsertDtoToEntity(dto, newBook);
 			
 			// drop down menu
 			newBook.setGenre(genreRepository.findOneGenreByName((dto.getGenreName())));
 			
-			newBook.setAuthor(authorRepository.findOneAuthorByName(newBook.getBookName()));
+			newBook.setAuthor(authorRepository.findOneAuthorByName(dto.getAuthorName()));
 			if (newBook.getAuthor() == null) {
 				Author author = new Author(null, dto.getAuthorName(), true);
 				author = authorRepository.save(author);
@@ -124,9 +128,11 @@ public class BookService {
 			}
 			
 			newBook = bookRepository.save(newBook);
-			created.setCreated(true);
+			return true;
 		}
-		return created;
+		catch (RuntimeException e) {
+			return false;
+		}
 	}
 	
 	@Transactional

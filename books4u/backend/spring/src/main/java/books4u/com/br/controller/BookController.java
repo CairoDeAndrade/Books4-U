@@ -54,7 +54,7 @@ public class BookController {
 	
 	@PostMapping("/insert")
 	public ResponseEntity<CreatedDto> insert(@RequestBody BookInsertDto bookDto){
-		CreatedDto dto = service.insert(bookDto);
+		CreatedDto dto = new CreatedDto(service.insert(bookDto));
 		return ResponseEntity.ok().body(dto);
 	}
 	
