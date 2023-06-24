@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href="/books4u/frontend/screens/css/loan.css">
+    <title>Cadastrar Empréstimo</title>
+</head>
+<body>
+    <br><br><br><br>
+    <div id="quadrado">
+        <form method="POST" id="form">
+            <br>
+            <legend class="legenda">Cadastrar Empréstimo</legend>
+                <br>
+                <input type="text" name="bookIsbn" id="isbn" class="inputUser" placeholder="ISBN:" required maxlength="13">
+                <br><br>
+                <br><br>
+               <input type="text" name="studentEnrollment" class="inputUser" placeholder="Matrícula:" required maxlength="10">
+               <br><br>
+               <br><br>
+               <input type="date" name="startDate" class="inputIser" required>
+               <br><br>
+               <br><br>
+               <input type="date" name="endDate" class="inputIser" required>
+               <br><br>
+               <br><br>
+               <input type="submit" name="btnRegisterLoan" class="inputUser" value="Cadastar" id="btnRegisterLoan">
+        </form>
+    </div>
+</body>
+</html>

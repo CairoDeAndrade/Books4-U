@@ -1,9 +1,9 @@
 <?php
 
         if(isset($_POST['btnDelete'])){
-            $id = $_POST['idBook'];
+            $idStudent = $_POST['idStudent'];
 
-                $url = 'http://26.2.87.114:8080/books/delete/'.$id; 
+            $url = 'http://26.2.87.114:8080/students/delete/'.$idStudent; 
                 $ch = curl_init($url);
                 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
                 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -22,5 +22,7 @@
                         $_SESSION['deleted'] = true;
                         header('Location:index.php');
                 }
+
         }
+
 ?>

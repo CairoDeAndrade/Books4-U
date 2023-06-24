@@ -4,24 +4,89 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel='stylesheet' href="estilo5.css">
+    <link rel='stylesheet' href="../css/estilo5.css">
     <title>Cadastrar Aluno</title>
 </head>
+<style>
+    body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-image: url('http://26.155.119.91/books4u/frontend/designs/Fundo%20Sistema.jpg');
+    background-size: 100%;
+}
+#quadrado{
+    width: 700px;
+    height: 450px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%
+}
+.inputUser{
+    margin-top: 10%;
+    position: absolute;
+    outline: none;
+    color: black;
+    font-size: 15px;
+    width: 94%;
+    height: 10%;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 2px 3px 7px black;
+}
+.btn{
+    margin-left: 18%;
+    padding: 10px;
+	width: 60%;
+	border-radius: 50px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	background: #007146;
+	cursor: pointer;
+    opacity: 0.5;
+    margin-top: 17%;
+    height: 50px;
+}
+.btn:hover{
+    opacity: 1;
+}
+.legenda{
+    font-size: 35px;
+    text-align: center;
+    color: #049760;
+    font-weight: bold;
+    text-shadow: 2px 1px 1px black;
+}
+input::placeholder{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+input{
+    background-color: #d3f1e6;
+}
+
+</style>
 <body>
     <div id="quadrado">
-        <form action="">
+        <form METHOD="POST">
             <br>
             <legend class="legenda">Cadastrar Aluno</legend>
-                <input type="text" name="student_fullname" id="student_fullname" class="inputUser" placeholder="student_fullname:" required>
+                <input type="text" name="studentFullname" id="student_fullname" class="inputUser" placeholder="Nome Completo:" required>
                 <br><br>
                 <br><br>
-                <input type="text" name="student_enrollment" id="student_enrollment" class="inputUser"  placeholder="student_enrollment:" required>
+                <input type="text" name="studentEnrollment" id="student_enrollment" class="inputUser"  placeholder="Matrícula:" required>
+                <br><br>
+                <br><br><br><br><br><br>
+                <select type="text" name="classroom" id="classroom" class="inputUser" required><option value="0"></option></select>
                 <br><br>
                 <br><br>
-                <input type="text" name="classroom" id="classroom" class="inputUser"  placeholder="classroom:" required>
-                <br><br>
-                <br><br>
-                <input type="submit" class="btn" name="submit" id="submit" value="cadastrar">
+                <input type="submit" class="btn" name="btnRegisterStudent" id="submit" value="cadastrar">
         </form>
     </div>
 </body>
