@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
 import books4u.com.br.services.exceptions.DatabaseException;
-import books4u.com.br.services.exceptions.InvalidArgumentException;
+import books4u.com.br.services.exceptions.LoanException;
 import books4u.com.br.services.exceptions.ResourceNotFoundException;
 
 @ControllerAdvice
@@ -40,13 +40,13 @@ public class ResourceExceptionHandler {
 		return ResponseEntity.status(status).body(err);
 	}
 	
-	@ExceptionHandler(InvalidArgumentException.class)
-	public ResponseEntity<StandardError> argument(InvalidArgumentException e, HttpServletRequest request) {
+	@ExceptionHandler(LoanException.class)
+	public ResponseEntity<StandardError> argument(LoanException e, HttpServletRequest request) {
 		HttpStatus status = HttpStatus.BAD_REQUEST;
 		StandardError err = new StandardError();
 		err.setTimestamp(Instant.now());
 		err.setStatus(status.value());
-		err.setError("Invalid argument");
+		err.setError("Exeção ao fazer o empréstimo");
 		err.setMessage(e.getMessage());
 		err.setPath(request.getRequestURI());
 		return ResponseEntity.status(status).body(err);

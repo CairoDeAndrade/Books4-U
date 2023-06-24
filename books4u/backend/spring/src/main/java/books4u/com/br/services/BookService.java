@@ -102,7 +102,7 @@ public class BookService {
 			newBook = copyInsertDtoToEntity(dto, newBook);
 			
 			// drop down menu
-			newBook.setGenre(genreRepository.findOneGenreByName((dto.getGenreName())));
+			newBook.setGenre(genreRepository.findByGenreName((dto.getGenreName())));
 			
 			newBook.setAuthor(authorRepository.findOneAuthorByName(dto.getAuthorName()));
 			if (newBook.getAuthor() == null) {
@@ -140,7 +140,10 @@ public class BookService {
 		try {
 			Book entity = bookRepository.getReferenceById(id);
 			copyDtoToEntity(dto, entity);
-			entity.setGenre(genreRepository.save(entity.getGenre()));
+			entity.setGenre(genreRepository.findByGenreName(dto.getGenre().getName()));
+			if (entity.getGenre() == null) {
+				throw new DatabaseException("Gênero selecionado não existe");
+			}
 			entity.setBooksLocalization(blRepository.save(entity.getBooksLocalization()));
 			entity = bookRepository.save(entity);
 			return new UpdatedDto(true);

@@ -17,14 +17,21 @@ public interface BookRepository extends JpaRepository<Book, Long>{
 			+ "ORDER BY book_copy DESC LIMIT 1")
 	Book findOneBookByIsbn(Long isbn);
 	
+	List<Book> findByBookIsbn(Long bookIsbn);
+	
+	@Query(nativeQuery = true, value =
+			"SELECT * FROM book_hml.tb_books "
+			+ "WHERE book_name = :name AND book_borrowed = false"
+			+ "ORDER BY book_copy ASC LIMIT 1")
+	Book findOneBookByName(String name);
+	
+	@Query("SELECT obj FROM Book obj"
+			+ " WHERE obj.bookName LIKE %:name%"
+			+ " ORDER BY obj.bookCopy DESC")
+	List<Book> findByBookName(String name);
+
 	@Query(nativeQuery = true, value =
 			"SELECT * FROM book_hml.tb_books "
 			+ "ORDER BY id_book DESC LIMIT :amount")
-	List<Book> findAllDynamic(Integer amount);
-	
-	List<Book> findByBookIsbn(Long bookIsbn);
-	
-	@Query("SELECT b FROM Book b WHERE b.bookName "
-			+ "LIKE %:name% ORDER BY b.bookCopy DESC")
-	List<Book> findByBookName(String name);
+	List<Book> findAllDynamic(Integer amount);	
 }

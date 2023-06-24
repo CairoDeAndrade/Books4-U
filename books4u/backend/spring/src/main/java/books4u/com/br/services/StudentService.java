@@ -1,13 +1,16 @@
 package books4u.com.br.services;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 import javax.persistence.EntityNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
-import books4u.com.br.dto.CreatedDto;
 import books4u.com.br.dto.UpdatedDto;
 import books4u.com.br.dto.student.StudentDto;
 import books4u.com.br.dto.student.StudentInsertDto;
@@ -27,38 +30,46 @@ public class StudentService {
 	
 	@Autowired
 	private ClassRepository classRepository;
+	
+	@Transactional(readOnly = true)
+	public List<StudentDto> finadAllDynamic(Integer amount){
+		List<Student> list = repository.findAllDynamic(amount);
+		return list.stream().map(x -> new StudentDto(x, x.getClassroom())).collect(Collectors.toList());
+	}
 
+	@Transactional(readOnly = true)
 	public StudentWithClassDto findByEnrollment(Long enrollment) {
 		Student entity = repository.findByStudentEnrollment(enrollment);
 		return new StudentWithClassDto(entity, entity.getClassroom());
 	}
-
-	public StudentWithClassDto findByName(String name) {
-		Student entity = repository.findByStudentFullname(name);
-		return new StudentWithClassDto(entity, entity.getClassroom());
+	@Transactional(readOnly = true)
+	public List<StudentWithClassDto> findByName(String name) {
+		List<Student> list = repository.findByFullname(name);
+		return list.stream().map(x -> new StudentWithClassDto(x, x.getClassroom())).collect(Collectors.toList());
 	}
 
-	public CreatedDto insert(StudentInsertDto dto) {
-		CreatedDto created = new CreatedDto(false);
-		Classroom classroom = classRepository.findByClassroomYear(dto.getClassroomNumber());
-		if (classroom != null) {
+	public Boolean insert(StudentInsertDto dto) {
+		try {
+			Classroom classroom = classRepository.findByClassroomYear(dto.getClassroomNumber());
 			Student entity = new Student();
 			copyInsertDtoToEntity(dto, entity);
 			entity.setClassroom(classroom);
 			entity = repository.save(entity);
-			created.setCreated(true);
+			return true;
 		}
-		else {
+		catch (EntityNotFoundException e) {
 			throw new ResourceNotFoundException("Entity not found: " + dto.getClassroomNumber());
 		}
-		return created;
 	}
 	
 	public UpdatedDto update(Long id, StudentDto dto) {
 		try {
 			Student entity = new Student();
 			copyDtoToEntity(dto, entity);
-			entity.setClassroom(classRepository.save(entity.getClassroom()));
+			entity.setClassroom(classRepository.findByClassroomYear(dto.getClassroom().getYear()));
+			if (entity.getClassroom() == null) {
+				throw new DatabaseException("Sala selecionada não existe");
+			}
 			entity = repository.save(entity);
 			return new UpdatedDto(true);
 		}

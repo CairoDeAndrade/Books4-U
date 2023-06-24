@@ -1,5 +1,7 @@
 package books4u.com.br.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -26,21 +28,27 @@ public class StudentConroller {
 	@Autowired
 	private StudentService service;
 	
-	@GetMapping("/matricula={enrollment}")
+	@GetMapping("/{amount}")
+	public ResponseEntity<List<StudentDto>> findAllDynamic(@PathVariable Integer amount){
+		List<StudentDto> list = service.finadAllDynamic(amount);
+		return ResponseEntity.ok().body(list);
+	}
+	
+	@GetMapping("/enrollment={enrollment}")
 	public ResponseEntity<StudentWithClassDto> findByEnrollment(@PathVariable Long enrollment){
 		StudentWithClassDto student = service.findByEnrollment(enrollment);
 		return ResponseEntity.ok().body(student);
 	}
 	
 	@GetMapping("/name={name}")
-	public ResponseEntity<StudentWithClassDto> findByName(@PathVariable String name){
-		StudentWithClassDto student = service.findByName(name);
-		return ResponseEntity.ok().body(student);
+	public ResponseEntity<List<StudentWithClassDto>> findByName(@PathVariable String name){
+		List<StudentWithClassDto> students = service.findByName(name);
+		return ResponseEntity.ok().body(students);
 	}
 	
 	@PostMapping("/insert")
 	public ResponseEntity<CreatedDto> insert(@RequestBody StudentInsertDto dto){
-		CreatedDto created = service.insert(dto);
+		CreatedDto created = new CreatedDto(service.insert(dto));
 		return ResponseEntity.ok().body(created);
 	}
 	
