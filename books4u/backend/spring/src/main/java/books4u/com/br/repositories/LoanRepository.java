@@ -9,8 +9,8 @@ import books4u.com.br.entities.Loan;
 @Repository
 public interface LoanRepository extends JpaRepository<Loan, Long>{
 	
-//	@Query("SELECT obj FROM Loan obj "
-//			+ "WHERE obj.book.idBook = :bookId "
-//			+ "AND obj.student.idStudent = studentId")
-//	Loan findLoanByBookAndStudent(Long bookId, Long studentId);
+	@Query("SELECT obj FROM Loan obj "
+			+ "WHERE obj.book.idBook = :bookId "
+			+ "AND obj.student.idStudent = :studentId")
+	Loan findLoanByBookAndStudent(Long bookId, Long studentId);
 }
