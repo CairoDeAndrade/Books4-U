@@ -1,5 +1,6 @@
 package books4u.com.br.dto.loan;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 import books4u.com.br.dto.book.BookDto;
@@ -8,7 +9,10 @@ import books4u.com.br.entities.Book;
 import books4u.com.br.entities.Loan;
 import books4u.com.br.entities.Student;
 
-public class LoanDto {
+public class LoanDto implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+	
 	private Long id;
 	private Integer startDate;
 	private Integer endDate;

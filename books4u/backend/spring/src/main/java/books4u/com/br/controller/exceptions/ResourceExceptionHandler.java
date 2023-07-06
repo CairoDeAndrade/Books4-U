@@ -42,7 +42,7 @@ public class ResourceExceptionHandler {
 	
 	@ExceptionHandler(LoanException.class)
 	public ResponseEntity<StandardError> argument(LoanException e, HttpServletRequest request) {
-		HttpStatus status = HttpStatus.BAD_REQUEST;
+		HttpStatus status = HttpStatus.NOT_FOUND;
 		StandardError err = new StandardError();
 		err.setTimestamp(Instant.now());
 		err.setStatus(status.value());

@@ -17,9 +17,10 @@ public interface BookRepository extends JpaRepository<Book, Long>{
 			+ "ORDER BY book_copy DESC LIMIT 1")
 	Book findOneBookByIsbn(Long isbn);
 	
-	@Query("SELECT obj FROM Book obj "
-			+ "WHERE obj.bookIsbn = :isbn "
-			+ "AND obj.bookBorrowed = false")
+	@Query(nativeQuery = true, value =
+			"SELECT * FROM book_hml.tb_books "
+			+ "WHERE book_isbn = :isbn "
+			+ "AND tb_books.book_borrowed = false LIMIT 1")
 	Book findNotBorrowedBookByIsbn(Long isbn);
 	
 	List<Book> findByBookIsbn(Long isbn);

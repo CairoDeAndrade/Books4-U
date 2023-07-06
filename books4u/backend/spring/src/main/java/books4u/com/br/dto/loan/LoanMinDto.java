@@ -1,21 +1,25 @@
 package books4u.com.br.dto.loan;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-import books4u.com.br.dto.book.BookDto;
-import books4u.com.br.dto.student.StudentDto;
+import books4u.com.br.dto.book.BookMinDto;
+import books4u.com.br.dto.student.StudentMinDto;
 import books4u.com.br.entities.Book;
 import books4u.com.br.entities.Loan;
 import books4u.com.br.entities.Student;
 
-public class LoanMinDto {
+public class LoanMinDto implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+	
 	private Long id;
 	private Integer startDate;
 	private Integer endDate;
 	private Double price;
 	
-	private BookDto book;
-	private StudentDto student;
+	private BookMinDto book;
+	private StudentMinDto student;
 	
 	public LoanMinDto() {
 	}
@@ -37,8 +41,8 @@ public class LoanMinDto {
 	
 	public LoanMinDto(Loan entity, Book book, Student student) {
 		this(entity);
-		this.book = new BookDto(book);
-		this.student = new StudentDto(student);
+		this.book = new BookMinDto(book, book.getBooksLocalization());
+		this.student = new StudentMinDto(student);
 	}
 
 	public Long getId() {
@@ -73,19 +77,19 @@ public class LoanMinDto {
 		this.price = price;
 	}
 
-	public BookDto getBook() {
+	public BookMinDto getBook() {
 		return book;
 	}
 
-	public void setBook(BookDto book) {
+	public void setBook(BookMinDto book) {
 		this.book = book;
 	}
 
-	public StudentDto getStudent() {
+	public StudentMinDto getStudent() {
 		return student;
 	}
 
-	public void setStudent(StudentDto student) {
+	public void setStudent(StudentMinDto student) {
 		this.student = student;
 	}
 

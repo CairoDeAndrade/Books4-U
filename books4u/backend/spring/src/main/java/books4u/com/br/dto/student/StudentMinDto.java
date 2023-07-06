@@ -1,51 +1,36 @@
 package books4u.com.br.dto.student;
 
 import java.io.Serializable;
-import java.util.List;
 import java.util.Objects;
 
-import books4u.com.br.dto.classroom.ClassroomDto;
-import books4u.com.br.entities.Classroom;
-import books4u.com.br.entities.Loan;
 import books4u.com.br.entities.Student;
 
-public class StudentDto implements Serializable{
+public class StudentMinDto implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
 	
 	private Long id;
 	private String fullname;
 	private Long enrollment;
-	private Boolean status;
 	
-	private ClassroomDto classroom;
+	private Integer classroomNumber;
 	
-	public StudentDto() {
+	public StudentMinDto() {
 	}
 
-	public StudentDto(Long id, String fullname, Long enrollment, Boolean status) {
+	public StudentMinDto(Long id, String fullname, Long enrollment, Integer classroomNumber) {
 		super();
 		this.id = id;
 		this.fullname = fullname;
 		this.enrollment = enrollment;
-		this.status = status;
+		this.classroomNumber = classroomNumber;
 	}
 	
-	public StudentDto(Student entity) {
+	public StudentMinDto(Student entity) {
 		id = entity.getIdStudent();
 		fullname = entity.getStudentFullname();
 		enrollment = entity.getStudentEnrollment();
-		status = entity.getStudentStatus();
-	}
-	
-	public StudentDto(Student entity, Classroom classroom) {
-		this(entity);
-		this.classroom = new ClassroomDto(classroom);
-	}
-	
-	public StudentDto(Student entity, Classroom classroom, List<Loan> loans) {
-		this(entity);
-		this.classroom = new ClassroomDto(classroom);
+		classroomNumber = entity.getClassroom().getClassroomYear();
 	}
 
 	public Long getId() {
@@ -72,20 +57,12 @@ public class StudentDto implements Serializable{
 		this.enrollment = enrollment;
 	}
 
-	public Boolean getStatus() {
-		return status;
+	public Integer getClassroomNumber() {
+		return classroomNumber;
 	}
 
-	public void setStatus(Boolean status) {
-		this.status = status;
-	}
-
-	public ClassroomDto getClassroom() {
-		return classroom;
-	}
-
-	public void setClassroom(ClassroomDto classroom) {
-		this.classroom = classroom;
+	public void setClassroomNumber(Integer classroom) {
+		this.classroomNumber = classroom;
 	}
 
 	@Override
@@ -101,7 +78,7 @@ public class StudentDto implements Serializable{
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		StudentDto other = (StudentDto) obj;
+		StudentMinDto other = (StudentMinDto) obj;
 		return Objects.equals(id, other.id);
 	}
 }
