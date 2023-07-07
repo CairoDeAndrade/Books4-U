@@ -85,3 +85,41 @@ include_once('C:/xampp/htdocs/books4u/frontend/screens/html/navbar.html');
             </div>
         </div>
 </div>
+<script>
+		const form = document.querySelector('form');
+		const isbnInput = document.querySelector('#isbn');
+		const tituloInput = document.querySelector('#titulo');
+		const autorInput = document.querySelector('#autor');
+		const editoraInput = document.querySelector('#editora');
+		const anoInput = document.querySelector('#ano');
+		const paginasInput = document.querySelector('#paginas');
+
+		isbnInput.addEventListener('input', () => {
+			const isbn = isbnInput.value.replace(/[^0-9]/g, ''); // remove caracteres não numéricos
+			if (isbn.length === 10 || isbn.length === 13) {
+				const url = `https://brasilapi.com.br/api/isbn/v1/${isbn}`;
+
+				fetch(url)
+					.then(response => response.json())
+					.then(data => {
+						if (data.title) {
+							tituloInput.value = data.title;
+						}
+						if (data.authors) {
+							autorInput.value = data.authors[0];
+						}
+						if (data.publisher) {
+							editoraInput.value = data.publisher;
+						}
+                        console.log(data);
+					})
+					.catch(error => console.error(error));
+			} else {
+				tituloInput.value = '';
+				autorInput.value = '';
+				editoraInput.value = '';
+				anoInput.value = '';
+				paginasInput.value = '';
+			}
+		});
+	</script>

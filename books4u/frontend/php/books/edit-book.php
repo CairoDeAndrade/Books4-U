@@ -6,6 +6,7 @@
             $isbn = $_POST['isbnBook'];
             $bookName = strtoupper($_POST['nameBook']);
             $bookStatus = $_POST['bookStatus'];
+            $borrowed = $_POST['borrowed'];
             $genreId = $_POST['genreId'];
             $genreName = strtoupper($_POST['genreName']);
             $publishingCompanyId = $_POST['publishingCompanyId'];
@@ -40,6 +41,7 @@
                 'isbn' => $isbn,
                 'name' => $bookName,
                 'status' => $bookStatus,
+                'borrowed' => $borrowed,
                 'genre' => $arrayGenre,
                 'publishingCompany' => $arrayPublishingCompany,
                 'author' => $arrayAuthor,

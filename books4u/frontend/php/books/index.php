@@ -122,7 +122,8 @@
                                 'copy' =>$data->copy,
                                 'isbn' =>$data->isbn,
                                 'bookName' => $data->name,
-                                'bookStatus' =>$data->status,
+                                'bookStatus' => $data->status,
+                                'borrowed' => $data->borrowed,
                                 'genreId' =>$data->genre->id,
                                 'genreName' =>$data->genre->name,
                                 'publishingCompanyId' =>$data->publishingCompany->id,
@@ -159,6 +160,7 @@
                                 'isbn' =>$data->isbn,
                                 'bookName' => $data->name,
                                 'bookStatus' =>$data->status,
+                                'borrowed' => $data->borrowed,
                                 'genreId' =>$data->genre->id,
                                 'genreName' =>$data->genre->name,
                                 'publishingCompanyId' =>$data->publishingCompany->id,
@@ -194,6 +196,7 @@
                             'isbn' =>$data->isbn,
                             'bookName' => $data->name,
                             'bookStatus' =>$data->status,
+                            'borrowed' => $data->borrowed,
                             'genreId' =>$data->genre->id,
                             'genreName' =>$data->genre->name,
                             'publishingCompanyId' =>$data->publishingCompany->id,
@@ -266,6 +269,7 @@
             <div class="modal-body">
                 <form method='POST' action='edit-book.php'>
                     <input type='text' name='idBook' value='' style='display: none' id='id-book-edit' required>
+                    <input type='text' name='borrowed' value='' style='display: none' id='book-borrowed' required>
                     Número da Cópia: <input type='number' name='copyBook' value='' id='copy-book-edit' required>
                     <br>
                     ISBN : <input type='number' name='isbnBook' value='' id='isbn-book-edit' required>
@@ -349,6 +353,7 @@
             $('#isbn-book-edit').val(id['isbn']);
             $('#name-book-edit').val(id['bookName']);
             $('#book-status-edit').val(id['bookStatus']);
+            $('#book-borrowed').val(id['borrowed']);
             $('#genre-id-edit').val(id['genreId']);
             $('#genre-name-edit').val(id['genreName']);
             $('#publishing-company-id-edit').val(id['publishingCompanyId']);
