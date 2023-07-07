@@ -31,9 +31,13 @@ public class LoanService {
 	
 	@Transactional(readOnly = true)
 	public List<LoanProjection> findAll() {
-//		List<LoanMinDto> dtos = new ArrayList<>();
 		List<LoanProjection> projs = repository.findAllLoansWithBookAndStudent();
-//		copyProjectionToDto(proj, dtos);
+		return projs;
+	}
+	
+	@Transactional(readOnly = true)
+	public List<LoanProjection> findAllLoansByStudent(Long enrollment) {
+		List<LoanProjection> projs = repository.findAllLoansByStudent(enrollment);
 		return projs;
 	}
 	
