@@ -30,5 +30,5 @@ ao acesso rápido e otimizado dos alunos aos livros da biblioteca, incentivando 
  <a href="https://www.linkedin.com/in/gabriel-michelmann-4345a8244/" target="blank">Gabriel Michelmann</a><br>
  <a href="https://www.linkedin.com/in/rafaelcwp/" target="blank">Rafael Henrique</a><br>
  <a href="https://www.linkedin.com/in/ricardoboos/" target="blank">Ricardo Boos</a><br>
- <a href="https://www.linkedin.com/in/vitornollidev/" target="blank">Vitor Hugo nolli</a>
+ <a href="https://www.linkedin.com/in/vitor-hugo-nolli-7a5083234/" target="blank">Vitor Hugo nolli</a>
 
