@@ -20,7 +20,17 @@ public class BooksLocalizationService {
 	@Transactional(readOnly = true)
 	public List<BooksLocalizationMinDto> findAll() {
 		List<BooksLocalization> entities = repository.findAll();
-		return entities.stream().map(x -> new BooksLocalizationMinDto(x))
+		return entities.stream()
+				.map(BooksLocalizationMinDto::new)
 				.collect(Collectors.toList());
+	}
+
+	@Transactional
+	public BooksLocalizationMinDto insert(BooksLocalizationMinDto dto) {
+		BooksLocalization entity = new BooksLocalization();
+		entity.setBookcaseNumber(dto.getBookcaseNumber());
+		entity.setShelf(dto.getShelf());
+		repository.save(entity);
+		return new BooksLocalizationMinDto(entity);
 	}
 }
