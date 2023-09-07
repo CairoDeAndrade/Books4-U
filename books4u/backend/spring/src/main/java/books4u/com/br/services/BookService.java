@@ -197,7 +197,7 @@ public class BookService {
 		newBook.setBookIsbn(book.getBookIsbn());
 		newBook.setBookName(book.getBookName());
 		newBook.setBookStatus(book.getBookStatus());
-		newBook.setBookBorrowed(book.getBookBorrowed());
+		newBook.setBookBorrowed(false);
 		
 		newBook.setGenre(book.getGenre());
 		newBook.setPublishingCompany(book.getPublishingCompany());
