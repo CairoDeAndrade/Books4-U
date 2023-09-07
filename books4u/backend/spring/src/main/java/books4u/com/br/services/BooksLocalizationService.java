@@ -30,7 +30,7 @@ public class BooksLocalizationService {
 		BooksLocalization entity = new BooksLocalization();
 		entity.setBookcaseNumber(dto.getBookcaseNumber());
 		entity.setShelf(dto.getShelf());
-		repository.save(entity);
+		entity = repository.save(entity);
 		return new BooksLocalizationMinDto(entity);
 	}
 }
