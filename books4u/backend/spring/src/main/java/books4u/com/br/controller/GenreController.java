@@ -23,7 +23,7 @@ public class GenreController {
 		return ResponseEntity.ok().body(list);
 	}
 
-	@PostMapping
+	@PostMapping("/insert")
 	public ResponseEntity<GenreMinDto> insert(@RequestBody GenreMinDto dto) {
 		return ResponseEntity.ok().body(service.insert(dto));
 	}
