@@ -28,6 +28,6 @@ public class GenreService {
 	@Transactional(readOnly = true)
 	public Page<GenreDto> findAllPaged(Pageable pageable) {
 		Page<Genre> list = repository.findAll(pageable);
-		return list.map(user -> new GenreDto(user));
+		return list.map(GenreDto::new);
 	}
 }
