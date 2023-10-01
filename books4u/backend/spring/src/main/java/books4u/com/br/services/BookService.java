@@ -142,14 +142,14 @@ public class BookService {
 			copyDtoToEntity(dto, entity);
 			entity.setGenre(genreRepository.findByGenreName(dto.getGenre().getName()));
 			if (entity.getGenre() == null) {
-				throw new DatabaseException("Gênero selecionado não existe");
+				throw new ResourceNotFoundException("Gênero selecionado não existe");
 			}
 			entity.setBooksLocalization(blRepository.save(entity.getBooksLocalization()));
 			entity = bookRepository.save(entity);
 			return new UpdatedDto(true);
 		}
 		catch (EntityNotFoundException e) {
-			throw new ResourceNotFoundException("Id not found: " + id);
+			throw new ResourceNotFoundException("Id não foi achado: " + id);
 		}
 	}
 
@@ -159,10 +159,10 @@ public class BookService {
 			return true;
 		}
 		catch (EmptyResultDataAccessException e) {
-			throw new ResourceNotFoundException("Id not found " + id);
+			throw new ResourceNotFoundException("Id não foi achado:" + id);
 		}
 		catch (DataIntegrityViolationException e) {
-			throw new DatabaseException("Integrity violation");
+			throw new DatabaseException("Violação de integridade");
 		}
 	}
 	

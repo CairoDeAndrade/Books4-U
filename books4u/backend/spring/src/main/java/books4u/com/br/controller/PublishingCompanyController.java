@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/companies")
-public class PublishingCompanyContoller {
+public class PublishingCompanyController {
 
     @Autowired
     private PublishingCompanyService service;
