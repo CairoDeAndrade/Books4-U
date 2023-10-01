@@ -1,5 +1,6 @@
 package books4u.com.br.services;
 
+import java.sql.SQLIntegrityConstraintViolationException;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -90,51 +91,49 @@ public class BookService {
 	@Transactional
 	public Boolean insert(BookInsertDto dto) {
 		Book book = bookRepository.findOneBookByIsbn(dto.getBookIsbn());
-				
+		Book newBook = new Book();
+
 		if (book != null) {
-			Book newBook = new Book();
-			newBook = copyBookToNewOne(book, newBook);	
+            copyBookToNewOne(book, newBook);
+            bookRepository.save(newBook);
+			return true;
+		}
+		try {
+			copyInsertDtoToEntity(dto, newBook);
+
+			newBook.setGenre(genreRepository.findByGenreName((dto.getGenreName())));
+			newBook.setAuthor(authorRepository.findOneAuthorByName(dto.getAuthorName()));
+			newBook.setPublishingCompany(pcRepository.findOnePublishingCompanyByName(dto.getPublishingCompanyName()));
+			newBook.setBooksLocalization(blRepository.findLocalization(dto.getBookcaseNumber(), dto.getShelf()));
+
+			verifyBookAssociations(dto, newBook);
+
 			bookRepository.save(newBook);
 			return true;
+		} catch (Exception e) {
+			throw new ResourceNotFoundException("Gênero selecionado não existe!");
 		}
-		try {	
-			Book newBook = new Book();
-			newBook = copyInsertDtoToEntity(dto, newBook);
-			
-			// drop down menu
-			newBook.setGenre(genreRepository.findByGenreName((dto.getGenreName())));
-			
-			newBook.setAuthor(authorRepository.findOneAuthorByName(dto.getAuthorName()));
-			if (newBook.getAuthor() == null) {
-				Author author = new Author(null, dto.getAuthorName(), true);
-				author = authorRepository.save(author);
-				newBook.setAuthor(author);
-			}
-			
-			newBook.setPublishingCompany(pcRepository
-					.findOnePublishingCompanyByName(dto.getPublishingCompanyName()));
-			if (newBook.getPublishingCompany() == null) {
-				PublishingCompany pc = new PublishingCompany(null, dto.getPublishingCompanyName());
-				pc = pcRepository.save(pc);
-				newBook.setPublishingCompany(pc);
-			}
-			
-			newBook.setBooksLocalization(blRepository.findLocalization(
-					dto.getBookcaseNumber(), dto.getShelf()));
-			if (newBook.getBooksLocalization() == null) {
-				BooksLocalization bl = new BooksLocalization(null, dto.getBookcaseNumber(), dto.getShelf());
-				bl = blRepository.save(bl);
-				newBook.setBooksLocalization(bl);
-			}
-			
-			newBook = bookRepository.save(newBook);
-			return true;
+
+	}
+
+	private void verifyBookAssociations(BookInsertDto dto, Book newBook) {
+		if (newBook.getAuthor() == null) {
+			Author author = new Author(null, dto.getAuthorName(), true);
+			author = authorRepository.save(author);
+			newBook.setAuthor(author);
 		}
-		catch (RuntimeException e) {
-			return false;
+		if (newBook.getPublishingCompany() == null) {
+			PublishingCompany pc = new PublishingCompany(null, dto.getPublishingCompanyName());
+			pc = pcRepository.save(pc);
+			newBook.setPublishingCompany(pc);
+		}
+		if (newBook.getBooksLocalization() == null) {
+			BooksLocalization bl = new BooksLocalization(null, dto.getBookcaseNumber(), dto.getShelf());
+			bl = blRepository.save(bl);
+			newBook.setBooksLocalization(bl);
 		}
 	}
-	
+
 	@Transactional
 	public UpdatedDto update(Long id, BookDto dto) {
 		try {
@@ -166,13 +165,12 @@ public class BookService {
 		}
 	}
 	
-	public static Book copyInsertDtoToEntity(BookInsertDto dto, Book entity) {
+	public static void copyInsertDtoToEntity(BookInsertDto dto, Book entity) {
 		entity.setBookCopy(dto.getBookCopy());
 		entity.setBookIsbn(dto.getBookIsbn());
 		entity.setBookName(dto.getBookName());
 		entity.setBookStatus(dto.getBookStatus());
 		entity.setBookBorrowed(false);
-		return entity;
 	}
 	
 	public static void copyDtoToEntity(BookDto dto, Book entity) {
@@ -192,7 +190,7 @@ public class BookService {
 				dto.getLocalization().getShelf()));
 	}
 	
-	public static Book copyBookToNewOne(Book book, Book newBook) {
+	public static void copyBookToNewOne(Book book, Book newBook) {
 		newBook.setBookCopy(book.getBookCopy() + 1);
 		newBook.setBookIsbn(book.getBookIsbn());
 		newBook.setBookName(book.getBookName());
@@ -203,6 +201,6 @@ public class BookService {
 		newBook.setPublishingCompany(book.getPublishingCompany());
 		newBook.setAuthor(book.getAuthor());
 		newBook.setBooksLocalization(book.getBooksLocalization());
-		return newBook;
 	}
+
 }
